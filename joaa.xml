@@ -2605,15 +2605,8 @@
 				<page>0169-0181</page>
 				<abstract>
 					<p>We have theoretically studied the influence of a far-infrared radiation (FIR) field from Η<sub>II</sub> region on the cooling by C and Ο atoms, C<sup>+</sup> ion and CO molecule in a photodissociation region, and a molecular cloud associated with Η<sub>II</sub> region (hereinafter referred as H<sub>I</sub> region) at low temperatures (𝑇<sub>k</sub> 200 K). Comparisons have been made for cooling with and without FIR for two extreme abundances (10<sup>-4</sup> and 10<sup>-7</sup>) of the mentioned species for temperatures ranging between 10 and 200K and an hydrogen particle density range 10 cm<sup>-3</sup> $\leq$ n<sub>o</sub> 10<sup>7</sup> cm<sup>3</sup>.</p>
-					<p>The cooling by the species with low line-splitting (C I, C II and CO) is
-significantly influenced by the radiation field for temperatures Tk &lt; 100 Κ
-while the effect of radiation field on cooling by Ο I is significant even at
-higher temperatures (Tk > 100 K). The effect of FIR field on the cooling of
-CO from low rotational transitions is negligibly small, whereas it is
-considerable for higher transitions. In general, the cooling terms related to
-the short-wavelength transitions are more affected by FIR than those
-related to longer wavelengths.</p>
-					<p></p>
+					<p>The cooling by the species with low line-splitting (C<sub></sub>I, C<sub>II</sub> and C<sub>O</sub>) is significantly influenced by the radiation field for temperatures 𝑇<sub>k</sub> &lt; 100 Κ while the effect of radiation field on cooling by Ο<sub>I</sub> is significant even at higher temperatures (𝑇<sub>k</sub> &gt; 100 Κ). The effect of FIR field on the cooling of CO from low rotational transitions is negligibly small, whereas it is considerable for higher transitions. In general, the cooling terms related to the short-wavelength transitions are more affected by FIR than those related to longer wavelengths.</p>
+					<p>It is also demonstrated here that in the determination of thermal structure of an Η<sub>I</sub> region the dust grains play an important role in the heating of gas only through photoelectron emission following irradiation by far-ultraviolet (FUV) radiation, as the infrared radiation from the dust is too small to have substantial effect on the cooling. It is found that in the Η<sub>II</sub>/H<sub>I</sub> interface the FIR field from grains in the Η<sub>II</sub> region is not capable of modifying the temperature of the warmest regions but does so in the inner part where the temperature is low enough.</p>
 				</abstract>
 				<keywords>molecular clouds, cooling;Η I regions;far-infrared radiation</keywords>
 				<authors>
@@ -2638,7 +2631,7 @@ related to longer wavelengths.</p>
 				<feature>Articles</feature>
 				<page>0183-0194</page>
 				<abstract>
-					<p></p>
+					<p>The behaviour of the 𝜆4686 line of He II in various WN binaries is studied for variations in total flux as well as radial velocities. It appears that the true motion of the WN component is not depicted by this line especially for short-period binaries. Α qualitative explanation is sought in terms of a large, extended line-emitting region and multiple-component line profile.</p>
 				</abstract>
 				<keywords>stars, emission-line;stars, binaries;stars, WN-type</keywords>
 				<authors>
@@ -2658,7 +2651,8 @@ related to longer wavelengths.</p>
 				<feature>Articles</feature>
 				<page>0195-0209</page>
 				<abstract>
-					<p></p>
+					<p>The evolution of the spectrum of SN1987a is traced from 1987 February 26 to March 31. Based on the low-resolution spectroscopic data we identify the lines of H, He<sub>I</sub>, Na<sub>I</sub>, Fe<sub>II</sub>, Sc<sub>II</sub>, Ca<sub>II</sub> which are known to be present in Type II Supernovae, and also present evidence for the existence of lines of Mg<sub>I</sub>, Ca<sub>I</sub>, Ο<sub>I</sub>, and Ν<sub>I</sub>. We discuss the evolution of the H𝛼 profile, and draw attention to its complex structure around March 30. Close to the rest wavelength of Hα a double-peaked structure appeared in the profile with a peak-to-peak separation of ~ 1400 km s<sup>-1</sup>, suggestive of an expanding shell or disc of gas.</p>
+					<p>Using the available broadband photometric information, we also trace the evolution of the photosphere of SN1987a assuming that it radiates like a supergiant.</p>
 				</abstract>
 				<keywords>Supernovae, spectra;Supernovae, SN1987a</keywords>
 				<authors>
@@ -2715,7 +2709,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0211-0217</page>
 				<abstract>
-					<p></p>
+					<p>Based on maps of the extragalactic radio sources Cyg A, Her A, Cen A, 3C 277.3 and others, arguments are given that the twin-jets from the respective active galactic nucleus ram their channels repeatedly through thin, massive shells. The jets are thereby temporarily choked and blow radio bubbles. Warm shell matter in the cocoon shows up radio-dark through electron-scattering.</p>
 				</abstract>
 				<keywords>jets;lobes;shells around galaxies;Cyg A;Her A;radio bubbles</keywords>
 				<authors>
@@ -2740,7 +2734,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0219-0226</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric and photographic photometry of twenty-nine stars was done in the field of the open cluster Collinder 97 ≡ OC1 506. Of these stars, a total of twenty-four have been found to be possible members. There is apparently no interstellar extinction in the direction of this cluster which is in the constellation of Monoceros: its 𝐸(𝐵 – 𝑉) = 0.0 mag. This cluster is situated at a distance of 0.63 ± 0.01 kpc, which is well within the local arm of our Galaxy. The age of this cluster is in the range of $1 \times 10^8$ to $5.9 \times 10^8$ yr, which puts it in an older age group. Thus, it cannot be specifically considered as a spiral-arm tracer in the study of our Galaxy.</p>
 				</abstract>
 				<keywords>A Study of Faint Young Open Clusters as Tracers of Spiral Features in our Gala xy Paper 3: Collinder 97 (OCl 506)</keywords>
 				<authors>
@@ -2760,7 +2754,8 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0227-0230</page>
 				<abstract>
-					<p></p>
+					<p>VLA observations at 6 cm have been obtained for three hydrogen-deficient objects υ Sgr, V 348 Sgr, and A bell 58. A bell 58 was also observed at 2 cm. Only upper limits to the flux density could be set for these sources. A new radio source at 6 cm was found in the field of 𝑣 Sgr.</p>
+					<p>The upper limit for 6 cm flux density of V348 Sgr sets an upper limit to its reddening as 𝐸(𝐵 —𝑉) $leq$ 0.65. The hydrogen deficient planetary nebula A 58 shows much lower radio flux than expected from the infrared-radio flux density relationship of planetary nebulae.</p>
 				</abstract>
 				<keywords>stars, hydrogen-deficient;stars, radio observations;stars, individual;planetary nebulae</keywords>
 				<authors>
@@ -2790,7 +2785,15 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0231-0239</page>
 				<abstract>
-					<p></p>
+					<p>Image processing performed on a series of photographs of the superluminal Seyfert galaxy, 3C 120, shows the outer optical disc to consist of fragmented segments generally pointing toward the centre. One long arm of peculiar, separated knots comes off to the W and SW. A peculiar companion is seen along the line of the NW radio jet. In the interior, optical jets are detected which are aligned along the direction of the outer radio jets</p>
+					<p>A region of the sky $45 \times 25$ degrees around 3C120 is investigated. It is found that:</p>
+					<ol>
+						<li>A nebulous filament about 3/4 degree in length points to 3C 120.</li>
+						<li>Hydrogen clouds of redshift 𝑧 = – 130 and – 210 km s<sup>-1</sup> are situated at 3 and 1 degrees on either side of 3C 120.</li>
+						<li>Eleven low-surface-brightness galaxies with 4500 &lt; 𝑧 &lt; 5300 km s<sup>-1</sup> fall within a radius of 8 degrees.</li>
+						<li> Seven quasars with $z \gtrsim 1.35$ and radio fluxes $S_b \gtrsim 0.3$ fall within a radius of 10 degrees.</li>
+					</ol>
+					<p>It is concluded that the concentration of these objects in the vicinity of this unique, active galaxy has a negligible chance of being accidental and that all those objects of diverse redshift are at the same nearby distance. This smaller distance reduces the supposed superluminal motions in 3C 120 to quite precedented ejection velocities.</p>
 				</abstract>
 				<keywords>galaxies, Seyfert;radio sources, extragalactic;quasars, alignment</keywords>
 				<authors>
@@ -2810,7 +2813,10 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0241-0255</page>
 				<abstract>
-					<p></p>
+					<p>Galaxies of redshift 𝑧 \lesssim 1000$ km s<sup>-1</sup> are investigated. In the South Galactic Hemisphere there are two large concentrations of these  galaxies. One is in the direction of the centre of the Local Group, roughly aligned with Μ 31 and Μ 33. The other concentration is centred almost 80 degrees away on the sky and involves the next nearest galaxies to the Local Group, NGC 55, NGC 300 and NGC 253.</p>
+					<p>The large scale and isolation of these concentrations, and the continuity of their redshifts require that they are all galaxies at the same, relatively close distance of the brightest group members. The fainter members of the group have higher redshifts, mimicking to some extent a Hubble relation. But if they are all at the same average distance the higher redshifts must be due to a cause other than velocity.</p>
+					<p>The redshifts of the galaxies in the central areas of these groups all obey a quantization interval of $\Delta cz_0 = 72.4$ kms<sup>-1</sup>. This is the same quantization found by William Tifft, and later by others, in all physical groups and pairs which have been tested. The quantization discovered here, however, extends over a larger interval in redshift than heretofore encountered.</p>
+					<p>The majority of redshifts used in the present analysis are accurate to ± 8 km s<sup>-1</sup>. The deviation of those redshifts from multiples of 72.4 km s<sup>-1</sup> averages ± 8.2 km s<sup>-1</sup>. The astonishing result, however, is that for those redshifts which are known more accurately, the deviation from modulo 72.4 drops to a value between 3 and 4 km s<sup>-1</sup>! The amount of relative velocity allowed these galaxies is therefore implied to be less than this extremely small value.</p>
 				</abstract>
 				<keywords>redshifts, quantization;galaxies, Local Group;galaxies, Sculptor Group</keywords>
 				<authors>
@@ -2830,7 +2836,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0257-0262</page>
 				<abstract>
-					<p></p>
+					<p>Recent work on the violent relaxation of collisionless stellar systems has been based on the notion of a wide class of entropy functions. A theorem concerning entropy increase has been proved. We draw attention to some underlying assumptions that have been ignored in the applications of this theorem to stellar dynamical problems. Once these are taken into account, the use of this theorem is at best heuristic. We present a simple counter-example.</p>
 				</abstract>
 				<keywords>collisionless stellar systems, violent relaxation;entropy increase</keywords>
 				<authors>
@@ -2850,7 +2856,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0263-0270</page>
 				<abstract>
-					<p></p>
+					<p>Evolution of energy and angular distributions of electrons has been studied by combining small-angle analytical treatment with large-angle Monte Carlo calculations as a function of column density for initially monoenergetic and monodirectional electrons. The incident electron energies considered are 20, 30 and 60 keV at 0°, 30° and 60° angles of incidence. Using these distributions, time evolution of extreme ultraviolet (EUV) spectrum has been studied. The slopes of the curves calculated compare well with the experimentally observed curve.</p>
 				</abstract>
 				<keywords>Sun, X-ray bursts;Sun, EUV flares</keywords>
 				<authors>
@@ -2885,7 +2891,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0271-0274</page>
 				<abstract>
-					<p></p>
+					<p>Based on a simple picture of speckle phenomena in optical interferometry it is shown that the recent signal-to-noise ratio estimate for the so called bispectrum, due to Wirnitzer (1985), does not possess the right limit when photon statistics is unimportant. In this wave-limit, which is true for bright sources, his calculations over-estimate the signal-to-noise ratio for the bispectrum by a factor of the order of the square root of the number of speckles.</p>
 				</abstract>
 				<keywords>speckle interferometry;bispectrum;signal-to-noise ratio</keywords>
 				<authors>
@@ -2912,7 +2918,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0275-0280</page>
 				<abstract>
-					<p></p>
+					<p>We show that, the part of the universe that is observable today (in principle), could not have evolved out of a domain which was causally connected in the past. This and other issues related to horizon problem in inflationary models are discussed.</p>
 				</abstract>
 				<keywords>cosmology, inflationary models—universe, horizon problem</keywords>
 				<authors>
@@ -2937,7 +2943,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0281-0294</page>
 				<abstract>
-					<p></p>
+					<p>The refraction of radio waves as they traverse through the terrestrial ionosphere and troposphere introduces a differential phase path which results for a radio interferometer in variations of the visibility phase. Though refraction due to troposphere is significant for synthesis radio telescopes operating at 1.0 GHz and above, ionospheric refraction is dominant at lower frequencies. This problem is important in the case of Ooty Synthesis Radio Telescope (OSRT) operating at 326.5 MHz, due to its proximity to the magnetic equator. This paper deals with the nature of phase variations suffered by OSRT due to refraction and explains the methodology evolved to alleviate them.</p>
 				</abstract>
 				<keywords>radio interferometers;visibility;ionosphere;refraction</keywords>
 				<authors>
@@ -2957,7 +2963,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0295-0303</page>
 				<abstract>
-					<p></p>
+					<p>The H𝛼 observations of a flare-associated surge prominence on 1980 October 30 have been described. Morphology and dynamics of the surge prominence have been presented. From our observations and analysis we have estimated the magnetic field associated with surge material to be about 35 gauss which is in good agreement with the earlier result of Tandberg-Hanssen &amp; Malville (1974). It has been determined that coronal pressure is not acting as a resistive force on the outward expansion of the surge into the corona. The kinetic energy of the surge was about 10<sup>28</sup> erg, which is 2 orders less than required for the mass to escape the chromosphere. It appears that the flare-associated surge prominence was perhaps a result of kink instability in the flaring region.</p>
 				</abstract>
 				<keywords>solar flare;surge prominence;mass ejection;magnetic field;kink instability</keywords>
 				<authors>
@@ -2982,7 +2988,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0305-0314</page>
 				<abstract>
-					<p></p>
+					<p>The thermosolutal-convective instability of a stellar atomsphere is studied in the presence of suspended particles. The criteria for monotonic instability are derived and are found to hold good also in the presence of uniform rotation and uniform magnetic field on the thermosolutal-convective instablity. The thermosolutal-convective instability of a stellar atmosphere is also studied in the presence of suspended particles and radiative transfer effects and the criteria for monotonic instability are obtained in terms of source function.</p>
 				</abstract>
 				<keywords>stellar atmosphere;thermosolutal-convective instability;suspended particles</keywords>
 				<authors>
@@ -3007,7 +3013,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0315-0329</page>
 				<abstract>
-					<p></p>
+					<p>We present here, for the O and B type stars in the Catalogue of Stellar Ultraviolet Fluxes, an approach which does not require a precise knowledge of spectral type and luminosity class for deriving 𝐸(𝐵-𝑉) colour excesses. The method is based on the use of an UV-visual two-colour diagram; galactic variations in the interstellar extinction law are analyzed and fully taken into account. Our results have been compared with those derived by using the differences between observed and intrinsic colours for stars with known spectral classification. The very good agreement in a large number of cases (94 per cent) demonstrates that our approach permits the derivation of reliable colour excess values for early type stars even if only a rough spectral classification is available.</p>
 				</abstract>
 				<keywords>interstellar medium, extinction;stars, colours of;ultraviolet observations.</keywords>
 				<authors>
@@ -3037,7 +3043,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0331-0341</page>
 				<abstract>
-					<p></p>
+					<p>Using a direct numerical procedure we approximate a `realistic' potential for an elliptical galaxy by that of a perturbed harmonic oscillator. The quality of fitting is checked using two criteria. First by computing the value of the fitting parameter 𝑓, and second by comparing the behaviour of orbits for the two potentials. Both criteria suggest that the fitting is good when the total energy ℎ is smaller than the energy of escape in the unharmonic potential.</p>
 				</abstract>
 				<keywords>galactic potentials;elliptical galaxies;stellar dynamics</keywords>
 				<authors>
@@ -3062,7 +3068,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0343-0350</page>
 				<abstract>
-					<p></p>
+					<p>A mixture of off-centred Gaussians is used to approximate the predicted monochromatic point spread functions (PSFs) of Hubble space telescope (HST) at long wavelengths, and also, with a reduced number of parameters, the wide-band PSFs. The usefulness of the approximation in simulation and analysis of HST data is shown by means of application to image centring and convolution-deconvolution problems.</p>
 				</abstract>
 				<keywords>An Analytical Approximation of the Hubble Space Telescope Monochromatic Point Spread Functions</keywords>
 				<authors>
@@ -3092,7 +3098,10 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0351-0367</page>
 				<abstract>
-					<p></p>
+					<p>Described here is a preliminary and tentative application of a method for fine-classification of stars, selected for studies of galactic structure. The present investigation is based on about 100 stars within the approximate spectral type range B6–A5, for which both spectra and UBV photometry have been obtained.</p>
+					<p>The motivation of the project is the following: For the study of galactic fine-structure it is essential to use as many members as possible of stellar agglomerations of various type for a statistical treatment of the meterial. A-type stars are fairly numerous and reasonably bright, but if all chemically peculiar stars, fast rotators or multiple systems have to be omitted there is generally too little left for a relevant investigation. Here we perform some experiments in order to find a method for fine-classification of A stars, both normal and chemically peculiar, within the framework of the M K system.</p>
+					<p>In this connection it is desirable to reduce the present multitude of CP classifications to a manageable number. It is shown here that, independenttly of the definition of the degree of peculiarity, there is no sharp borderline separating the CP stars from the `normal' ones.</p>
+					<p>Also it is found that spectral classification can on an average be performed with almost the same accuracy for CP stars as for the ‘normal’ ones provided cases of extreme peculiarity are avoided.</p>
 				</abstract>
 				<keywords>spectral classification;CP stars;galactic structure</keywords>
 				<authors>
@@ -3118,7 +3127,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0369-0387</page>
 				<abstract>
-					<p></p>
+					<p>Optical spectroscopic data are presented on nova LW Serpentis 1978, obtained during its decline from 𝑉 9.0 to $\simeq$ 10.2 (compared to a value of ∼ 8.0 at recorded maximum). The spectrum and its evolution compare well with a typical nova, though the principal absorption (∼ - 750 km s<sup>-1</sup>) was very weak in comparison with the diffuse-enhanced absorption (∼ -1300 km s<sup>-1</sup>). The principal absorption could be identified only in the lines of O I 𝜆𝜆7774, 8446, and in moderate-resolution observations of H𝛼. The salient features of spectral evolution follow: The near-infrared triplet of Ca II continuously weakened O I 𝜆8446 was always brighter than O I 𝜆 7774, indicating continued importance of Lyman 𝛽 fluorescence. The lines due to [O, I], [N, II] and N II brightened considerably near the end of our observations (37 days from maximum). The H𝛼 emission line was asymmetric all through with more emission towards the red. Its emission provile showed considerable structure. Based on the individual peaks in the H𝛼 line profile, a kinematerial model is proposed for the shell of LW Ser. The model consists of an equatorial ring, and a polar cone on the side away from the earth. The nearer polar cone did not show significant emission of H𝛼 during our observation. The polar axis of the shell is inclined at a small angle $(\sim 15^\circ)$ to the line of sight.</p>
 				</abstract>
 				<keywords>stars, variable;stars, novae;spectroscopy, optical;stars, individual</keywords>
 				<authors>
@@ -3143,9 +3152,9 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0389-0395</page>
 				<abstract>
-					<p></p>
+					<p>𝐵𝑉 photometry HD 116204 obtained on 57 nights during 1983-84, 1984-85 and 1986-87 observing season is presented. A photometric period of 21.9  ± 0.2 d and a mean (𝐵-𝑉)= 1.196 ± 0.010 are obtained. It si suggested that the binary HD 116204 has a mass ratio close to unity. Attempts are needed to detect the spectrum of secondary.</p>
 				</abstract>
-				<keywords>𝐵𝑉 photometry—HD 116204—RS CVn systems</keywords>
+				<keywords>𝐵𝑉 photometry;HD 116204;RS CVn systems</keywords>
 				<authors>
 					<author>
 						<name first="S." last="Mohin">S. Mohin</name>
@@ -3167,9 +3176,7 @@ related to longer wavelengths.</p>
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0397-0401</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3178,9 +3185,7 @@ related to longer wavelengths.</p>
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0402-0407</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3193,9 +3198,7 @@ related to longer wavelengths.</p>
 				<title>Editorial</title>
 				<feature></feature>
 				<page>i</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -3211,7 +3214,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0001-0005</page>
 				<abstract>
-					<p></p>
+					<p>Thermal-convective instability of a hydromagnetic, composite, rotating, inviscid and infinitely conducting plasma in a stellar atmosphere has been studied in the presence of finite Larmor radius. It is found that the criterion for monotonic instability holds good in the presence of the effects due to rotation and finite Larmor radius.</p>
 				</abstract>
 				<keywords>Stellar atmosphere;convective instability, composite plasma</keywords>
 				<authors>
@@ -3231,7 +3234,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0007-0015</page>
 				<abstract>
-					<p></p>
+					<p>In an endeavour to resolve reported discrepancies in the value of the branching ratio of <sup>176</sup>Lu at astrophysical energies, a new determineation of the <sup>175</sup>Lu (𝑛𝛾) <sup>176m</sup>Lu capture cross section has been measured as 958 ± 58 mb. This gives a value of the branching ratio of 0.21 ± 0.05. This result indicates that some reequilibration of the ground and isomeric states of <sup>176</sup>Lu occurs in stellar environments undergoing 𝑠-process nucleosynthesis, and confirms that <sup>176</sup>Lu is not a reliable cosmochronometer. However the very existence of <sup>176</sup> in the solar system implies that the ground state of <sup>176</sup>Lu was not completely depopulated, and provides the possiblity of using this nuclide as a sensitive thermometer for stellar processes.</p>
 				</abstract>
 				<keywords>𝑠-process nucleosynthesis<sup>176</sup>Lu cosmochronometer;branching ratio;nuclear reactions</keywords>
 				<authors>
@@ -3266,7 +3269,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0017-0024</page>
 				<abstract>
-					<p></p>
+					<p>Among the variety of empirical models of optical Point Spread Function used in the astronomical environment, only the Moffat’s (1969) one is able to describe by means of two parameters (in the circular case) both the inner and the outer star image regions. In view of this very important feature, the problem of the simultaneous estimates of Moffat’s PSF shape parameters, off-centring, and the background level in CCD star images has been investigated. The problem does not seem to be rigorously resolvable, but an approximate way to calculate all the parameters except off-centring is shown. It must be stressed that, the Moffat’s PSF model being a softened power law belonging to the family of modified King and Hubble models, the present discussion can be of aid in many other research fields. Also, the integral equation enabling us to convolve a spherical source with Moffat’s PSF is given and applied for comparison to Multi-Gaussian convolution.</p>
 				</abstract>
 				<keywords>point spread functions;CCD photometry</keywords>
 				<authors>
@@ -3296,7 +3299,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0025-0039</page>
 				<abstract>
-					<p></p>
+					<p>We explore the change in the period of axial rotation and in the radius of a magnetized compact star in a binary system, induced by the accretion on it of mass with angular momentum from the surface of its non-compact companion. No specific assumption is made concerning the accretion model, and the primary’s interior is described by the Fermi-Dirac statistics for degenerate matter. The rate of change with time of the period and radius is expressed in terms of the compact primary’s physical parameters and total absolute luminosity. The conditions are fully derived under which the above changes can be positive, negative or even vanish. In the case of the millisecond pulsars in binary X-ray sources the predicted values of the period time derivative, depending on the values of the accretion rate and. the absolute luminosity, can be positive or negative—if not vanishing—and they fall absolutely in the range10<sup>-21</sup> –10<sup>-17</sup> ss<sup>-1</sup>, in good agreement with current observational data. The corresponding rate of change of radius, either positive or negative, fall in the range of 10<sup>-3</sup> -<sup>-1</sup> cm y<sup>-1</sup>. Finally, it is proved that the wellknown bursters can be explained by thermonuclear flash due to gravitational instability in the accreted matter, but their explanation as a result of direct contraction could be possible only for quite high accretion rates $(10^{-7} M \odot y^{-1})$. This last result indicates that, in contrast to the accretion-induced change in period, which can be of either sign irrespective of the primary's age, the accretion-induced non-catastrophic contraction is impossible, while according to repent results the contraction in general is possible for yound compact objects.</p>
 				</abstract>
 				<keywords>binary stars;collapsed stars;period and radius change;accretion</keywords>
 				<authors>
@@ -3317,7 +3320,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0041-0047</page>
 				<abstract>
-					<p></p>
+					<p>Using the line profiles of [Fe x] 6374 Å and [Fe XIV] 5303 Å emission lines observed during five total solar eclipses, we address the problem whether the solar corona is static or contains moving features. Many of the profiles of both emission lines have complicated shapes, which we interpret as an evidence for the existence of many, small, moving features in the corona. The line-of-sight velocities observed by other investigators (<i>e.g.</i> Desai, Chandrasekhar &amp; Angreji 1982) also support this view. On the other hand, about 15 recent interferometric and multislit investigations of coronal emission lines have not shown evidence of moving elements. We suggest that this is due to insufficient spatial resolution.</p>
 				</abstract>
 				<keywords>solar corona, emission line profiles;solar corona, moving features</keywords>
 				<authors>
@@ -3348,7 +3351,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0049-0061</page>
 				<abstract>
-					<p></p>
+					<p>We compute the metric coefficients and study some properties of the spacetime comprising of a Schwarzschild hole distorted by a self gravitating thick disc.</p>
 				</abstract>
 				<keywords>black hole, accretion disc;self gravity</keywords>
 				<authors>
@@ -3368,7 +3371,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0063-0065</page>
 				<abstract>
-					<p></p>
+					<p>Results of a search for occultations of stars in the SAO catalogue by Saturn's outer magnetosphere during 1988 are presented.</p>
 				</abstract>
 				<keywords>occultations;Saturn;magnetosphere</keywords>
 				<authors>
@@ -3390,7 +3393,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0067-0074</page>
 				<abstract>
-					<p></p>
+					<p>Recently Lau &amp; Prokhovnik (1986) have formulated a new scalar-tensor theory of gravitation which reconciles Dirac’s large numbers hypothesis with Einstein's theory of general relativity. The present work points out an error in the time-dependent cosmological term and the scalar potential given by Lau and Prokhovnik. The correct forms for these quantities are derived. Further, a vacuum Robertson–Walker solution to the generalized field equations is obtained, under an anasatz that we ropose, which illustrates that the theory is, in some sense, incomplete.</p>
 				</abstract>
 				<keywords>other theories of gravitation;Cosmology</keywords>
 				<authors>
@@ -3415,7 +3418,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0075-0078</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that the Seventh-magnitude star HD 118234 is a spectroscopic binary in a very eccentric 59-day orbit.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -3435,7 +3438,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0079-0091</page>
 				<abstract>
-					<p></p>
+					<p>Samples of spiral galaxies from two catalogues of 21 cm line observations and a catalogue of near-infrared observations of nearby galaxies have been used in conjunction with Infrared Astronomical Satellite data to study correlations involving 𝑀<sub>𝐺</sub>, the dynamic mass of the galaxies, the luminosities in the 𝐻 band (1.6 𝜇m), the blue band and the far infrared bands and the mass of atomic hydrogen, it is found that both the blue and the far-IR luminosities which are indicators of star formation averaged over $\sim 3 \times 10^9$  and $\sim 10^7$  years respectively, have a linear dependence on 𝑀<sub>𝐺</sub>. On the other hand, the Η luminosity which is a measure of star formation averaged over the lifetime of galaxies, has a steeper power law dependence on 𝑀<sub>𝐺</sub>. The correlations observed do not have significant dependence on the morophological type of the galaxies There is a poor correlation between the far-infrared luminosity and the mass of atomic hydrogen. The mass of atomic hydrogen has a dependence of the form 𝑀<sub>𝐺</sub>. Because of the decrease in the mean mass for later morphological types and due to differences in power law dependences of luminosities in different bands on 𝑀<sub>𝐺</sub>, the mean value of luminosity-to-mass ratio is a constant for blue and far-IR bands, decreases for the 𝐻 band and the gas-to-mass ratio increases as morphological type increases.</p>
 				</abstract>
 				<keywords>galaxies, star formation;galaxies, infrared radiation;galaxies, neutral hydrogen</keywords>
 				<authors>
@@ -3460,7 +3463,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0093-0106</page>
 				<abstract>
-					<p></p>
+					<p>This paper describes the results of optical spectroscopy of SN1987a carried out at Mt John University Observatory on a regular basis since 1987 February 25. Typical spectra are presented in an evolutionary sequence, and velocities of Balmer and selected metallic lines are measured in either emission or absorption. The velocities are interpreted together with the results of photoelectric photometry. The Barnes-Evans relationship has been applied to the photometry to give an angular diameter of the photosphere. The expansion belocity of the photosphere is initially about 3700 km s<sup>-1</sup> which is similar to the asymptotic value from weaker absorption lines such as the MgIb line. After 40 days the photosphere appears to expand more slowly and it reaches a maximum size of about 145 A.U. after 100 days before receding inwards. The photometry and spectroscopy together result in a distance modulus of 18.3 ± 0.2.</p>
 				</abstract>
 				<keywords>Supernovae;SN1987a;optical spectra</keywords>
 				<authors>
@@ -3490,7 +3493,8 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0107-0116</page>
 				<abstract>
-					<p></p>
+					<p>Analysis of the available observational data for the 𝛼-Persei cluster members shows that rotation effects on the intermediate-band indices c<sub>1</sub> and (𝑢 – 𝑏) are considerable. In c<sub>1</sub>, rotation produces a reddening of 0.040 magnitudes per 100 km s<sup>-1</sup> In (𝑢 – 𝑏) the effect for Β stars is found to be 0.06 magnitudes per 100 km s<sup>-1</sup> of 𝑉 sin 𝑖.</p>
+					<p>The binaries and peculiar stars are found to behave differently in the colour excess (due to rotation) versus 𝑉 sin 𝑖 diagrams. These empirical effects can be utilised to recalibrate these colour indices and also to separate members that are either chemically peculiar or in binary systems.</p>
 				</abstract>
 				<keywords>stars, rotation;stars, colours;star clusters, individual</keywords>
 				<authors>
@@ -3515,8 +3519,8 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0117-0124</page>
 				<abstract>
-					<p></p>
-				</abstract>
+					<p>Kinematical distances are estimated for six open star clusters. They agree fairly well with the photometric distances. The kinematical distances cannot, at present, be estimated better than the photometric distances. When more accurate proper motion measurements become available the kinematical distances will improve considerably and may then be used to calibrate the cosmic distance scale.</p>
+ 				</abstract>
 				<keywords>open clusters;distances;kinematics</keywords>
 				<authors>
 					<author>
@@ -3539,9 +3543,7 @@ related to longer wavelengths.</p>
 				<title>Corrigenda</title>
 				<feature></feature>
 				<page>0125-0125</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3553,7 +3555,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0127-0136</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 106947 is a double-lined spectroscopic binary. The components have spectral types of about F6 V and G5 V and are in a 59-day orbit of moderate eccentricity. The system is a member of the Coma Cluster.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual;star clusters;Coma Cluster</keywords>
 				<authors>
@@ -3573,7 +3575,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0137-0154</page>
 				<abstract>
-					<p></p>
+					<p>Solar Active Region NOAA 2372 was observed extensively by the Solar Maximum Mission (SMM) satellite and several ground-based observatories during 1980 April 4–13 in the Solar Maximum Year. After its birth around April 4, it underwent a rapid growth and produced a reported 84 flares in the course of its disc passage. In this paper, we have studied photospheric and chromospheric observations of this active region together with Marshall Space Flight Center magnetograms and X-ray data from HXIS aboard the SMM satellite. In particular, we discuss the relationship of the flare-productivity with sunspot proper motions and emergence of new regions of magnetic flux in the active region from its birth to its disappearance at the W-limb</p>
 				</abstract>
 				<keywords>sunspot proper motion;magnetic energy buildup;flare productivity</keywords>
 				<authors>
@@ -3598,7 +3600,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0155-0160</page>
 				<abstract>
-					<p></p>
+					<p>Cygnus X-3, an X-ray binary with an orbital period 4.8 hr was seen to be emitting 𝛾-rays with the same period at TeV energies by several groups. In addition the Durham group (Chadwick <i>et al</i>. 1985) published their observations on the existence of a pulsar in the Cyg X-3 system, emitting TeV 𝛾-rays with a periodicity of approximately 12.6 ms. We observed this object during 1986 October–November and did not detect any pulsed emission of TeV 𝛾-rays in the range of periods from 12.5850 to 12.5967 ms.</p>
 				</abstract>
 				<keywords>𝛾-ray astronomy—X-ray binaries—TeV 𝛾-rays—Cygnus X-3</keywords>
 				<authors>
@@ -3629,7 +3631,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0161-0172</page>
 				<abstract>
-					<p></p>
+					<p>Two Wolf-Rayet members of the cluster NGC 6231 are studied spectrophotometrically. HD 151932, a suspected variable, shows variations in the emission line flux as well as continuum magnitude measurements. An attempt is made to understand this variation as due to the asymmetric atmospheric structure. The other, HD 152270, a (WC7 + O) binary, shows variation of emission line flux for C III and C IV lines only. This variation is studied as a possible phenomenon of atmospheric eclipses.</p>
 				</abstract>
 				<keywords>stars, emission-line;stars, Wolf-Rayet;open clusters, NGC 6231.</keywords>
 				<authors>
@@ -3650,7 +3652,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0173-0183</page>
 				<abstract>
-					<p></p>
+					<p>A comparison is made between a hot-spot model and a recently proposed oblate spheroid model (Böhm-Vitense &amp; Van Dyk 1987) to explain the spectroscopic and photometric variations of 𝛼<sup>2</sup> CVn. It is found that the spot model gives a better fit to the spectroscopic and photometric variations. The spot model requires five high temperature circular patches over the surface of the star. The positions of these patches agree well with those derived spectroscopically by Pyper (1969).</p>
 				</abstract>
 				<keywords>stars;Ap stars;spot modelling</keywords>
 				<authors>
@@ -3678,7 +3680,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0185-0192</page>
 				<abstract>
-					<p></p>
+					<p>We study the effects of the presence of vortex rings surrounding a supersonic radio jet inside the cocoon of a radio lobe. We show that both the jet and the shocked ambient medium are pinched. Flow speed inside the cocoon is always close to the sonic value and it stays so by successively passing through several oblique shocks. We also discuss the possibility of the non-linear growth of the instabilities of the contact surface to explain the numerical results in the literature.</p>
 				</abstract>
 				<keywords>radio sources, jets;shocks;vortex rings;pinch instability</keywords>
 				<authors>
@@ -3698,7 +3700,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0193-0203</page>
 				<abstract>
-					<p></p>
+					<p>HD 88021/2 (ADS 7662) is a very close visual binary. The accepted visual orbit, which is of very high eccentricity and graded “reliable”, led to the expectation of a periastron passage in 1981, when there should have been a large difference in radial velocity between the components. No such event took place, and there is little indication that it is likely to occur in the near future. A new interpretation of the visual orbital data leads to an orbit of a different character from those hitherto proposed. A decision between the competing orbits should be possible within a very few years. Meanwhile, the method of spectral subtraction developed in Paper 1 has enabled us to separate the spectra of the two components and to show that their spectral types are K0 III and A2m.</p>
 				</abstract>
 				<keywords>composite spectra;visual binaries;stars, individual</keywords>
 				<authors>
@@ -3717,7 +3719,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0205-0211</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 116093 is a double-lined spectroscopic binary in a very eccentric 53-day orbit. Very little else is known about the system, but circumstantial evidence is consistent with the hypothesis that the components types are near to F3 V and F8 V. If that is so, the orbit must be seen very nearly edgeon; a search for eclipses is warranted and an ephemeris for them is given.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -3737,7 +3739,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0213-0224</page>
 				<abstract>
-					<p></p>
+					<p>HD 115781 and HD 116204 (BL CVn and BM CVn) are shown to be RS CVn binaries with periods near 20 days. HD 115781 is doublelined; the primary type is about K1 III, while the secondary is probably a late-type subgiant. The masses of the two components are equal within observational error. These is substantial photometric variability with a period half the orbital period; it is attributed to ellipsoidal variation. HD 116204 is also of type K1 III. It shows exceptionally strong Ca II H and K emission, together with an emission-line spectrum typical of RS CVn stars in the <i>IUE</i> ultraviolet region, but H𝛼 is an absorption line. The secondary star in the HD 116204 system has not been detected. The primary shows photometric variations, presumably due to starspots, with a period 5 per cent longer than the orbital period.</p>
 				</abstract>
 				<keywords>spectroscopic binaries;RS CVn stars;stars, individual</keywords>
 				<authors>
@@ -3762,7 +3764,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0225-0229</page>
 				<abstract>
-					<p></p>
+					<p>The low-frequency radio spectrum of the continuum emission from the undisturbed Sun is determined for 24 days during the period 1985 May-September. It is found that the spectral index varied from + 1.6 to +3.6 during this period. It is suggested that the large positive spectral indices are due to the existence of temperature gradients in the outer corona.</p>
 				</abstract>
 				<keywords>Sun, low-frequency radio observations;Sun, corona</keywords>
 				<authors>
@@ -3787,7 +3789,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0231-0236</page>
 				<abstract>
-					<p></p>
+					<p>The occurrence of superluminal motion in extragalactic radio sources is believed to be quite common. Among others, the geometrical scattering of radio radiation can also cause superluminal expansion and or motion and halo formation. In this paper, the effectiveness of the stimulated Raman scattering in producing these features is investigated. The scattering medium is a plasma whose position, density and temperature decide the rate and angle of scattering. When the radiation from a stationary and constant source gets scattered from a stationary plasma, a halo is formed around the source. However, the scattering of a rotating radiation beam does produce superluminal motion of the virtual source. It is found that the plasma should have the characteristics of the emission-line regions and the intercloud medium in order to Raman scatter the radiation. Since the scattering is polarization dependent, it is possible to estimate the rotation of the electric vector along the direction of the apparent motion of a radio source.</p>
 				</abstract>
 				<keywords>extragalactic radio sources;superluminal motion;Raman scattering</keywords>
 				<authors>
@@ -3807,7 +3809,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0237-0241</page>
 				<abstract>
-					<p></p>
+					<p>𝑅-matrix calculations of electron impact excitation rates in Ο III are used to derive the electron-density-sensitive emission-line ratio $R= I (2s^2 2p^{2~3} P_2- 2_s^2 2 p^{2~3} P_1)/I (2x^2 2p^{2~3} P_1- 2s^2 2p^{2~3} P_0)= I 52 \mu m/I (88 \mu m)$ for a range of electron temperatures (𝑇<sub>𝑒</sub> = 5000–20000 K) and densities (𝑁<sub>𝑒</sub>= 10–10<sup>5</sup> cm<sup>-3</sup>) applicable to planetary nebulae. Electron densities deduced from the observed values of 𝑅 in several planetary nebulae are in excellent agreement with those deduced from C1 III and Ar IV, which provides support for the accuracy of the atomic data adopted in the calculations.</p>
 				</abstract>
 				<keywords>emission-line diagnostics;electron densities;planetary nebulae</keywords>
 				<authors>
@@ -3832,7 +3834,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0243-0248</page>
 				<abstract>
-					<p></p>
+					<p>We study numerically the motion of a single particle in the bending wave of finite thickness in Saturn’s ring. We include the forcing due to the planet, a moon, the coriolis force and the self gravity of the ring. In particular, we compute the variation of the velocity arising due to the variation of the amplitude and the phase of the epicyclic motion across the local vertical height of the ring. We suggest that the dissipation of energy due to the collision of ring particles in this shear layer damps out the bending wave of Saturn’s ring at the 5:3 vertical resonance of Mimas within a distance of 150 km from the site of its launching as is observed in Voyager data.</p>
 				</abstract>
 				<keywords>planetary rings, Saturn</keywords>
 				<authors>
@@ -3851,9 +3853,7 @@ related to longer wavelengths.</p>
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0249-0251</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3862,9 +3862,7 @@ related to longer wavelengths.</p>
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0251-0254</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3878,7 +3876,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0001-0020</page>
 				<abstract>
-					<p></p>
+					<p>During the recent apparition of Comet Halley in 1985–86 a transient ionic event in the form of a blob of H<sub>2</sub>O<sup>+</sup> emission was recorded in thecoma at ~ 0<sup>ℎ</sup> UT on 1986 March 13. Observations were carried out using a special IHW filter for H<sub>2</sub>O<sup>+</sup> emission at 7000 Å/175 Å, a 35 cm telescope, a Fabry–Perot interferometer and an image intensifier camera from Gurushikhar, Mt Abu. (24°39’N, 72°47’E). A Fabry–Perot interferogram in Hα taken a few minutes later at the same location reveals strong hydrogen emission (H𝛼) associated with the blob. The velocity field in the blob is structured with relative velocities upto ~ 35km s<sup>-1</sup>. The event is interpreted as arising due to the sector boundary crossing of the interplanetary magnetic field by the comet.</p>
 				</abstract>
 				<keywords>Comet Halley;Ha Fabry;Perot interferometry;imaging;transient event</keywords>
 				<authors>
@@ -3919,7 +3917,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0021-0034</page>
 				<abstract>
-					<p></p>
+					<p>Starting from a set of general equations governing the dynamics of a magneto-fluid around a compact object on curved space time, a fairly simple analytical solution for atest disc having only azimuthal component of velocity has been obtained. The electromagnetic field associated has a modified dipole configuration which admits a reasonable pressure profile for the case of fully relativistic treatment of Keplerian type of velocity distribution.</p>
 				</abstract>
 				<keywords>magnetosphere;disc configuration;general relativity;equilibrium</keywords>
 				<authors>
@@ -3949,9 +3947,9 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0035-0045</page>
 				<abstract>
-					<p></p>
+					<p>Differential 𝐵𝑉 photometry of UX Ari obtained on 58 nights during 1984–85, 1985–86, 1986–87, and 1987–88 observing season is presented. We find that (𝐵-𝑉) is phase dependent with the system being reddest at the light maximum and we interpret this as due to the variable fractional contribution by the G5 V component to the total light at shorter wavelengths. An analysis of the available data indicates that at larger amplitudes of the photometric wave the brightness at maximum increases and that at minimum decreases and both converge to $\Delta V \simeq 1.0$ mag at very low amplitudes. It implies that the low wave amplitudes are essentially due to more homogeneity in the surface distribution of spots rather than due to low levels of spot activity. The variation in wave amplitude is found to be near-sinusoidal with a period around 13–14 years.</p>
 				</abstract>
-				<keywords>BV photometry;RS CVn binaries;UX Arietis;spot activity</keywords>
+				<keywords>𝐵𝑉 photometry;RS CVn binaries;UX Arietis;spot activity</keywords>
 				<authors>
 					<author>
 						<name first="S." last="Mohin">S. Mohin</name>
@@ -3974,7 +3972,9 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0047-0083</page>
 				<abstract>
-					<p></p>
+					<p>We present here an extensive list of internally consistent oscillator strengths for Fe I lines. We have compiled and critically reviewed the oscillator strengths existing in literature. An attempt has been made to scale the oscillator strengths derived by different workers to that of Blackwell and his collaborators and prepare a single consistent set of oscillator strengths.</p>
+					<p>We have calibrated a log 𝑔𝑓–log 𝜆–𝐸<sub>1</sub>–log 𝐼  relationship that can be used for calculating gf values for Fe I lines with no gf values available. We demonstrate that standard error of such a calibration can be considerably reduced by binning the data in 0.5 eV range in excitation potential.</p>
+					<p>We also tabulate systematic corrections to be applied to the oscillator strengths of Kurucz &amp; Peytremann (1975) for lines belonging to different multiplets.</p>
 				</abstract>
 				<keywords>oscillator strengths;elemental abundances;synthetic spectra</keywords>
 				<authors>
@@ -3999,7 +3999,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0085-0088</page>
 				<abstract>
-					<p></p>
+					<p>Results of a search for occulatations of stars in the SAO catalogue by Saturn's outer magnetosphere during 1989-1990 are presented. A total of nine events are predicted to occur during this period. The most favourable event will be the occultation of 28 Sgr (SAO 187255) during July 2-3, 1989. Occultations of SAO 187036, SAO 188348 and SAO 188120 occur near opposition and therefore can be observed over a wide longitude range.</p>
 				</abstract>
 				<keywords>occultations;Saturn, rings;Saturn, magnetosphere</keywords>
 				<authors>
@@ -4019,7 +4019,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0089-0112</page>
 				<abstract>
-					<p></p>
+					<p>A theory of sequential fragmentation is presented that describes a cascade of fragmentation and refragmentation, <i>i.e.,</i> continued comminution. It is shown that the theory reproduces one of the two major empirical descriptors that have traditionally been used to describe the mass distributions from fragmentation experiments. Additional experimental evidence is presented to further validate the theory, and includes explosive aerosolization, grinding in a ball mill, and simulated volcanic action. Also presented are some astronomical applications of the theory including infalling extraterrestrial material, siderophile concentrations in black magnetic spherules of possible meteoritic origin, the asteroids, the distribution of galactic masses, and the initial mass function of stars.</p>
 				</abstract>
 				<keywords>sequential fragmentation;infalling extraterrestrial material;meteoritic spherules;asteroids;glactic masses;initial mass function</keywords>
 				<authors>
@@ -4040,7 +4040,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0113-0118</page>
 				<abstract>
-					<p></p>
+					<p>HR 8107, a reported new Be star, has been observed spectrophotometrically. The energy distrubution curve of the star has been compared with those of other stars of similar spectral and luminosity types and model atmospheres. On the basis of comparison with model atmospheres an effective temperature has been assigned to the star.</p>
 				</abstract>
 				<keywords>Be stars;energy distribution</keywords>
 				<authors>
@@ -4070,7 +4070,7 @@ related to longer wavelengths.</p>
 				<feature></feature>
 				<page>0119-0138</page>
 				<abstract>
-					<p></p>
+					<p>None of the tentative black-hole identifications has remained without serious difficulties. As a class, the black-hole candidates differ in no obvious property from neutron-star binaries other than in their estimated high mass. We favour an interpretation of the black-hole candidates as binary neutron stars surrounded by a more or less massive accretion disc.</p>
 				</abstract>
 				<keywords>black-hole-candidates;Cyg X-l;A 0620-00;accretion disc coronae;flicker noise;radiation belts;QPO</keywords>
 				<authors>
