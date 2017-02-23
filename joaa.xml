@@ -5754,9 +5754,7 @@
 				<title>Guidelines for Authors</title>
 				<feature></feature>
 				<page>0001-0006</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -5766,7 +5764,7 @@
 				<feature></feature>
 				<page>0007-0016</page>
 				<abstract>
-					<p></p>
+					<p>This paper investigates the effects of the spatial variation of the cosmological constant 𝛬 on the spacetime geometry within and outside a massive object. It is seen that the variation of 𝛬 with the radial coordinate introduces non-trivial changes leading to spacetime closing on itself around a massive object. It may also be possible to generate interior solutions that lead to flat rotation curves of galaxies.</p>
 				</abstract>
 				<keywords>cosmologial constant;spatial variation</keywords>
 				<authors>
@@ -5796,7 +5794,7 @@
 				<feature></feature>
 				<page>0017-0025</page>
 				<abstract>
-					<p></p>
+					<p>We estimate the contribution of millisecond pulsars to the diffuse gamma-ray background of the Galaxy, and show that a significant fraction of the Galactic background may originate from them. A small number of the unidentified COS-B point sources may, in fact, be millisecond pulsars. It is argued that several hundred millisecond pulsars may be detectable as point sources by the GRO satellite.</p>
 				</abstract>
 				<keywords>Pulsars, millisecond;gamma-ray emission;diffuse gamma-ray background</keywords>
 				<authors>
@@ -5822,7 +5820,7 @@
 				<feature></feature>
 				<page>0027-0037</page>
 				<abstract>
-					<p></p>
+					<p>The long period classical cepheid RZ Vel (HD 73502) is known to be a member of an OB association, Vel OB1 in Vela, and a high metallicity is ascribed to it by the photometric work of Eggen (1982). We have done an abundance analysis for this long period (𝑃 = 20.4 days) and hence young (age ≈ 1.80 × 10<sup>7</sup> yr) classical cepheid using high resolution CCD spectra with good S/N ratio. We have used a detailed model atmosphere method to derive the abundances of the light elements C, O, A1, S and of many Fe-peak elements and a few s-process elements. Our present work indicates near solar abundance for most of the elements for RZ Vel and hence we do not confirm the high metallicity derived photometrically by Eggen (1982) for this star.</p>
 				</abstract>
 				<keywords>classical cepheids, abundances;OB association</keywords>
 				<authors>
@@ -5852,7 +5850,7 @@
 				<feature></feature>
 				<page>0039-0048</page>
 				<abstract>
-					<p></p>
+					<p>HR 4693 is a fifth-magnitude K2 III star whose radial-velocity nature has been the subject of conflicting ideas. It is shown here to be a spectroscopic binary of small amplitude, less than 2 km s<sup>-1</sup>; the orbit is quite eccentric and has a period of 16 years.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;orbits;stars, individual;HR 4693</keywords>
 				<authors>
@@ -5872,7 +5870,7 @@
 				<feature></feature>
 				<page>0049-0067</page>
 				<abstract>
-					<p></p>
+					<p>The light outside the eclipses of the totally eclipsing RS CVn binary SV Camelopardalis (SV Cam) is Fourier analysed and the amp;itudes of the distrotion waves have been derived. The distribution of the percentage contributions of these amplitudes in 𝑉, 𝐵 and 𝑈 colours with respect to the luminosites of the binary components indicates that the hotter component is the source of the distortion waves. These distortion waves, attributed to star spots, are modelled according to Budding (1977) and spot parameters like longitude, latitude, temperature and size are obtained. From this study it is noticed that while symmetric waves with two minima could be fitted satisfactorily, asymmetric waves with more than two minima could not be fitted well. From the longitudes of the minima of the best fitted curves, migration periods of four spot groups are determined. Assuming synchronism between rotation and orbital periods, the rotation periods of the four spot groups are derived from their migration periods. The period of rotation of one of the spot groups having direct motion is found to be 0<sup>d</sup>d.5934209 while the periods of the other three spot groups having retrograde motion are 0<sup>d</sup>.5926588, 0<sup>d</sup>.592607 and 0<sup>d</sup>.5924688. As the latitudes of these spots are known from modelling parameters, the latitude having a rotation period equal to that of the orbital period (co-rotating latitude) is found to be about 30°.</p>
 				</abstract>
 				<keywords>eclipsing binaries, star spots;RS CVn stars;stars, individual</keywords>
 				<authors>
@@ -5902,7 +5900,7 @@
 				<feature></feature>
 				<page>0069-0087</page>
 				<abstract>
-					<p></p>
+					<p>Results of the observations of mutual eclipses of Galilean satellites observed from the Vainu Bappu Observatory during 1985 are presented. Theoretical models assuming a uniform disc, Lambert’s law and Lommel-Seeliger’s law describing the scattering characteristics of the surface of the eclipsed satellite were used to fit the observations. Light curves of the 1E2 event on 1985 September 24 and the 3E1 event on 1985 October 24 observed from VBO and published light curves of the 1E2 event on 1985 September 14, the 3E1 event on 1985 September 26 and the 2E1 event on 1985 October 28 (Arlot <i>et al</i> 1989) were fitted with theoretical light curves using Marquardt’s algorithm. The best fitting was obtained using Lommel-Seeliger’s law to describe the scattering over the surface of Iο and Europa. During the fitting, a parameter δ𝜒<sub>shift</sub> which shifts the theoretical light curve along the direction of relative motion of the eclipsed satellite with respect to the shadow centre, on the sky plane (as seen from the Sun) was determined along with the impact parameter. In absence of other sources like prominent surface features or non perfect sky conditions which could lead to asymmetric light curves, δ𝜒<sub>shift</sub> would be a measure of the phase correction (Aksnes, Franklin &amp; Magnusson 1986) with an accuracy as that of the midtime. Heliocentric 𝛥α cos (δ) and 𝛥δ at mid times derived from fitted impact parameters are reported.</p>
 				</abstract>
 				<keywords>Jupiter's satellites;mutual phenomena, scattering characteristics;phase corrections</keywords>
 				<authors>
@@ -5921,9 +5919,7 @@
 				<title>Erratum</title>
 				<feature></feature>
 				<page>0089-0089</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates>
@@ -5938,7 +5934,7 @@
 				<feature></feature>
 				<page>0091-0110</page>
 				<abstract>
-					<p></p>
+					<p>It has become part of the conventional wisdom of quasar research that quasars cannot be objects ejected from nearby galaxies. The reasons are summarized in Burbidge &amp; Burbidge (1967) and they include: (1) in quasar spectra only redshifts, and no blueshifts, are observed, contrary to expectation in a local Doppler interpretation of quasar line shifts; (2) the energy requirements for relativistically moving quasars seem excessive and the ejection mechanism is unknown. In. this work we show that the first problem could be explained via some powerful selection effects, and that the second problem does not exist in the relativistic slingshot process of ejecting black holes. Consequently one cannot exclude the possibility that at least some of the quasar-galaxy associations of large redshift differentials discussed by Arp and Sulentic are real and that the redshift differences are due to high speeds of ejected quasars.</p>
 				</abstract>
 				<keywords>black holes;quasars</keywords>
 				<authors>
@@ -5963,7 +5959,7 @@
 				<feature></feature>
 				<page>0111-0117</page>
 				<abstract>
-					<p></p>
+					<p>Symbiotic stars that are strong radio sources and have cool dust emitting in the infrared are expected to have extended emission nebulae around them. In order to search for such emission nebulae, we have carried out CCD imaging of three symbiotic stars (R Aqr, RR Tel and Η1-36) with narrow-band filters centred at the emission lines of [O III] 𝜆5007, H𝛼 λ6563, [N II] 𝜆6584, [S II] 𝜆6717 + 6731. RR Tel and H1-36 images do not show any extended nebulosities around them. The CCD image of the R Aqr nebulosity in the high excitation [O III] line is different from its image in Hα and the low excitation lines of [Ν II] and [S II] indicating ionization-stratification in the nebula. In H1-36 the optical nebulosity (if it exists) is smaller than ~ 2 arcsec while the radio image size is known to be large (~ 5 arcsec). This behaviour is opposite to that seen in R Aqr in which the radio emission comes from the core region of a much larger optical nebulosity. Interstellar and/or circumstellar extinctions are suggested to be responsible for this difference.</p>
 				</abstract>
 				<keywords>narrow-band CCD imaging;symbiotic star;morphology</keywords>
 				<authors>
@@ -5988,7 +5984,7 @@
 				<feature></feature>
 				<page>0119-0131</page>
 				<abstract>
-					<p></p>
+					<p>𝐵 and 𝑉 observations of the suspected variable BV 690 = NSV 04298 are reported. The star shows light variations with a period of 1<sup>d</sup>.2400 and with amplitudes of 0<sup>m</sup>.27, 0<sup>m</sup>.36 and 0<sup>m</sup>.11 in 𝑉, 𝐵, and 𝐵 – 𝑉 respectively. The light curves show steeper rise than decline, and there is evidence for the presence of a bump in the descending branch around the phase of 0.35. From considerations of the period, spectral type, presence of the bump and high tangential velocity we conclude that BV 690 belongs to the BL Herculis class of Type II Cepheids.</p>
 				</abstract>
 				<keywords>light curves;ephemeris;type II;Cepheid variable;individual</keywords>
 				<authors>
@@ -6013,7 +6009,8 @@
 				<feature></feature>
 				<page>0133-0178</page>
 				<abstract>
-					<p></p>
+					<p>The pseudo-luminosity effect in the metallic line A-type stars found by Abt &amp; Morgan (1976) is confirmed in a random sample of 27 Am stars. From a morphological study of their spectra in the wavelength interval 3850–4400 Å at a reciprocal dispersion of 66 Å/mm, revised spectral types are given on the MK system for their K-line and metallic-line spectra. This shows that: (a) our segregation of weak Am from the Am stars largely agrees with that by Cowley <i>et al.</i> (1969); (b) all the stars in the sample are dwarfs according to their K-line classification; (c) more than 80 per cent exhibit the pseudo-luminosity effect significantly, with their metallic-line spectra resembling a giant or even a supergiant in the violet (3850–4100 Å), and a giant rather than a dwarf in the blue region (4260-4400 Å); (d) in two-thirds of the stars under (c), the Sr II 4077 Å line is found to have a markedly brighter luminosity class compared to any region, and in more than one-third of the sample it is comparable to that in Ap stars; (e) at least five stars exhibit characteristics which might suggest a spectrum variability: among these, the most striking example is 41 Sex A which was found to show a phase-modulated spectrum variation hitherto unknown in Am stars; (f) the metallic-line spectra of another five stars appear to be similar to A-shell type in differing degrees; (g) less than 20 per cent of the sample comprises stars which do not show any significant differential luminosity effect; these stars might have been misclassified or perhaps they are in a quiescent state</p>
+					<p>We also confirm the conclusion arrived at by Böhm-Vitense &amp; Johnson (1978) that all Am stars may vary and our observations suggest that groups may exist among them.</p>
 				</abstract>
 				<keywords>stars, metallic-line;stars, spectrum classification</keywords>
 				<authors>
@@ -6040,7 +6037,7 @@
 				<feature></feature>
 				<page>0179-0185</page>
 				<abstract>
-					<p></p>
+					<p>The integrated magnitudes of 221 Galactic open clusters have been used to derive the luminosity function. The completeness of the data has also been discussed. In the luminosity distribution the maximum frequency of clusters occurs near 𝐼 (𝑀<sub>𝑣</sub>) = – 3<sup>m</sup>5, and some plausible reasons for a sharp cut-off at 𝐼 (𝑀<sub>𝑣</sub>) = – 2<sup>m</sup> 0 have been discussed. It is concluded that the paucity of the clusters fainter than 𝐼 (𝑀<sub>𝑣</sub>) = – 2<sup>m</sup> 0 is not purely due to selection effects. The surface density of the clusters for different magnitude intervals has. been obtained using the completeness radius estimated from the log 𝑁–log 𝑑 plots. A relation between 𝐼 (𝑀<sub>𝑣</sub>) and surface density has been obtained which yields a steeper slope than that obtained by van den Bergh &amp; Lafontaine (1984).</p>
 				</abstract>
 				<keywords>open clusters;integrated magnitudes;luminosity distribution</keywords>
 				<authors>
@@ -6070,7 +6067,7 @@
 				<feature>Paper 5: NGC 2236 (OC1 501)</feature>
 				<page>0187-0198</page>
 				<abstract>
-					<p></p>
+					<p>Continuing the study of faint young open clusters as tracers of spiral features in our Galaxy, photoelectric and photographic photometry of 39 stars was done in the field of the faint open cluster NGC 2236 ≡ OCl 501 in the direction of Monoceros constellation. Out of these stars, a total of 22 down to 𝑚<sub>𝑣</sub> ≃ 15.4 mag have been found to be probable members. There is apparently a variable extinction across the field of the cluster with 𝐸(𝐵 – 𝑉) ranging between 0.84 mag and 0.68 mag. The median age of this cluster is estimated to be 7.6 × 10<sup>7</sup> years and the cluster is thereby considered as belonging to the marginally old category. Thus, it cannot be specifically used as a spiral arm tracer in the study of our Galaxy. This cluster is located at a distance of 3.72 ± 0.13 kpc, which places it at the inner edge of the outer Perseus spiral feature of the Milky Way.</p>
 				</abstract>
 				<keywords>star clusters, open;spiral feature tracers;stars, photometry.</keywords>
 				<authors>
@@ -6090,7 +6087,8 @@
 				<feature></feature>
 				<page>0199-0211</page>
 				<abstract>
-					<p></p>
+					<p>We have studied the Vela supernova remnant in the light of the 34.5 MHz observations made with the GEETEE low frequency array. The flux densities of Vela X and YZ at 34.5 MHz are estimated to be 1800 and 3900 Jy respectively. These values, along with those from earlier observations ate higher frequencies, imply spectral indices (S ∝ 𝑣<sup>𝛼</sup>) of -0.16 ± 0.02 for Vela X and –0.53 ± 0.03 for Vela YZ. This situation is further substantiated by the spectral-index distribution over the region obtained between 34.5 and 408 MHz.</p>
+					<p>The spectral-index estimates, along with other known characteristics, strengthen the earlier hypothesis that Vela X is a plerion, while Vela YZ is a typical shell-type supernova remnant. We discuss the implications of this result.</p>
 				</abstract>
 				<keywords>Low-Frequency Observations of the Vela Supernova Remnant and their Implications</keywords>
 				<authors>
@@ -6110,7 +6108,7 @@
 				<feature></feature>
 				<page>0213-0223</page>
 				<abstract>
-					<p></p>
+					<p>BU Tauri (Pleione) an interesting star in the Pleiades cluster, has been observed spectrophotometrically. The energy distribution curves  of the star have been discussed vis a vis model atmospheres for normal stars  in the appropriate range of temperature and effective gravity. The changes in the energy distribution curve noticed during our observations and previous observations taken from the literature have been pointed out. On the basis of the measured Hα emission equivalent width, a rough estimate of the dimensions of the extended envelope of the star has been made.</p>
 				</abstract>
 				<keywords>Be star;energy distribution</keywords>
 				<authors>
@@ -6135,7 +6133,21 @@
 				<feature></feature>
 				<page>0225-0263</page>
 				<abstract>
-					<p></p>
+					<p>Results of analysis of aphotoelectric observations of the RS CVn eclipsing binary WY Cancri in the standard passbands of 𝑈𝐵𝑉 during 1973-74, 1976-79 and in 𝑈𝐵𝑉𝑅𝐼 during 1984-86 are reported. A preliminary analysis of the eclipses suggested the primary eclipse to be transit. A study of the percentage contribution of the distortion wave amplitudes in all the colours with respect to the luminosities of both components, showed the hotter component to be the source of the distortion wave. The clean (wave removed) light curves of different epochs have not merged, suggesting residual effects of spot activity. The reason for this is attributed to the presence of either (1) polar spots or (2) small spots uniformly distributed all over the surface of the hotter component. This additional variation is found to have a periodicity of about 50 years or more. The distortion waves in yellow colour are modelled according to Budding’s (1977) method. For getting the best fit of the observations and theory, it was found necessary to assume three or four spots on the surface of the hot component. Out of these four spot groups, three are found to have direct motion with migration periods of 1.01, 1.01 and 2.51 years while the fourth one has a retrograde motion with a migration period of 3.01 years. From these periods and the latitudes of the spots derived from the model a co-rotating latitude of 4° is obtained. The temperatures of these spots are found to be lower than that of the photosphere by about 700°K to 800°K. Assuming  the light curve of 1985–86, which is the brightest of all the observed seasons, to be least affected by the spots, the light curves of the other seasons are all brought up to the quadrature level of this season by applying suitable corrections. The merged curves in the UBVRI colours are analysed for the elements by the Wilson-Devinney method. This analysis yielded the following absolute elements</p>
+					<p>\begin{align*}  
+							m_h & = 0.85 \pm 0,03 M_\odot\\
+							m_h & = 0.51 \pm 0.03 M_\odot\\
+							R_h & = 0.99 \pm 0.02 R_\odot\\
+							R_c & = 0.65 \pm 0.02 R_\odot\\
+							T_h & = 5520^\circ K \pm 100^\circ K\\
+							T_c & = 3740^\circ K \pm 20^\circ K\\
+							M_{\text{h(bol)}} & = 4^m.96 \pm 0.10\\
+							M_{\text{c(bol)}} & = 7^m.58 \pm 0.15\\
+							\text{Spectral type} & \qquad \text{hotter component} = G5 \pm 1\\
+							& \qquad \text{cooler component} = K9 \pm 1
+					   \end{align*}
+				   </p>
+				   <p>For a mass ratio of 0.506 and with the derived fractional radii 𝑟<sub>ℎ</sub> = 0.241 and 𝑟<sub>𝑐</sub> = 0.157, both the components are found to be within their Roche lobes. Hence we have classified WY Cnc as a detached system. From their positions on the HR diagram it is concluded that both the components of WY Cnc belong to the main sequence.</p>
 				</abstract>
 				<keywords>eclipsing binaries, star spots and elements;RS CVn stars;individual</keywords>
 				<authors>
@@ -6165,7 +6177,7 @@
 				<feature></feature>
 				<page>0265-0268</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 111068 is a spectroscopic binary with a period of 206 days. The primary star is probably about type K5 III; the secondary, only detected through the photometric compositeness of the system, may well be an F dwarf. The orbit is circular within observational uncertainty; it is near the upper limit of periods for which tidal circularization operates for giant stars.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;orbits;stars, individual;HD 111068 </keywords>
 				<authors>
@@ -6187,7 +6199,7 @@
 				<feature></feature>
 				<page>0269-0280</page>
 				<abstract>
-					<p></p>
+					<p>We present here rigorous analytical solutions for the Boltzmann-Poisson equation concerning the distribution of stars above the galactic plane. The number density of stars is considered to follow a behaviour 𝑛(𝑚, 0) ~ 𝐻(𝑚 – 𝑚0)𝑚<sup>-𝑥</sup>, where 𝑚 is the mass of a star and 𝑥 an arbitrary exponent greater than 2 and also the velocity dispersion of the stars is assumed to behave as 〈𝑣<sup>2</sup> (𝑚)〉 ~ 𝑚<sup>-𝜃</sup> the exponent 𝜃 being arbitrary and positive. It is shown that an analytic expression can be found for the gravitational field 𝐾<sub>𝑧</sub>, in terms of confluent hypergeometric functions, the limiting trends being 𝐾<sub>𝑧</sub> ~ 𝑧 for 𝑧→0, while K𝑧 → constant for 𝑧 → infinity. We also study the behaviour of 〈|𝑧(𝑚)|<sup>2</sup>〉, i.e. the dispersion of the distance from the galactic disc for the stars of mass 𝑚. It is seen that the quantity 〈|𝑧(𝑚)|2〉 ~ 𝑚–𝜃, for 𝑚→∞, while it departs significantly from this harmonic oscillator behaviour for stars of lighter masses. It is suggested that observation of 〈|𝑧(𝑚)|2〉 can be used as a probe to find 𝑥 and hence obtain information about the mass spectrum.</p>
 				</abstract>
 				<keywords>mass spectrum;self consistent field;velocity dispersion</keywords>
 				<authors>
@@ -6203,11 +6215,11 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>New 1982 – 1990 Photometry of 𝜆 Andromedae and its 11-Year Cycle</title>
 				<feature></feature>
-				<page></page>
+				<page>0281-0287</page>
 				<abstract>
-					<p></p>
+					<p>We present photoelectric photometry of 𝜆 And never before published, obtained between February 1982 and December 1990 at 29 different observatories. Then we combine it with all other photometry available to us (previously published, contained in the I.A.U. Commission 27 Archives, and obtained with the Vanderbilt 16-inch automatic telescope but not yet published), to yield a 14.8-year data base. Analysis reveals a long-term cycle in mean brightness, with a full range of 0<sup>m</sup>.15 and a period of 11.4 ± 0.4 years. Because most of our new photometry was concentrated in the 1983–84 observing season, we analyze that one well-defined light curve with a two-spot model. Spot A keeps a 0<sup>m</sup>.04 amplitude throughout four rotation cycles whereas the amplitude of spot Β diminishes from 0<sup>m</sup>.09 down almost to 0<sup>m</sup>.03. The spot rotation periods were 55<sup>d</sup>.9 ± 0<sup>d</sup>.6 and 52<sup>d</sup>.8 ± 1<sup>d</sup>.0, respectively</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -6377,7 +6389,7 @@
 				<feature></feature>
 				<page>0289-0310</page>
 				<abstract>
-					<p></p>
+					<p>Orbits based principally on radial-velocity measurements made with the Haute-Provence Coravel spectrometer are presented for eight binary systems which include some of the faintest HD stars in the Galactic-Pole field. They are HD 103418 (which is double-lined), 105021, 108151, 113169, 113323, 113650, 113714, and 116514. Their periods range from 3.7 to 15.1 days. Very little else is known about any of them.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;orbits;stars, individual</keywords>
 				<authors>
@@ -6402,7 +6414,7 @@
 				<feature></feature>
 				<page>0311-0317</page>
 				<abstract>
-					<p></p>
+					<p>The line intensity of the green coronal line and the continuum intensity are derived from the filter and white light photographs of the solar corona obtained during the 1980 total solar eclipse. Ratio of the line to continuum intensity is plotted against the radial distance 𝑟(=𝑅/𝑅<sub>0</sub>, 𝑅<sub>0</sub> is the solar radius), in various position angles . A simple model assuming an electron density dependence of the line and continuum intensities suggests a dominant collisional mechanism for the excitation of the line in the innermost regions (~ 1.4 𝑅<sub>0</sub>). The measured line to continuum ratio tends to a constant value at different radial distances in different position angles. The constancy of the measured line to continuum ratio indicates significant radiative excitation beyond 1.4 𝑅<sub>0</sub>, in some of the position angles.</p>
 				</abstract>
 				<keywords>solar corona;emission lines;excitation mechanism</keywords>
 				<authors>
@@ -6437,7 +6449,7 @@
 				<feature></feature>
 				<page>0319-0331</page>
 				<abstract>
-					<p></p>
+					<p>Calibration of the CCD camera of the 1m telescope at the Vainu Bappu Observatory, Kavalur, to the 𝐵 𝑉 𝑅 system is reported here based on the observations of stars in the ‘dipper asterism’ in the open cluster Μ 67 (NGC 2682). Transformations involving 𝐵 and 𝑉 have negligible colour terms, while those involving 𝑅 are slightly colour dependent. The possibility of using scaled-down 𝑅 band fluxes to estimate the continuum flux at Hα is investigated by comparing the counts in 𝑅 band with those through an interference filter centred at Hα. The scaling factor is found to remain constant over a wide range of colours. The sensitivity of the telescope-filter-CCD combination is estimated to be 2.0 per cent, 8.3 per cent and 9.7 per cent in 𝐵, 𝑉 and 𝑅 bands, respectively. The star F117 appears to be a small-amplitude (~ 0.05 mag) variable.</p>
 				</abstract>
 				<keywords>CCD photometry;ΒVRH𝛼 photometry;atmospheric extinction;photometric calibration;open clusters;M67 (NGC 2682)</keywords>
 				<authors>
@@ -6457,9 +6469,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0333-0334</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -6468,9 +6478,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0335-0337</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -6504,7 +6512,7 @@
 				<feature></feature>
 				<page>0003-0052</page>
 				<abstract>
-					<p></p>
+					<p>The Hertzsprung-Russell diagram of the Large Magellanic Cloud compiled recently by Fitzpatrick &amp; Garmany (1990) shows that there are a number of supergiant stars immediately redward of the main sequence although theoretical models of massive stars with normal hydrogen abundance predict that the region 4.5 ≤ log 𝑇<sub>eff</sub> ≤ 4.3 should be un-populated ("gap"). Supergiants having surface enrichment of helium acquired for example from a previous phase of accretion from a binary companion, however, evolve in a way so that the evolved models and observed data are consistent – an observation first made by Tuchman &amp; Wheeler (1990). We compare the available optical data on OB supergiants with computed evolutionary tracks of massive stars of metallicity relevant to the LMC with and without helium-enriched envelopes and conclude that a large fraction (≈ 60 per cent) of supergiant stars may occur in binaries. As these less evolved binaries will later evolve into massive X-ray binaries, the observed number and orbital period distribution of the latter can constrain the evolutionary scenarios of the supergiant binaries. The distributions of post main sequence binaries and closely related systems like WR + O stars are bimodal–consisting of close and wide binaries in which the latter type is numerically dominating. When the primary star explodes as a supernova leaving behind a neutron star, the system receives a kick and in some cases can lead to runaway O-stars. We calculate the expected space velocity distribution for these systems. After the second supernova explosion, the binaries in most cases, will be disrupted leading to two runaway neutron stars. In between the two explosions, the first born neutron star's spin evolution will be affected by accretion of mass from the companion star. We determine the steady-state spin and radio luminosity distributions of single pulsars born from the massive stars under some simple assumptions. Due to their great distance, only the brightest radio pulsars may be detected in a flux-limited survey of the LMC. A small but significant number of observable single radio pulsars arising out of the disrupted massive binaries may appear in the short spin period range. Most pulsars will have a low velocity of ejection and therefore may cluster around the OB associations in the LMC.</p>
 				</abstract>
 				<keywords>stellar evolution;binary stars;Large Magellanic Cloud;radio pulsar population</keywords>
 				<authors>
@@ -6529,7 +6537,7 @@
 				<feature></feature>
 				<page>0053-0059</page>
 				<abstract>
-					<p></p>
+					<p>We have attempted to devise a scheme by which it may be possible to identify pulsars which are likely to be 𝛾 –ray pulsars. We apply this test to a representative population of pulsars and identify the likely candidates for 𝛾 emission . We also discuss some individual cases including the Crab and Vela pulsars.</p>
 				</abstract>
 				<keywords>pulsars, 𝛾−rays</keywords>
 				<authors>
@@ -6559,7 +6567,8 @@
 				<feature></feature>
 				<page>0061-0107</page>
 				<abstract>
-					<p></p>
+					<p>The observed 𝑢𝑣𝑏𝑦  and H𝛽 indices of member stars of the Hyades and Praesepe clusters have been analysed in detail for rotation effects. The Alpha Persei, Pleiades and the Centaurus subgroup of the Scorpio–Centaurus association have been reanalysed using the observed indices instead of the extinction-corrected indices used earlier. The observed rotation effects from the analysis of these cluster data are found to be in excellent agreement with the theoretical predictions of Collins &amp; Sonneborn (1977). We have also analysed the 𝛽, 𝑐 and (𝑢 – 𝑏) values of the member stars of NGC 1976, 2264, 2287, 2422, 4755,1C 2391, IC 2602 and IC 4665 for rotation effects. The results are found to be consistent with the theoretical predictions</p>
+					<p>The observed slopes of the rotation effects were used to determine the zero rotation main sequence values of the intermediate band photometric indices for selected clusters. We also corrected the observed indices for each star in each cluster using the theoretical predictions of Collins and Sonneborn and derived the ZRMS values for each cluster. The agreement between the two determinations is found to be good. The various ZRMS curves were utilised to derive the ZRZAMS values. A preliminary calibration of the absolute visual magnitudes as a function of 𝛽 valid for ZRZAMS has also been derived. The ZRMS values of the intermediate band photometric indices for different clusters and the ZRZAMS values are listed as a function of 𝛽.</p>
 				</abstract>
 				<keywords>stars, rotation;stars, colours;star clusters, individual</keywords>
 				<authors>
@@ -6584,7 +6593,7 @@
 				<feature></feature>
 				<page>0109-0128</page>
 				<abstract>
-					<p></p>
+					<p>The effect of rotation on the observed colours of stars has been considered as a possible cause for the blue straggler phenomenon in clusters listed by Mermilliod (1982). It appears that this phenomenon is definitely not real in the case of the late Β and early A spectral type blue stragglers that are intrinsic slow rotators. Among clusters containing the early Β type blue stragglers it is found that the anomalous position of the stragglers in NGC 6633, NGC 6475 and NGC 2516 cannot be accounted for by rotation effects alone.</p>
 				</abstract>
 				<keywords>stars, rotation;stars, colours;star clusters, individual;stars, blue stragglers</keywords>
 				<authors>
@@ -6614,8 +6623,7 @@
 				<feature></feature>
 				<page>0129-0144</page>
 				<abstract>
-					<p></p>
-				</abstract>
+					<p>The system gain of two CCD systems in regular use at the Vainu Bappu Observatory, Kavalur, is determined at a few gain settings. The procedure used for the determination of system gain and base-level noise is described in detail. The Photometrics CCD system at the 1-m reflector uses a Thomson-CSF TH 7882 CDA chip coated for increased ultraviolet sensitivity. The gain is programme-selected through the parameter ‘cgain’ varying between 0 and 4095 in steps of 1. The inverse system gain for this system varies almost linearly from 27.7 electrons DN<sup>-1</sup> at cgain = 0 to 1.5 electrons DN<sup>-1</sup> at cgain = 500. The readout noise is ≤ 11 electrons at cgain = 66. The Astromed CCD system at 2.3-m Vainu Bappu Telescope uses a GEC P8603 chip which is also coated for enhanced ultraviolet sensitivity. The amplifier gain is selected in discrete steps using switches in the controller. The inverse system gain is 4.15 electrons DN<sup>-1</sup> at the gain setting of 9.2, and the readout noise ∼ 8 electrons.</p>				</abstract>
 				<keywords>CCD photometry;CCD spectroscopy;system gain;readout noise</keywords>
 				<authors>
 					<author>
@@ -6645,9 +6653,7 @@
 				<title>Obituary Harlan J. Smith 1924–1991</title>
 				<feature></feature>
 				<page>0145-0149</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -6665,7 +6671,7 @@
 				<feature></feature>
 				<page>0151-0165</page>
 				<abstract>
-					<p></p>
+					<p>The behaviour of pulsars at low radio-frequencies (below ~ 50 MHz) remains poorly understood mainly due to very limited observational data on pulsars at these frequencies. We report here our measurements of pulse profiles at 34.5 MHz of 8 pulsars using the Gauribidanur Radio Telescope none of the 8 pulsars show any significant interpulse emission at this frequency which conflicts with an earlier claim from 25 MHz observations. With the exception of one pulsar (PSR 0943 + 10) all the observed pulsars show turnovers at frequencies above 35 MHz in their spectra. We also report our attempts to study the short and long term variations in the pulsar signals at this low frequency.</p>
 				</abstract>
 				<keywords>Pulsar Observations at 34.5 MHz using the Gauribidanur Telescope: I</keywords>
 				<authors>
@@ -6691,7 +6697,7 @@
 				<feature></feature>
 				<page>167-0173</page>
 				<abstract>
-					<p></p>
+					<p>We discuss here the design details of an inexpensive programmable Sweeping Local Oscillator System (SLOS) built for use in a `swept frequency dedispersion scheme' for pulsar observations. A useful extension of the basic Divide-and Add algorithm for frequency synthesis is developed for this purpose. An SLOS based on this design has been built and used for high time-resolution observations of pulsars at low radiofrequencies.</p>
 				</abstract>
 				<keywords>pulsars;interstellar scattering;dispersion</keywords>
 				<authors>
@@ -6712,7 +6718,7 @@
 				<feature></feature>
 				<page>0175-0194</page>
 				<abstract>
-					<p></p>
+					<p>Mid-ultraviolet and optical photometric analysis of helium stars are presented. Α linear relation exists between the effective temperature derived from model atmospheres and (1965-V)<sub>0</sub> index. The effective temperatures derived from (1965-V)<sub>0</sub> index are somewhat higher than that of MK spectral type estimates especially for late B-type helium objects.</p>
 				</abstract>
 				<keywords>Helium stars;photometry;effective temperature.</keywords>
 				<authors>
@@ -6738,7 +6744,7 @@
 				<feature></feature>
 				<page>0195-0207</page>
 				<abstract>
-					<p></p>
+					<p>High speed photometry during the lunar occultation of a stellar system provides an effective means of achieving high angular resolution in one dimension at the sub arc second level which is well suited for resolving close binary projected separations in the range of 10–100 milliarc seconds. An optical fast photometer designed for such a purpose is described and some results from the initial observations taken with the system including the resolution of a projected separation of 55 milli arcsecond in one binary system are detailed.</p>
 				</abstract>
 				<keywords>lunar occultation;fast photometry;photomultiplier;binaries;angular resolution.</keywords>
 				<authors>
@@ -6768,7 +6774,7 @@
 				<feature></feature>
 				<page>0209-0216</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity observations, begun independently at Cambridge and at Ames by the respective authors and now including results from no fewer than six radial-velocity spectrometers, show that the K1 III star HR 4793 is a spectroscopic binary; it has a circular orbit with a period of 111 days and the quite modest amplitude of 7kms<sup>-1</sup></p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;orbits;stars, individual;HR 4793</keywords>
 				<authors>
@@ -6795,7 +6801,7 @@
 				<feature></feature>
 				<page>0217-0239</page>
 				<abstract>
-					<p></p>
+					<p>We report a study of the kinematics of the cometary globules in the Gum Nebula using the 𝐽= 1 → 0 transition line of <sup>12</sup>CO. A morphological center for the system with which 60% of the globules are associated is identified. It is shown that the observed radial velocities of the heads of the globules are consistent with an expansion of the system. Systematic velocity gradients are present along some of the tails. The estimated <i>expansion age</i> and the <i>tail stretching age</i> are both ~ a few million years, suggesting a common origin for the expansion and the formation of the tails. The presence of young stars of similar ages in some of the globules points to star formation triggered by the same cause. Possible scenarios are briefly discussed.</p>
 				</abstract>
 				<keywords>Cometary globules;Gum Nebula;star formation</keywords>
 				<authors>
@@ -6815,7 +6821,7 @@
 				<feature></feature>
 				<page>0241-0265</page>
 				<abstract>
-					<p></p>
+					<p>This paper presents observations of SiO maser emission from 161 Mira variables distributed over a wide range of intrinsic parameters like spectral type, bolometric magnitude and amplitude of pulsation. The observations were made at 86.243 GHz, using the 10·4 m millimeter-wave telescope of the Raman Research Institute at Bangalore, India. These are the first observations made using this telescope. From these observations, we have established that the maser emission is restricted to Miras having mean spectral types between M6 and M10. The infrared period-luminosity relation for Mira variables is used to calculate their distances and hence estimate their maser luminosities from the observed fluxes. The maserluminosity is found to be correlated with the bolometric magnitude of the Mira variable. On an H–R diagram, the masing Mira variables are shown to lie in a region distinct from that for the non-masing ones.</p>
 				</abstract>
 				<keywords>stars;SiO masers;stars;long period variables;star;slate type;masers;SiO;radio lines;molecular</keywords>
 				<authors>
@@ -6847,7 +6853,7 @@
 				<feature></feature>
 				<page>0267-0277</page>
 				<abstract>
-					<p></p>
+					<p>Photopolarimetric observations of comet Austin with the IAU/IHW filter system were obtained on the 2.34m Vainu Bappu Telescope (VBT) of the Indian Institute of Astrophysics, at Kavalur, India, during pre-perihelion phase on February 20,1990 and on the 1.2m telescope of the Physical Research Laboratory at Gurusikhar, Mount Abu during postperihelion phase on May 2 and 4, 1990. The comet appeared bluer than a solar analog during post-perihelion phase on May 2 and 4. The percent polarization shows a sharp increase towards the red on May 2 and 4. The dominant sizes of the dust particles appear to lie in a narrow range of 0.1 to  0.5 µm. Regarding the molecular band emission, CN and C<sub>2</sub> bands are quite  strong; C<sub>3</sub> emission was also found to be strong though the observations on May 2 and 4 show significant variation as compared to C<sub>2</sub> emission.  Molecular band polarization for CN, C<sub>3</sub>, C<sub>2</sub> and H<sub>2</sub>O+ have been calculated. It has been found that emission polarization in CN, C<sub>2</sub> and C<sub>3</sub> is  between 1–7% (phase angle between 107.4–109 degrees). For CN and C<sub>2</sub> the polarization values are close to the theoretically predicted values, but for C<sub>3</sub> the polarization value falls much below the theoretically predicted value. A similar result was found for comet Halley.</p>
 				</abstract>
 				<keywords>comet;polarization;molecules;dust</keywords>
 				<authors>
@@ -6882,7 +6888,7 @@
 				<feature></feature>
 				<page>0279-0286</page>
 				<abstract>
-					<p></p>
+					<p>Photometric data, covering a span of two and a half years, have been analysed for the chromospherically active giant star HD 86005. It was found to undergo light variations and a photometric period of 89.0 ± 0.3 days was determined. Evidence suggests that these brightness variations are due to the rotation of unevenly distributed starspots.</p>
 				</abstract>
 				<keywords>chromospheric activity;late type giant;starspots;HD 86005</keywords>
 				<authors>
@@ -6925,7 +6931,7 @@
 				<feature></feature>
 				<page>0287-0291</page>
 				<abstract>
-					<p></p>
+					<p>There are indications now that globular clusters contain a large number of low magnetic field millisecond pulsars. Since millisecond pulsars are expected to emit 𝛾-rays due to curvature radiation, it is likely that globular clusters will themselves be sources of 𝛾-rays bright enough to be detectable by present day instruments. Using the expression derived by Scharlemann, Arons &amp; Fawley (1978) of the energy acquired by the  electrons moving along the open magnetic field lines of the pulsars we have calculated the likely luminosity of 𝛾-rays from globular clusters. We discuss our results in the light of the calculations reported in the literature based on some of the other models.</p>
 				</abstract>
 				<keywords>globular clusters;pulsars;resurrected neutron stars;𝛾-rays</keywords>
 				<authors>
@@ -6955,7 +6961,7 @@
 				<feature></feature>
 				<page>0293-0305</page>
 				<abstract>
-					<p></p>
+					<p>We present the results from CCD photometry in the 𝑉, 𝑅 and 𝐼 bands, of the ‘Dipper Asterism’ region of the open cluster Μ67 based on observations carried out at the prime focus of the 2.3 m Vainu Bappu Telescope of the Vainu Bappu Observatory, Kavalur. The CCD parameters like the system gain and the readout noise are measured using several flatfield frames taken through the standard 𝐼 filter. The CCD chip is calibrated using the photometric standards in the field and linear colour transformation relations are derived. Also a few new 𝑉𝑅𝐼 photometric measurements are reported for the members of the cluster.</p>
 				</abstract>
 				<keywords>Open clusters, M67;photometry;CCD calibration</keywords>
 				<authors>
@@ -6990,7 +6996,8 @@
 				<feature></feature>
 				<page>0307-0318</page>
 				<abstract>
-					<p></p>
+					<p>A detailed spectroscopic investigation of LR Sco which was earlier misclassified as R CrB star is made. Atmospheric parameters and elemental abundances are determined using detailed depth-dependent model atmospheres and line synthesis technique. Most of the elements show near solar abundances.</p>
+					<p>The strength of circumstellar components seen in Na D lines are used to derive the mass loss rate. Another independent estimate of mass loss rate is made using the observed infrared flux from 1–100µm. These two approaches lead to nearly the same value of mass loss rate when 𝑀<sub>𝑣</sub> is assumed to be –4.5 for this star.</p>
 				</abstract>
 				<keywords>Semi-regular variables;abundances;infrared flux;mass loss</keywords>
 				<authors>
@@ -7020,7 +7027,7 @@
 				<feature></feature>
 				<page>0319-0326</page>
 				<abstract>
-					<p></p>
+					<p>A dynamical model composed of a disk galaxy with an elliptic companion, moving in a circular orbit, is used in order to study the stellar orbits in a binary galaxy. Using the Poincare surface of section we study the evolution of the stochastic regions in the primary galaxy considering the mass of the companion or the value of the Jacobi’s integral as a parameter. Our numerical calculations suggest that the regions of stochasticity increase, as the mass of the companion or the value of the Jacobi’s integral increase. An interesting observation is that only direct orbits become stochastic.</p>
 				</abstract>
 				<keywords>interacting galaxies;surface of section;stochastic orbits</keywords>
 				<authors>
@@ -7045,7 +7052,7 @@
 				<feature></feature>
 				<page>0327-0347</page>
 				<abstract>
-					<p></p>
+					<p>We present a method of a possible physical identification of the static and axially symmetric Weyl-type vacuum 𝛾 and 𝑛𝛾 metrics. This method, in which no interior solutions of any kind are involved, is based  on the comparison of the far-field forms of the 𝛾 and 𝑛 metrics, and of the far-field form of the metric tensor due to a bounded gravitating  perfect-fluid source given correctly to post-Newtonian accuracy. The  parameters of the vacuum solutions are expressed in terms of physical parameters of a prolate fluid source, namely total mass-energy, semiaxes and eccentricity, defined consistently to post-Newtonian accuracy. The results, based on the otherwise arbitrary fluid source, appear physically  general. Possible astrophysical candidates for the far-field and 𝑛𝛾 metrics are proposed, based on the conditions imposed on them by the identification method. The advantages and deficiencies of the identification method are briefly discussed.</p>
 				</abstract>
 				<keywords>Weyl metrics;perfect fluid sources;far field metrics;identification</keywords>
 				<authors>
@@ -7069,9 +7076,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0349-0350</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7080,9 +7085,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0351-0352</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7095,9 +7098,7 @@
 				<title>Obituary</title>
 				<feature>Jan Hendrik Oort 1900–1992</feature>
 				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7113,7 +7114,7 @@
 				<feature></feature>
 				<page>0007-0017</page>
 				<abstract>
-					<p></p>
+					<p>Near infrared coronal line emission at 1.98 ± 0.02µm due to [Si VI] detected in the spectrum of Nova Herculis 1991 about 17 days after optical maximum is reported. The early appearance of coronal emission is yet another unusual feature of this fast nova in which early onset of dust formation processes and X-ray detection five days after outburst have already been reported. The coronal line observations reported here are consistent with X-ray detection and support a hot shocked circumstellar envelope at the periphery of the dust formation zone in the nova.</p>
 				</abstract>
 				<keywords>Nova Her 91;infrared spectrophotometry;coronal line emission;shock heating;circumstellar dust</keywords>
 				<authors>
@@ -7143,7 +7144,7 @@
 				<feature></feature>
 				<page>0019-0035</page>
 				<abstract>
-					<p></p>
+					<p>The formation of spiral structure in a galaxy, as a result of the  gravitational perturbation caused by a permanent companion, is studied. It is found that spiral structure appears only when a resonance exists between the rotational frequency of the stars in the galaxy and the rotational frequency of the companion galaxy. The number of spiral arms depends strongly on the particular resonance. In the case where the companion moves in an elliptic orbit, spiral arms are formed when a resonance, inside the galactic body, exists in almost all the parts of the orbit or, at least, in the largest part of it.</p>
 				</abstract>
 				<keywords>interacting galaxies;spiral structure;kinematics and dynamics of galaxies </keywords>
 				<authors>
@@ -7168,7 +7169,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<abstract>
-					<p></p>
+					<p>Near infrared measurements in the J, Η and Κ bands have been carried out for a number of symbiotic stars with the 1.5 m telescope at the Rothney Astrophysical Observatory (RAO). A comparison with the earlier observations shows that the S-type symbiotic stars do not have any significant variation in the infrared flux over the past five years. However a small variation ~ 0·3 magnitude in the infrared flux has been detected for CH Cygni. The observations of HM Sagittae show large decreases in the infrared flux compared to the previous measurements. The variability in the infrared fluxes of both these objects could be attributed to a variation in the temperature due to the cooling of the dust shell. The variability observed for V1016 Cygni is found consistent with the previous measurements.</p>
 				</abstract>
 				<keywords>Symbiotic stars;infrared photometry;Mira variables;circumstellar dust shell;red giants;extinction;accretion disc</keywords>
 				<authors>
@@ -7193,7 +7194,7 @@
 				<feature></feature>
 				<page>0045-0052</page>
 				<abstract>
-					<p></p>
+					<p>We have taken the case of a circular H filament observed on May 9, 1979 erupting into a double-ribbon flare associated witha a nonspot region. The plage motions are responsible for the filament reorientation and, here as a special case, wherein the filament attains a clear circular shape before the onset of a flare. We conclude that the change in the orientation of the H filament marks the instability giving rise to the flare.</p>
 				</abstract>
 				<keywords>Spectroheliograms;spotless flare;H𝛼 filament;plages</keywords>
 				<authors>
@@ -7225,7 +7226,7 @@
 				<feature></feature>
 				<page>0053-0063</page>
 				<abstract>
-					<p></p>
+					<p>We have constructed the bolometric light curve of SN 1993J based on UBVRI(JHK) photometric data obtained from various sources and assuming 𝐴<sub>𝑣</sub> = 0 and a distance modulus of 27.6. Effective temperatures and photosphere radius at various times have been obtained from detailed blackbody fits. The bolometric light curve shows two maxima. The short rise time to the second maximum, and the luminosities at the minimum and the second maximum are used to constrain the properties of the progenitor star. The total mass of the hydrogen envelope MH, in the star is found to be $\lesssim 0·2 M_\odot$ at the time of explosion, and the explosion ejected about $0.05 Μ_\odot$ of Ni<sup>56</sup>. Thin hydrogen envelope combined with a sufficient presupernova luminosity suggest that the exploding star was in a binary with a probable period range of 5yr ≤ 𝑃<sub>orb</sub> ≤ 11yr.</p>
 				</abstract>
 				<keywords>Stars: Supernovae: SN1993J;techniques: photometry;stars: evolution</keywords>
 				<authors>
@@ -7255,7 +7256,10 @@
 				<feature></feature>
 				<page>0065-0082</page>
 				<abstract>
-					<p></p>
+					<p>The various and hitherto partially unsolved problems relative to the origin of bipolar jets or highly collimated fast outflows in planetary nebulae are reviewed within the framework of a sationary magnetohydrodynamic model.</p>
+					<p>In order to explain the observations of high polar velocities and the presence of polar blobs or knots in planetary nebulae, theoretical models are proposed taking into account both a large scale azimuthal magnetic field and an anisotropic turbulent velocity field.</p>
+					<p>The models predict equatorial-to-polar density ratios which are rather small, in the range 2 to 3. Conversely, the polar-to-equatorial velocity  contrasts are higher, with typical values upto 10. Thus the <i>ad hoc</i> hypothesis implicit in the literature that the density contrast is varying in inverse ratio to the velocity one, does not seem well adapted to the bipolar jet phenomenon in planetary nebulae.</p>
+					<p>We point out, therefore, that the bipolar jets have to be considered as a transient aspect of a very complex phenomenon. The model can be  applied to objects such as He 2–104 or Mz3, M2–9.</p>
 				</abstract>
 				<keywords>Planetary nebula;bipolar;magnetic field</keywords>
 				<authors>
@@ -7275,7 +7279,7 @@
 				<feature></feature>
 				<page>0083-0095</page>
 				<abstract>
-					<p></p>
+					<p>we have tried to determine the rate of chemical evolution of high redshift galaxies from the observed redshift distruibution of the heavy element absorption systems in the spectra of QSQs, taking into account the evolution in the intensity of the metagalactic UV ionizing radiation background, the radius and/or the co-moving number density of, and the fraction of mass in the form of gas in, the absorbers. The data for both the Lyman limit systems and the C IV systems have been fitted simultaneously. It seems that the abundance of carbon has possibly increased by about a factor of 5 to 20 from the cosmic time corresponding to the redshift ≃ 4 to 2. The data also suggest that either the radius or the co-moving number density of the galaxies increased with redshift up to 𝑧 = 2.0 and decreased slowly thereafter. The total mass of the halo gas was higher in the past, almost equal to the entire mass of the galaxy at 𝑧 = 4. The hydrogen column density distribution for Lyman limit systems predicted by the model is in agreement with the observed distribution.</p>
 				</abstract>
 				<keywords>High redshift galaxies;chemical evolution;Lyman limit systems;C IV absorption systems;diffuse UV radiation background</keywords>
 				<authors>
@@ -7301,7 +7305,7 @@
 				<feature></feature>
 				<page>0097-0102</page>
 				<abstract>
-					<p></p>
+					<p>We have analysed a large, homogeneous sample of Lyman alpha lines, observed at intermediate resolution, using the maximum likelihood method. The analysis shows that the evolutionary index , is a function of rest equivalent width with stronger lines evolving faster. The mean equivalent width increases with redshift. This behaviour is similar to that exhibited by the heavy element absorption lines in the quasar spectra.</p>
 				</abstract>
 				<keywords>Galaxies;quasars;absorption lines</keywords>
 				<authors>
@@ -7326,7 +7330,7 @@
 				<feature></feature>
 				<page>0103-0114</page>
 				<abstract>
-					<p></p>
+					<p>In this paper, the analytical and numerical results of the stability analysis of the accretion disk at the inner boundary is presented. Including the effect of finite conductivity in the  disk dynamics, a simple calculation considering only the radial perturbation has been carried out. Within local approximation, it is concluded that the disk is stable to Kelvin-Helmholtz and resistive electromagnetic modes whereas the magnetosonic mode can destabilise the disk structure.</p>
 				</abstract>
 				<keywords>Accretion disks;hydromagnetics;instability</keywords>
 				<authors>
@@ -7362,9 +7366,7 @@
 				<title>Obituary</title>
 				<feature>JOHN BOLTON – Astronomer Extraordinary</feature>
 				<page>0115-0120</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7380,7 +7382,7 @@
 				<feature></feature>
 				<page>0121-0129</page>
 				<abstract>
-					<p></p>
+					<p>The straight arc in the galaxy-cluster Abell 2390 is investigated in the framework of a gravitational lens model that invokes a single background source galaxy. An extended source galaxy at a redshift of 0·913 is being marginally lensed by the foreground X-ray cluster of galaxies  at a redshift of 0·231. It is demonstrated that a single lensed galaxy lying on or very near to the lip caustic of the cluster lens is capable of reproducing the linear morphology with the observed breaks.</p>
 				</abstract>
 				<keywords>Gravitational lensing;straight arc;lip caustic;galaxy clusters </keywords>
 				<authors>
@@ -7407,7 +7409,7 @@
 				<feature></feature>
 				<page>0131-0134</page>
 				<abstract>
-					<p></p>
+					<p>The observed infrared excess in Be stars is usually interpreted as free-free and free-bound emission from a hot gas envelope around the Be star. This hot gas should also emit Η-alpha line radiation. Earlier observations had suggested that the infrared excess and Hα radiation were not consistent with models in which they arise from the same ionized region; however the observations were made at different times. We have made simultaneous observation of infrared and Η-alpha line radiation. Our observations imply that either both these radiations cannot arise from the same hot gas or additional processes have to be invoked to account for the observed excess infrared radiation.</p>
 				</abstract>
 				<keywords>Be-stars;H-alpha;infrared.</keywords>
 				<authors>
@@ -7447,7 +7449,7 @@
 				<feature></feature>
 				<page>0135-0139</page>
 				<abstract>
-					<p></p>
+					<p>It is sometimes suggested that the change from the horizontal to the normal branch in the X-ray intensity-hardness ratio diagram of low mass X-ray binaries, is due to a change from a thin to a thick disk. It is shown here that wind from the hot thick disk depletes the amount of matter reaching the neutron star, thus causing the observed reduction of X-ray intensity as hardness ratio decreases in the normal branch.</p>
 				</abstract>
 				<keywords>X-rays;binary system;accretion disk</keywords>
 				<authors>
@@ -7472,7 +7474,7 @@
 				<feature></feature>
 				<page>0141-0143</page>
 				<abstract>
-					<p></p>
+					<p>Pointed ROSAT PSPC exposures of 9277 and 6992 sec, directed toward the nearby, single, cool, magnetic white dwarfs GR 290 and EG 250 yielded no counts significantly above the expected background rate. The corresponding flux limits (for an assumed source temperature of l keV) are 1.0 and 1.7 × 10<sup>-14</sup> erg cm<sup>-2</sup> s<sup>-1</sup>, within the 0.1–2.5 keV bandpass of the instrument (99% confidence limits). This is more than an order of magnitude below the tentative detection level (for GR 290) and limits (for four other similar stars) obtained from archival Einstein data in 1991. The corresponding limits on coronal electron density are comparable with those implied if cyclotron emission is not responsible for any of the features observed in the optical spectra of magnetic white dwarfs. X-ray data currently provide no evidence for the existence of coronae around these stars. A final long observation (25,000 sec of GD 356) is scheduled for later this year on ROSAT, along with coordinated EUVE observations.</p>
 				</abstract>
 				<keywords>White dwarfs;stellar coronae;X-ray emission</keywords>
 				<authors>
@@ -7505,7 +7507,7 @@
 				<feature></feature>
 				<page>0145-0165</page>
 				<abstract>
-					<p></p>
+					<p>Several arguments that justify establishing a revised abundance calibration for DDO photometry of population I red giants are presented. The components of the blanketing vector in the DDO 𝐶(45–48) vs 𝐶(42–45) diagram are determined for late-type dwarfs and giants. We have redefined the DDO cyanogen anomaly and calibrated it against metallicity. The sample of field giants now available with abundances derived from high dispersion spectroscopy is substantially larger than previously available, leading to a more accurate abundance calibration. Iso-abundance lines in the 𝐶(41–42) vs 𝐶(42–45) diagram have been determined for population IG and Κ giants and an iterative method for deriving abundances of these stars is described. We show that the new DDO abundances are in very good agreement with those derived from high dispersion spectroscopy. The new method improves by about 0.1 dex the DDO abundances derived for early G and/or late Κ giants, with respect to the δCN method of Janes (1975)</p>
 				</abstract>
 				<keywords>Technique: photometry;stars: late-type;stars: population I;stars: general.</keywords>
 				<authors>
@@ -7535,7 +7537,7 @@
 				<feature></feature>
 				<page>0167-0179</page>
 				<abstract>
-					<p></p>
+					<p>A two-dimensional instability analysis for a magneto-keplerian disk flow around a compact object is presented here. Using the eigenvalue technique, lenearly coupled perturbed equations have been numerically solved within the local approximation. It is concluded that Kelvin-Helmholtz, magnetosonic (fast and slow) and resistive electromagnetic modes exist. However, only the magnetosonic mode can destabilise the disk structure. Further, we discuss the properties of different modes as a function of disk parameters and plot the eigenmode structures for different physical quantities.</p>
 				</abstract>
 				<keywords>Accretion disks;hydromagnetics;instability</keywords>
 				<authors>
@@ -7569,9 +7571,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0181-0181</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7580,9 +7580,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0183-0184</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7595,9 +7593,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0001-0001</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7606,9 +7602,7 @@
 				<title>Planck's Law and the Light Quantum Hypothesis</title>
 				<feature></feature>
 				<page>0003-0007</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7626,10 +7620,8 @@
 			<entry hassup="0">
 				<title>Correlation between Photons in Two Coherent Beams of Light</title>
 				<feature></feature>
-				<page>0027-0032</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<page>0013-0025</page>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7649,9 +7641,7 @@
 				<title>Letter to the Editor</title>
 				<feature>Nature (1956)</feature>
 				<page>0027-0032</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7667,7 +7657,7 @@
 				<feature></feature>
 				<page>0039-0045</page>
 				<abstract>
-					<p></p>
+					<p>A brief account is given of the early development of a new  technique, intensity interferometry, to measure the angular size of radio sources. Following the chance discovery that it was unaffected by scintillation it was proposed to apply the same principle to measuring visible stars. This proposal met with vigorous opposition from physicists when it was realised that it implied that the time of arrival of photons in two mutually coherent beams of light must be correlated. Two laboratory experiments were done to demonstrate that this correlation does in fact take place. Then, after a pilot model had measured the angular size of Sirius, a full scale stellar intensity interferometer was built and installed at Narrabri in Australia. In a programme lasting 12 years it measured the angular diameters of 32 single stars in the spectral range Ο to F and established the first wholly empirical temperature scale for stars in that range. For the last 10 years the work has been continued by the  construction of the larger and more sensitive Sydney University Stellar Interferometer called SUSI.</p>
 				</abstract>
 				<keywords>Instrumentation: interferometers;stars: fundamental parameters.</keywords>
 				<authors>
@@ -7688,7 +7678,7 @@
 				<feature></feature>
 				<page>0047-0067</page>
 				<abstract>
-					<p></p>
+					<p>This review presents a selection of recent highlights of observations of R Coronae Borealis variables. Emphasis is placed on an abundance analysis of a complete sample (18 stars) of the warm galactic RCBs. It is shown that 14 of the 18 have very similar compositions: the  iron mass fraction ranges about a factor of 3 around the solar value (assuming C/He = 3%) but abundance ratios X/Fe for elements from Na to Ba show little variation. By contrast, the other 4 stars are deficient in iron but not in Na, Si, S and some other elements. With for example, [Si/Fe] ≃ 2, the quartet is indeed ‘peculiar’. One of the quartet, V854 Cen shows depletions of elements (other than CNO) similar to the depletions seen in interstellar medium corresponding to average log 𝑛(𝐻<sub>tot</sub>) = – 1.5. Scenarios for creating RCB from normal single and double stars are summarised.</p>
 				</abstract>
 				<keywords>Hydrogen deficient stars;irregular variables;abundances;evolution.</keywords>
 				<authors>
@@ -7714,7 +7704,7 @@
 				<feature></feature>
 				<page>0069-0083</page>
 				<abstract>
-					<p></p>
+					<p>We have looked for and found a possible spatial correlation between the present pulsar distribution and the estimated locations of the  spiral arms at earlier epochs. Through a detailed statistical analysis we find a significant correlation between the present distribution of pulsars and the mass distribution (in the spiral arms) expected about 60 Myr ago for a corotation resonance radius of 14kpc. We discuss the implications of this correlation for the minimum mass of the progenitors of pulsars. Interpreting the spread in the locations of pulsars with respect to the past locations of the spiral arms as predominantly due to their space velocities, we derive an average velocity for the pulsar population.</p>
 				</abstract>
 				<keywords>Pulsars: velocities;galaxy: structure, dynamics;stars: end states.</keywords>
 				<authors>
@@ -7740,7 +7730,7 @@
 				<feature></feature>
 				<page>0085-0094</page>
 				<abstract>
-					<p></p>
+					<p>The Anuradha cosmic ray experiment in Spacelab-3, flown in the orbit at 350 km with an inclination of 57° for about six days, was used to measure the low energy galactic cosmic ray (GCR) heavy ions using a specially designed CR-39 detector module incorporating the arrival time information of the particles. The abundances of sub-iron (Sc–Cr) and iron particles in the low energy interval of 30–300 MeV/N were determined from the measurements made in four different depths of the CR-39 detector module of 150 layers. From these studies we obtained sub-iron (Sc–Cr) to iron abundance ratios of 0·8 to 1·2 in 30–300 MeV/N energy range. It is found that these ratios are enhanced by a factor of two as compared to interplanetary ratios of about 0·5. It is shown that the enhancement of the ratio inside the earth's magnetosphere is probably due to the degree of ionization of low energy Sc to Cr and Fe ions in the galactic cosmic rays and to the rigidity filtering effects of the geomagnetic field. Further studies are needed to understand fully the phenomena and their implications.</p>
 				</abstract>
 				<keywords>Cosmic ray abundances;subiron and iron nuclei;space lab-3;Anuradha experiment</keywords>
 				<authors>
@@ -7791,7 +7781,7 @@
 				<feature></feature>
 				<page>0095-0102</page>
 				<abstract>
-					<p></p>
+					<p>The weather-imageries from the INSAT group of satellites provide reliable and concurrent multistation cloud-cover data – an important input for a proper selection of an observatory site for optical, infra-red and 𝛾-ray astronomy work. Using these data, it is shown that Gurushikar, Mt. Abu, promises to be an excellent site for setting up the proposed GRACE facility for high-sensitivity Gamma-Ray Astrophysics Cerenkov Experiments.</p>
 				</abstract>
 				<keywords>Insat-satellites;cloud-imageries;observatory site-selection;groundbased gray astronomy.</keywords>
 				<authors>
@@ -7827,9 +7817,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0103-0103</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7838,9 +7826,7 @@
 				<title>The Density of White Dwarf Stars</title>
 				<feature></feature>
 				<page>0105-0109</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7856,7 +7842,7 @@
 				<feature></feature>
 				<page>0115-0116</page>
 				<abstract>
-					<p></p>
+					<p>The theory of the <i>polytropic gas spheres</i> in conjunction with the equation of state of a <i>relativislically degenerate electron-gas leads to a unique value for the mass of a star</i> built on this model. This mass (= <sub>0.9</sub>I⊙) is interpreted as representing the upper limit to the mass of an ideal white dwarf.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -7872,9 +7858,7 @@
 				<title>Some Remarks on the State of Matter in the Interior of Stars.</title>
 				<feature></feature>
 				<page>0119-0125</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7898,9 +7882,7 @@
 				<title>Stellar Configurations with degenerate Cores.</title>
 				<feature></feature>
 				<page>0133-0137</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -7920,7 +7902,7 @@
 				<feature></feature>
 				<page>0143-0156</page>
 				<abstract>
-					<p></p>
+					<p>An attempt is made to infer the structure of the solar convection zone from observed 𝑝-mode frequencies of solar oscillations. The differential asymptotic inversion technique is used to find the sound speed in the solar envelope. It is found that envelope models which use the Canuto-Mazzitelli (CM) formulation for calculating the convective flux give significantly better agreement with observations than models constructed using the mixing length formalism. This inference can be drawn from both the scaled frequency differences and the sound speed difference. The sound speed in the CM envelope model is within 0.2% of that in the Sun except in the region with 𝑟 > 0.99𝑅<sub>⊙</sub>. The envelope models are extended below the convection zone, to find some evidence for the gravitational settling of helium beneath the base of the convection zone. It turns out that for models with a steep composition gradient below the convection zone, the convection zone depth has to be increased by about 6 Mm in order to get agreement with helioseismic observations.</p>
 				</abstract>
 				<keywords>Sun: oscillations;convection</keywords>
 				<authors>
@@ -7945,7 +7927,7 @@
 				<feature></feature>
 				<page>0157-0163</page>
 				<abstract>
-					<p></p>
+					<p>Massive stars have significant influence on the evolution of the interstellar medium. Bright rims, cometary morphology of clouds, as well as their motion are some examples of the influence of massive stars on nearby molecular clouds. The cometary clouds in the Gum-Vela region are very good examples. In an attempt to understand the kinematics of the clouds in such regions we have carried out CO line observations towards bright-rimmed clouds near the OB Association Cep OB2. The radial velocities of the clouds are consistent with an expansion of the system at ≈ 4kms<sup>-1</sup> away from the dominant O6.5V star in the association, HD206267. We find the rocket mechanism to be the most likely cause for expansion as found for both the Gum-Vela and the Rosette globules. We conclude that such expanding motions are quite common in regions near massive stars and make a brief comparison of the Cepheus system with the Gum-Vela system</p>
 				</abstract>
 				<keywords>Bright-rimmed clouds;OB associations</keywords>
 				<authors>
@@ -7970,7 +7952,7 @@
 				<feature></feature>
 				<page>0165-0178</page>
 				<abstract>
-					<p></p>
+					<p>Light curves of the long period RS CVn type eclipsing binary RZ Eri, obtained during the period 1976–1979 with the 1.2 m telescope of the Japal–Rangapur Observatory are analysed, using Wilson–Devinney method, by fixing the two parameters 𝑇<sub>ℎ</sub> (7400°K) and 𝑞(0.963), resulting in the following absolute elements: 𝐴 = 72.5 ± 1.4 𝑅<sub>⊙</sub>, 𝑅<sub>ℎ</sub> = 2.84 ± 0.12 𝑅<sub>⊙</sub>, 𝑅<sub>𝑐</sub> = 6.94 ± 0.20 𝑅<sub>⊙</sub>, 𝑀<sub>bol, h</sub> = 1.35 ± 0.28, 𝑀<sub>bol, c</sub>= 1.41 ± 0.28, 𝑚<sub>ℎ</sub> = 1.69 ± 0.06 𝑚<sub>⊙</sub> and 𝑚<sub>𝑐</sub>= 1.63 ± 0.13 𝑚<sub>⊙</sub>. The presence of humps and dips of varying amplitudes at a few phases in the normal UBV light curves is explained as due to residual distortion wave. The derived (B-V) and (U-B) colours of both the components appear to have been reddened to an extent of 0<sup>𝑚</sup>.20 in (B-V) and 0<sup>𝑚</sup>.16 in (U-B) colours. This reddening is attributed to the presence of an envelope around the system, the material of which might have come from the loss of mass experienced by the evolving cooler component. Taking into consideration the dereddened colours and temperatures of the components, spectral types of 𝐹0 IV for the primary and G 5–8 III–IV for the secondary component were derived. The fractional radii of 0.039 and 0.096 of the two components, when compared with the radii of their critical Roche lobes of 0.378 and 0.372 suggest that these components are well within their critical sizes. From the position of the components on the. isochrones and the evolutionary tracks of stars of Pop I composition computed by Maeder &amp; Meynet, it is concluded that the evolution of the components of RZ Eri is abnormal. This system is found to be situated at a distance of 185 pc, with an age of about 2.5 × 10<sup>9</sup>yrs.</p>
 				</abstract>
 				<keywords>Eclipsing binaries, orbital elements, evolution;long period RS CVn stars;stars, individual.</keywords>
 				<authors>
@@ -8000,7 +7982,7 @@
 				<feature></feature>
 				<page>0179-0186</page>
 				<abstract>
-					<p></p>
+					<p>Recent accelerator data based parameterization of the inclusive cross section (𝑐 – 𝑠) for 𝜋0 production in hadronic collisions and an explicit incorporation of the finiteness of the relevant projectile hadron spectrum suggest a significant steepening in the spectrum (by as much as 0.4 in the spectral index) of the secondary 𝛾-ray towards the end of the spectrum. We emphasize here that this spectral steepening in conjunction with the possibility that in the bright X-ray binaries the maximum energy to which the 𝛾-ray producing progenitor protons may be accelerated is only ~ 10 PeV, may imply an effective efficiency for 𝛾-ray production, ε, as reckoned by the PeV arrays, one or two orders smaller than the previous estimates. To explain the genesis of a given PeV photon flux from an X-ray binary, one, therefore, has to. accordingly consider a much higher value of the progenitor proton beam luminosity, 𝐿<sub>𝑝</sub>. This requirement may raise further questions regarding the actual genesis of PeV 𝛾-rays in X-ray binaries, or alternatively, on the veracity of the high values of the PeV photon fluxes reported by earlier experiments.</p>
 				</abstract>
 				<keywords>Gamma rays: general;particle acceleration;radiation mechanisms;cosmic rays: general.</keywords>
 				<authors>
@@ -8020,7 +8002,7 @@
 				<feature></feature>
 				<page>0187-0192</page>
 				<abstract>
-					<p></p>
+					<p>Using the Andersen (1991) data on the mass, absolute visual magnitude, the effective surface temperature and the bolometric  corrections, new calibrations for the mass vs. absolute visual magnitude and for the bolometric correction vs. effective surface temperature have been derived. Comparison between the latest evolutionary models with the empirical data has been made to test the evolutionary models for the purpose of stellar population studies.</p>
 				</abstract>
 				<keywords>Mass-luminosity relation;evolutionary models;bolometric correction.</keywords>
 				<authors>
@@ -8050,7 +8032,7 @@
 				<feature></feature>
 				<page>0193-0196</page>
 				<abstract>
-					<p></p>
+					<p>In view of the recent report on the discovery of low mass halo stars for the candidates of MACHOs, a calculation has been made for the possible enhancement of 𝑀/𝐿 ratio for populations of stars of varying mass domains taking the input data from the latest present day mass function (PDMF) of stars. It is seen that there is good scope for explaining dark matter problem where the dark matter is mostly in the form of low mass stars.</p>
 				</abstract>
 				<keywords>Baryonic dark matter—present day mass function and M/L ratio.</keywords>
 				<authors>
@@ -8075,7 +8057,7 @@
 				<feature></feature>
 				<page>0197-0200</page>
 				<abstract>
-					<p></p>
+					<p>A volume-limited sample of F-dwarfs is chosen from Knude (1989) with low radial velocity as well as distance from the sun and compared with the expected model metallicity [Fe/H] distributions, taking the possible chemical inhomogeneity into account. There is found to be an agreement between the two within the error limits of small sampling.</p>
 				</abstract>
 				<keywords>Metallicity distribution;F-dwarfs;star formation.</keywords>
 				<authors>
@@ -8102,9 +8084,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0201-0202</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8113,9 +8093,7 @@
 				<title>On a Physical Theory of Stellar Spectra</title>
 				<feature></feature>
 				<page>0203-0239</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8133,9 +8111,7 @@
 				<title>The Maxima of Absorption Lines in Stellar Spectra</title>
 				<feature></feature>
 				<page>0241-0239</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8156,7 +8132,7 @@
 				<feature></feature>
 				<page>0275-0308</page>
 				<abstract>
-					<p></p>
+					<p>A radio survey, using the Very Karge Array at 20 and 90cm 𝛾 has been carried out in the direction of 46 distant Abell clusters $(0.1 \lesssim z \lesssim 0.3)$ dominated by a cD galaxy (clusters classified to be Bautz-Morgan I type). A radio source coincident with the cD galaxy was detected in 16 clusters. We find that the radio luminosity function of the cD galaxies at 20cm 𝛾, and below the luminosity 𝑃<sub>1.4GHz</sub> ≲ 10<sup>24·5</sup> W Hz<sup>-1</sup>, is similar to that of brightest ellipticals in less clustered environments. Above this luminosity, the cDs seem to have a higher probability of becoming radio sources. The effect of optical brightness on radio emission is shown to be the same for the two classes. No significantly large population of very steep-spectrum sources with spectral index α > 1.2 (flux density ∝ frequency<sup>-α</sup>) was found to be associated with cD galaxies. A significant negative correlation is found between the radio luminosity of the cD galaxy and the cooling-time of the intra cluster medium near the galaxy. We also present evidence that the probability of radio emission from first-ranked galaxies is dependent upon their location relative to the geometrical centres of clusters and thus related to the morphological class and the evolutionary state of the clusters. We argue that both these effects are primarily caused by the dynamical evolution of these distant clusters of galaxies.</p>
 				</abstract>
 				<keywords>Clusters of galaxies;cD galaxies;radio luminosity function;cooling flows.</keywords>
 				<authors>
@@ -8181,7 +8157,7 @@
 				<feature></feature>
 				<page>0309-0319</page>
 				<abstract>
-					<p></p>
+					<p>Hd 163621 is a double-lined spectroscopic binary in a circular orbit whose period is 3.3 days. Spectral classification of the components has proved difficult, but current results of K0 V and late Κ V are reasonably consistent with our best model of the system, which has spectral types of G8V and K7V. The object shows photometric variability and chromospheric activity and is therefore a member of the BY Draconis class of variables. The minimum masses are quite small, 0.10 and 0.07 𝑀<sub>⊙</sub> for the primary and secondary, respectively, suggesting an orbital inclination of about 30°. The system is synchronously rotating. Its distance is estimated to be 31 pc, which makes it an excellent candidate for a trigonometric parallax determination.</p>
 				</abstract>
 				<keywords>Stars;spectra;spectroscopic binaries;radial velocities;orbits;stars, individual: HD 163621.</keywords>
 				<authors>
@@ -8216,7 +8192,7 @@
 				<feature></feature>
 				<page>0321-0328</page>
 				<abstract>
-					<p></p>
+					<p>Photometry in 𝑉 and 𝐵 with a 16inch automatic telescope from 1988 to 1991 confirms the synchronous rotation suspected earlier and reveals variability up to 0<sup>M</sup>.10 in the 𝐵 bandpass at one epoch. Five spots formed with lifetimes ranging from 0.15 to 0.77 years. As with other rapid rotators, the differential rotation coefficient (𝑘 = 0.03) is significantly smaller than that of the Sun (𝑘 = 0.19).</p>
 				</abstract>
 				<keywords>Photometry;individual stars;HD163621;V835Herculis;variable stars;binary stars;starspots;chromospheric activity.</keywords>
 				<authors>
@@ -8241,7 +8217,7 @@
 				<feature></feature>
 				<page>0329-0341</page>
 				<abstract>
-					<p></p>
+					<p>In this paper, we describe pulsar observations at decametric wavelengths using the Gauribidanur Radio Telescope made subsequent to our earlier measurements (Deshpande &amp; Radhakrishnan 1992). To improve the time-resolution in our measurements of pulse profiles, we have used the ‘swept-frequency dedispersion’ method with some modifications to suit its application at such low radio frequencies. We also present a new scheme that simplifies the calibration of the receiver gain characteristics. We present average profiles on four pulsars from these improved measurements at 34.5 MHz.</p>
 				</abstract>
 				<keywords>Pulsars;average profiles;dispersion.</keywords>
 				<authors>
@@ -8266,7 +8242,7 @@
 				<feature></feature>
 				<page>0343-0353</page>
 				<abstract>
-					<p></p>
+					<p>A fast digital signal processor has been designed and built for survey and some observations of pulsars. The processor obtains spectral information over a bandwidth of 16 MHz (256 channels) every 25µsecs Wedescribethe design ofthisprocessor and present some test observations made with the Ooty Radio Telescope.</p>
 				</abstract>
 				<keywords>Pulsars;instrumentation: signal processing.</keywords>
 				<authors>
@@ -8302,9 +8278,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0355-0355</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Indian Academy of Sciences in 1943.</keywords>
 				<authors>
 					<author>
@@ -8319,9 +8293,7 @@
 				<title>Fluctuations of light intensity in coron æ formed by diffraction</title>
 				<feature></feature>
 				<page>0357-0371</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8337,7 +8309,7 @@
 				<feature></feature>
 				<page>0387-0414</page>
 				<abstract>
-					<p></p>
+					<p>We present Very Large Array observations at wavelengths of 2, 3.5, 6, and 20 cm, of angular broadening of radio sources due to the solar wind in the region 2–16 solar radii. Angular broadening is anisotropic with axial ratios in the range 2–16. Larger axial ratios are observed preferentially at smaller solar distances. Assuming that anisotropy is due to scattering blobs elongated along magnetic field lines, the distribution of position angles of the elliptically broadened images indicates that the field lines are non-radial even at the largest heliocentric distances observed here. At 5𝑅<sub>⊙</sub>, the major axis scattering angle is ~ 0.7" at 𝜆= 6 cm and it varies with heliocentric distance as 𝑅<sup>-1.6</sup>. The level of turbulence, characterized by the wave structure function at a scale of 10 km along the major axis, normalized to 𝜆 = 20 cm, has a value 20 ± 7 at 5𝑅<sub>⊙</sub> and varies with heliocentric distance as 𝑅<sup>-3</sup>. Comparison with earlier resu lts suggest that the level of turbulence is higher during solar maximum. Assuming a power-law spectrum of electron density fluctuations, the fitted spectral exponents have values in the range 2.8–3.4 for scale sizes between 2–35 km. The data suggests temporal fluctuations (of up to 10%) in the spectral exponent on a time scale of a few tens of minutes. The observed structure functions at different solar distances do not show any evidence for an inner scale; the upper limits are 1 km at 2 𝑅<sub>⊙</sub> and 4 km at 13 𝑅<sub>⊙</sub>. These upper limits are in conflict with earlier determinations and may suggest a reduced inner scale during solar maximum.</p>
 				</abstract>
 				<keywords>Sun: solar wind, scintillations, angular broadening;Methods: observational, radio imaging.</keywords>
 				<authors>
@@ -8367,7 +8339,8 @@
 				<feature></feature>
 				<page>0415-0443</page>
 				<abstract>
-					<p></p>
+					<p>Lack of reliable estimates of distances to most of the local dark clouds has, so far, prevented a quantitative study of their kinematics. Using a statistical approach, we have been able to extract the average spatial distribution as well as the kinematical behaviour of the local dark clouds from their measured radial velocities. For this purpose, we have obtained radial velocities for 115 southern clouds and used the data from the literature for the northern ones. In this paper we present this new data, analyse the combined data and compare our results with those arrived at by earlier studies.</p>
+					<p>The local clouds are found to be expanding at a speed of ~ 4 kms<sup>-1</sup> which is in general agreement  with the estimates from optical and HI studies. However, it is found that the kinematics of the local clouds is not described by the model proposed for the local HI gas where a ring of gas expanding from a point gets sheared by the galactic rotation. Rather, the observed distribution of their radial velocities is best understood in terms of a model in which the local clouds are participating in circular rotation appropriate to their present positions with a small expansion also superimposed. This possibly implies that cloud-cloud collisions are important. The spatial distribution of clouds derived using such a model is in good agreement with the local dust distribution obtained from measurements of reddening and extinction towards nearby stars. In particular, a region of size ~ 350 pc in diameter enclosing the Sun is found to be devoid of clouds. Intriguingly, most clouds in the longitude range 100° to 145° appear to have negative radial celocities implying that they are approaching us.</p>
 				</abstract>
 				<keywords>Local ISM structure;Gould’s belt;dispersion in cloud velocities.</keywords>
 				<authors>
@@ -8386,9 +8359,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0445-0446</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8397,9 +8368,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0447-0448</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
