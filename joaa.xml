@@ -8382,7 +8382,7 @@
 				<feature></feature>
 				<page>0001-0036</page>
 				<abstract>
-					<p></p>
+					<p>Radio maps at 5 GHz with an angular resolution of 1 to 2 arcsec and a dynamic range $\gtrsim 200:1$ are presented for a sample of 45 radio quasars at redshifts between 0.2 and 1.5. The sources were imaged from observations made with the Very Large Array with the aim of investigating the epoch dependence of misalignments and asymmetries in their extended radio structure. Maps of some of the larger radio sources are presented also at a frequency of 1.5 GHz with a typical angular resolution of ~ 4 arcsec. The radio structure of most of the quasars reported here has been delineated in considerably greater detail than available in the literature.</p>
 				</abstract>
 				<keywords>Quasars;active galactic nuclei;radio structure.</keywords>
 				<authors>
@@ -8402,7 +8402,7 @@
 				<feature></feature>
 				<page>0037-0043</page>
 				<abstract>
-					<p></p>
+					<p>We present velocity observations, obtained with the E. W. Fick Observatory 0.6 m telescope, of the 7th magnitude 𝐾1 star HR 7112. Our observations show that HR 7112 is a double-line spectroscopic binary system composed of almost equal mass stars with a period of 215.6 days. The orbit has an eccentricity 𝑒 = 0.142 and the stars orbit each other with a mean semi-major axis distance of approximately 0.4sin(i) AU. The masses of the stars are consistent with the classification as giant stars. Tidal effects are known to circularise the orbits of giant stars and this process is apparently underway in this system.</p>
 				</abstract>
 				<keywords>Spectroscopic binary stars;radial velocity.</keywords>
 				<authors>
@@ -8432,7 +8432,7 @@
 				<feature></feature>
 				<page>0045-0052</page>
 				<abstract>
-					<p></p>
+					<p>The effect of internal noise on the response characteristics of nonlinear radial pulsation in polytropic model has been investigated using the equivalent linearization technique. The model of the noise is taken to be δ-correlated with zero mean. Both non-stationary and stationary response characteristics have been computed for various nonlinearity parameters in different polytropes.</p>
 				</abstract>
 				<keywords>Pulsation;radial, star;polytropes, noise.</keywords>
 				<authors>
@@ -8467,7 +8467,7 @@
 				<feature></feature>
 				<page>0053-0067</page>
 				<abstract>
-					<p></p>
+					<p>A detailed statistical analysis of pulsar <i>current</i> is presented. The conclusions reached are the following: (1) The birthrate of pulsars is about one in 75 ± 15 years. (2) There is evidence for <i>injection</i> of pulsars into the population of solitary pulsars. Such an injection is particularly pronounced in the magnetic field range 12 &lt; log 𝐵  &lt; 12.6. (3) This is interpreted as due to <i>recycled pulsars</i> being released into the population. (4) We tentatively conclude that as much as 10 – 15% of all pulsars may have been born and processed in binary systems.</p>
 				</abstract>
 				<keywords>Pulsars;stars: evolution;stars: magnetic, stars: stellar statistics.</keywords>
 				<authors>
@@ -8498,9 +8498,7 @@
 				<title>The Progenitors of Pulsars</title>
 				<feature></feature>
 				<page>0069-0088</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8528,9 +8526,7 @@
 				<title>New Pulsar/Supernova Remnant Associations</title>
 				<feature></feature>
 				<page>0089-0095</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8559,7 +8555,7 @@
 				<feature></feature>
 				<page>0097-0106</page>
 				<abstract>
-					<p></p>
+					<p>Radio pulsars have long been established as having high velocities that are probably produced in the violence of their formation in Supernovae (Gunn &amp; Ostriker 1970; Lyne, Anderson &amp; Salter 1982). Three recent developments have resulted in a reassessment oftheir velocities: the adoption of a new distance scale (Taylor &amp; Cordes 1993), many new determinations of proper motion (Harrison, Lyne &amp; Anderson 1993; Bailes et al. 1992) and the realisation (Harrison &amp; Lyne 1993) that estimates of speeds derived from scintillation measurements were systematically low by about a factor of 2. Taking into account a strong selection effect that makes the observed velocities unrepresentative of those acquired at birth, it seems that the mean space velocity of pulsars at birth is 450 ± 90 km s<sub>-1</sub> (Lyne and Lorimer 1994), about a factor of 3 greater than earlier estimates. The general migration from the Galactic plane is consistent with birth in the supernova of massive population I stars. An outstanding question is how such velocities are produced in the kinetics of supernova collapse. This large increase in birth velocity is likely to have a major impact upon our understanding of the retention of neutron stars in binary systems, globular clusters and the Galaxy as it exceeds or is comparable with all their escape velocities. The rapid spatial separation of fast and slow pulsars will have a profound effect upon calculations of the galactic population and birth rate, both of which have been underestimated in the past. Furthermore, the distribution of dead neutron stars will be more isotropic and may better match the distribution of the gamma-ray burst sources. A small number of pulsars are at a large distance from the Galactic plane, but moving towards it. The most likely origin of these objects lies in OB runaway stars.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8584,7 +8580,7 @@
 				<feature></feature>
 				<page>0107-0117</page>
 				<abstract>
-					<p></p>
+					<p>Observations of mean or average pulse profiles and their polarization give us much information on the shape of pulsar beams. The observed polarization variations, profile symmetry and frequency dependence of profile shape strongly suggest that the emission beam is conical and emitted from the vicinity of a magnetic pole. Central and outer parts of the beam have somewhat different properties, but the evidence is that they are emitted by the same basic mechanism. Recent observations suggest that the highly polarized pulse components seen in young pulsars may be emitted at a large angle to the magnetic axis</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8604,7 +8600,7 @@
 				<feature></feature>
 				<page>0119-0135</page>
 				<abstract>
-					<p></p>
+					<p>The difficulties of the pulsar magnetosphere problem are illustrated by two models for the axisymmetric magnetic rotator: (a) a classical model, in which the return current problem is linked with angular momentum dissipation through incoherent gamma radiation beyond the light-cylinder; and (b) a quantum model, in which electronpositron pairs are produced near the star, and spin-down is primarily through the transport of angular momentum by an e+ - e- wind. The first model has some pedagogic value, but it makes the embarrassing prediction that all the spin-down energy is emitted as gammaradiation. In the second model a predicted small but significant emission in gamma- and X-rays is again linked with the return current problem, but the bulk of the energy emission is through the wind. The presence of both a high-𝛾 pair plasma is a required by most models of coherent microwave emission. Problems persist in ensuring that the macroscopic conditions on the electric field are locally consistent with the microphysics. The most promising picture is of a spontaneous local hydromagnetic instability that yields a large effective resistivity. Some remarks are made on future extension of the theory to oblique geometry. For agreement with observations of the Crab nebula, the predicted dominance in the wind of the Poynting flux must be reversed in the far magnetosphere.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8624,7 +8620,8 @@
 				<feature></feature>
 				<page>0137-0164</page>
 				<abstract>
-					<p></p>
+					<p>The theory of pulsar radio emission is reviewed critically, emphasizing reasons why there is no single, widely-accepted emission mechanism. The uncertainties in our understanding of how the magnetosphere is populated with plasma preclude predicting the properties of the emission from first principles. Some important observational features are incorporated into virtually all the proposed emission mechanisms, and other observational features are either controversial or fail to provide criteria that clearly favor one mechanism over others. It is suggested that the criterion that the emission mechanism apply to millisecond, fast yound, and slow pulsars implies that it is insensitive to the magnetic field strength.</p>
+					<p>It is argued that coherent emission processes in all astrophysical and space plasmas consist of emission from many localized, transient subsources, that any theory requires both an emission mechanism and a statistical theory for the subsource, and, that this aspect of coherent emission has been largely ignored in treatments of pulsar radio emission. Several specific proposed emission mechanisms are discussed critically: coherent curvature emission by bunches, relativistic plasma emission, maser curvature emission, cyclotron instability and free electron maser emission. It is suggested that some form of relativistic plasma emission is the most plausible candidate although one form of maser curvature emission and free electron maser emission are not ruledout. Propagation effects are discussed, emphasizing the interpretation of jumps between orthogonal polarizations.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8644,7 +8641,7 @@
 				<feature></feature>
 				<page>0165-0171</page>
 				<abstract>
-					<p></p>
+					<p>Two investigations of millisecond pulsar radiation are discussed: average total intensity pulse morphology and individual pulse to pulse fluctuations. The average emission profiles of millisecond pulsars are compared with those of slower pulsars in the context of polar cap models. In general the full widths of pulsar emission regions continue to widen inversely with priod 𝑃<sup>-(0.30-0.5)</sup> as expected for dipole polar cap models. Many pulse components are very narrow. The period scaling of pulsar profiles – separations and widths – can tell us about the angular distribution of radiating currents. An investigation of individual pulses from two millisecond pulsars at 430 MHz shows erratic pulse to pulse variations similar to that seen in slow pulsars. PSR Β1937+21 displays occasional strong pulses that are located in the trailing edge of the average profile with relative flux densities in the range of 100 to 400. These are similar to the giant pulses seen in the Crab pulsar.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8662,9 +8659,9 @@
 			<entry hassup="0">
 				<title>Gamma-Ray Pulsars</title>
 				<feature></feature>
-				<page>0713-0178</page>
+				<page>0173-0178</page>
 				<abstract>
-					<p></p>
+					<p>Various observations of 𝛾-ray pulsars are summarized briefly and related to outer-magnetosphere accelerator models.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8684,7 +8681,7 @@
 				<feature></feature>
 				<page>0179-0190</page>
 				<abstract>
-					<p></p>
+					<p>One of the most remarkable properties of radio pulsars is their rotational stability which allows many uses as clocks, For instance they enable us to determine the shapes and sizes of binary orbits, to study general relativistic effects in strong gravitational fields, to demonstrate the existance of gravitational radiation from binary systems, to permit the detection of extra solar planets, and also to put limits on the long period gravitational wave background. However, some display timing imperfections which tell us about the insides of neutron stars. This review describes the basic physics of slowdown and how period instabilities seem to be related to the rate of slowdown and the presence of internal superfluid liquid. Careful studies of glitches and the subsequent rotational behaviour of the pulsars can provide valuable information on the internal structure of neutron stars.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8714,7 +8711,7 @@
 				<feature></feature>
 				<page>0191-0206</page>
 				<abstract>
-					<p></p>
+					<p>It is shown that if neutron stars contain dynamically decoupled components, most plausibly discrete superfluid zones, then it is possible for the spin axes of these components o become slightly misaligned with respect to the crustal spin following a series of glitches. The crust will then undergo Lese-Thirring precession about the total angular moment with a period of ~ 6 – 7.5 𝑃 (assuming a crustal superfluid) and ~ 3 – 6𝑃 (if the core superfluid is not tightly coupled to the crust). The precise precessional period is diagnostic of the mass distribution within each component. The implications of recent observational inferences concerning glitching pulsars are discussed. The conditions necessary for precession to be observable are analysed phenomenologically and a search of pulse-timing data for evidence of a Lense-Thirring modulation within the period range ~ 3 – 8𝑃 is proposed.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8734,7 +8731,7 @@
 				<feature></feature>
 				<page>0207-0216</page>
 				<abstract>
-					<p></p>
+					<p>Interactions among a neutron star’s superfluid neutrons, superconducting protons, and solid crust cause predictable spin-down and spin-up driven crustal motion and magnetic field changes. Applications and unsolved problems are discussed for millisecond pulsar evolution and properties, glitches and post-glitch responses, and transcient gamma-ray emission.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8754,7 +8751,7 @@
 				<feature></feature>
 				<page>0217-0232</page>
 				<abstract>
-					<p></p>
+					<p>Observational evidence, and theoretical models of the magnetic field evolution of neutron stars is discussed. Observational data indicates that the magnetic field of a neutron star decays significantly only if it has been a member of a close interacting binary. Theoretically, the magnetic field evolution has been related to the processing of a neutron star in a binary system through the spin evolution of the neutron star, and also through the accretion of matter on the neutron star surface. I describe two specific models, one in which magnetic flux is expelled from the superconducting core during spin-down, via a copuling between Abrikosov fluxoids and Onsager-Feynman vortices; and another in which the compression and heating of the stellar crust by the accreted mass drastically reduces the ohmic decay time scale of a magnetic field configuration confined entirely to the crust. General remarks about the behaviour of the crustal field under ohmic diffusion are also made.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8774,7 +8771,7 @@
 				<feature></feature>
 				<page>0233-0244</page>
 				<abstract>
-					<p></p>
+					<p>Recent searches for millisecond and binary pulsars are reviewed, with particular emphasis on the nearly complete Parkes southern survey. Correlations between several of the major parameters of these systems are discussed.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8794,7 +8791,7 @@
 				<feature></feature>
 				<page>0245-0253</page>
 				<abstract>
-					<p></p>
+					<p>We have obtained deep 6, 20 and 90 cm observation of two of the richest globular clusters in the galaxy, Terzan 5 and Liller 1. In addition to the well known eclipsing pulsar, PSR1744-24A, our 20 cm image of Terzan 5 displays numerous point sources within 30", or 4 core radii of the cluster center. The density of these objects rises rapidly toward the core, where an elongated region of emission is found. This feature may be due to the presence of a higher density of point sources than can be resolved by the 1" resolution of our data. Observations at 6 and 90 cm show that the brightest individual sources, as well as the extended emission, possess the steep spectra expected of pulsars. Furthermore, we find that the strength of the sources in the 20 cm image agrees well with the standard pulsar luminosity function. The total luminosity and number of objects observed in Terzan 5 suggest that this cluster may contain 100 pulsars – probably more than any other Galactic cluster. Although we do not resolve individual sources in Liller 1, comparison of our images with other observations suggests that we are again observing the sum of emission from a number of objects. The 90 cm flux densities of Terzan 5 and Liller 1 are 35 and 9 mJy, respectively, implying that a number of bright pulsars in these clusters have been hidden from pulsed searches, perhaps by a combination of dispersion smearing, scattering and doppler broadening.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8819,7 +8816,7 @@
 				<feature></feature>
 				<page>0255-0288</page>
 				<abstract>
-					<p></p>
+					<p>The evolution of high-and low-mass X-ray binaries (HMXB and LMXB) into different types of binary radio pulsars, the `high-mass binary pulsars' (HMBP) and `low-mass binary pulsars' (LMBP) is discussed. The HMXB evolve either into Thorne-Zytkow objects or into short-period binaries consisting of a helium star plus a neutron star (or a black hole), resembling Cygnus X-3. The latter systems evolve (with or without a second common-envelope phase) into close binary pulsars, in which the companion of the pulsar may be a massive white dwarf, a neutron star or a black hole (some final systems may also consist of two black holes). A considerable fraction of the systems may also be disrupted in the second supernova explosion. we discuss the possible resons why the observed numbers of double neutron stars and of systems like Cyg X-3 are several orders of magnitude lower than theoretically predicted. It is argued that the observed systems form the tip of an iceberg of much larger populations of unobserved systems, some of which may become observable in the future. As to the LMBP, we consider in some detail the origins of systems with orbital periods in the range 1-20 days. We show that to explain their existence, losses of orbital angular momentum (e.g., by magnetic braking) and in a number of cases: also of mass, have to be taken into account. The masses of the low-mass white dwarf companions in these systems can be predicted accurately. We notice a clear correlation between spin period and orbital period for these systems, as well as a clear correlation between pulsar magnetic field strength and orbital period. These relations strongly suggest that increased amounts of mass accreted by the neutron stars lead to increased decay of their magnetic fields: we suggest a simple way to understand the observed value of the `bottom' field strengths of a few times 10<sup>8</sup> G. Furthermore, we find that the LMBP-systems in which the pulsar has a strong magnetic field (&gt; 1o<sup>11</sup> G) have an about two orders of magnitude larger birth rate (i.e., about 4 × 10<sup>-4</sup> yr<sup>-1</sup> in the Galaxy) than the systems with millisecond pulsars (which have B &lt; 10<sup>9</sup> G). Using the observational fact that neutron stars reveive a velocity kick of ~450 km/s at birth, we find that some 90% of the potential progenitor systems of the strongfield LMBP must have been disrupted in the Supernovae in which their neutron stars were formed. Hence, the formation rate of the progenitors of the strong-field LMBP is of the same order as the galactic supernova rate (4 × 10<sup>-3</sup> yr<sup>-1</sup>). This implies that a large fraction of all Supernovae take place in binaries with a close low-mass  (&lt; 2.3 M<sub>⊙</sub>) companion.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8839,7 +8836,7 @@
 				<feature></feature>
 				<page>0289-0305</page>
 				<abstract>
-					<p></p>
+					<p>I review our understanding of the evolution of the spin periods of neutron stars in binary stellar systems, from their birth as fast, spin-powered pulsars, through their middle life as accretion-powered pulsars, upto their recycling or "rebirth" as spin-powered pulsars with relatively low magnetic fields and fast rotation. I discuss how the new born neutron star is spun down by electromagnetic and "propeller" torques, until accretion of matter from the companion star begins, and the neutron star becomes an accretion-powered X-ray pulsar. Detailed observations of massive radio pulsar binaries like PSR 1259-63 will yield valuable information about this phase of initial spindown. I indicate how the spin of the neutron star then evolves under accretion torques during the subsequent phase as an accretion-powered pulsar. Finally, I describe how the neutron star is recycling, with the accompanying reduction in the stellar magnetic field, the orgins of which are still not completely understood.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8858,9 +8855,7 @@
 				<title>Binary Pulsars and Relativistic Gravity</title>
 				<feature></feature>
 				<page>0307-0325</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8880,9 +8875,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -8898,7 +8891,9 @@
 				<feature></feature>
 				<page>0327-0355</page>
 				<abstract>
-					<p></p>
+					<p>We explore the detailed polarization behaviour of pulsar 0823 + 26 using the technique of constructing partial ‘mode-separated’ profiles corresponding to the primary and secondary polarization modes. The characteristics of the two polarization modes in this pulsar are particularly interesting, both because they are anything but orthogonal and because the secondary mode exhibits a structure seen neither in the primary mode nor in the total profile. The new leading and trailing features in the secondary mode, which appear to represent a conal component pair, are interpreted geometrically on the basis of their width and the associated polarization-angle traverse as an outer cone.</p>
+					<p>If the secondary-mode features are, indeed, an outer cone, then questions about the significance of the pulsar’s postcursor component become more pressing. It seems that 0823 + 26 has a very nearly equatorial geometry, in that both magnetic poles and the sightline all fall close to the rotational equator of the star. We thus associate the postcursor component with emission along those bundles of field lines which are also equatorial and which continue to have a tangent in the direction of our sight line for a significant portion of the star’s rotation cycle. It seems that in all pulsars with postcursor components, this emission follows the core component, and all may thus have equatorial emission geometries. No pulsars with precursors in this sense – including the Crab pulsar – are known.</p>
+					<p>The distribution of power between the primary and secondary modes is very similar at both 430 and 1400 MHz. Our analysis shows that in this pulsar considerable depolarization must be occurring on time scales that are short compared to the time resolution of our observations, which is here some 0.5–1.0 milliseconds. One of the most interesting features of the mode separated partial profiles is a phase offset between the primary and secondary modes. The secondary-mode ‘main pulse’ arrives some 1.5 ± 0.1° before the primary-mode one at 430 MHz and some 1.3 + 0.1 ° at 21 cm. Given that the polar cap has an angular diameter of 3.36°, we consider whether this is a geometric effect or an effect of differential propagation of the two modes in the inner magnetosphere of the pulsar.</p>
 				</abstract>
 				<keywords>Pulsars;polarization;PSR B0823 + 26.</keywords>
 				<authors>
@@ -8923,7 +8918,7 @@
 				<feature></feature>
 				<page>0357-0374</page>
 				<abstract>
-					<p></p>
+					<p>For accretion on to neutron stars possessing weak surface magnetic fields and substantial rotation rates (corresponding to the secular instability limit), we calculate the disk and surface layer luminosities general relativistically using the Hartle &amp; Thorne formalism, and illustrate these quantities for a set of representative neutron star equations of state. We also discuss the related problem of the angular momentum evolution of such neutron stars and give a quantitative estimate for this accretion driven change in angular momentum. Rotation always increases the disk luminosity and reduces the rate of angular momentum evolution. These effects have relevance for observations of low-mass X-ray binaries.</p>
 				</abstract>
 				<keywords>Stars: accretion;stars: accretion disks;stars: neutron;stars: rotation.</keywords>
 				<authors>
@@ -8955,7 +8950,7 @@
 				<feature></feature>
 				<page>0375-0391</page>
 				<abstract>
-					<p></p>
+					<p>An accurate numerical survey of the density proviles corresponding to the crusts of neutron stars for representative equation of state models is presented. This will find application in calculations of thermal and magnetic evolution of neutron stars.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -8987,7 +8982,7 @@
 				<feature></feature>
 				<page>0393-0398</page>
 				<abstract>
-					<p></p>
+					<p>Jupiter flux at 327 MHz was monitored using the Ooty radio telescope from July 12th to July 29th during the collision of comet Shoemaker-Levi 9 with Jupiter. Flux was found to increase steadily from July 17th to July 26th by ~ 2·5 Jy, after which it declined to its pre-event value. The comparison of 327 MHz observations with those at 840 MHz and 2240 MHz indicates that the enhancement was mainly due to the increased synchrotron emission and the contribution of thermal emission was very small at metric-decimetric frequencies. The enhancement in radio emission was found to be more at 840 MHz than at 327 or 2240 MHz. The steepening of the spectrum between 327 and 840 MHz as well as between 2240 and 840 MHz was also noted.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -9032,7 +9027,7 @@
 				<feature></feature>
 				<page>0399-0405</page>
 				<abstract>
-					<p></p>
+					<p>The effect of intense magnetic field on the cosmic quark-hadron phase transition and also on the baryon number inhomogeneity has been investigated using phenomenological MIT bag model for the quark sector. For the sake of simplicity an ideal gas equation of state has been considered for the hadronic phase.</p>
 				</abstract>
 				<keywords>Cosmic quark-hadron phase transition;Baryon number inhomogeneity;equation of state;Landau levels;quark nuggets.</keywords>
 				<authors>
@@ -9052,7 +9047,7 @@
 				<feature></feature>
 				<page>0407-0424</page>
 				<abstract>
-					<p></p>
+					<p>The 𝑈𝐵𝑉 light curves obtained by Duerbeck (1975) and 𝐻α (wide) and Hα (narrow) light curves obtained by Chambliss &amp; Davan (1987) of the detached eclipsing binary VV Orionis (VV Ori) were analysed using the Wilson-Devinney method fixing the two parameters 𝑇<sub>ℎ</sub> (25,000 K) and 𝑞(0.4172), resulting in the following absolute elements: 𝐴 = 13.605 ± 0.031𝑅<sub>⊙</sub>, 𝑅<sub>ℎ</sub> = 5.03 ± 0.03𝑅<sub>⊙</sub>, 𝑅<sub>𝑐</sub> = 2.43 ± 0.02𝑅<sub>⊙</sub>, 𝑀<sub>bol,h</sub> = – 5.18 + 0.11, 𝑀<sub>bol,c</sub> = – 1.54 ± 0.06, 𝑀<sub>ℎ</sub> = 10.81 + 0.42𝑚<sub>⊙</sub> and 𝑚<sub>𝑐</sub> = 4.51 ± 0.41𝑚<sub>⊙</sub>. The de-reddened colours obtained from applying the reddening corrections of 𝐸(𝐵-𝑉) = 0m.05 and 𝐸(𝑈-𝐵) = 0<sup>𝑚</sup>.04, and the derived temperatures of the components, gave spectral types of 𝐵1.5𝑉 for the primary and 𝐵4.5𝑉 with an 𝑈𝑉 excess of 0<sup>𝑚</sup>.03 for the secondary component. A comparison of the log 𝐿 and log 𝑇<sub>𝑒</sub> of the components with the observed ZAMS shows the primary component to be a little above and the secondary component to be a little below/or on the ZAMS. A comparison of the properties of the components of VV Ori and a few other detached systems with the normal stars in the log 𝐿, log 𝑅 and log 𝑇<sub>𝑒</sub> versus log 𝑚 planes, indicated a need for either a readjustment of the scales of the above parameters or modifications in the theoretical models. From the position of the components on the evolutionary tracks of Pop I composition computed by Schaller et al. (1992) it is noticed that while the primary component of VV Ori had slightly evolved along the main-sequence, its secondary is still unevolved. The age of VV Ori is found to be 10 ± 1 million years and it is at a distance of 368 ± 10 pc.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -9076,9 +9071,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0425-0426</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9087,9 +9080,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0427-0428</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9103,7 +9094,7 @@
 				<feature></feature>
 				<page>0001-0006</page>
 				<abstract>
-					<p></p>
+					<p>Recent technological advances have led to a dramatic improvement in the quality of photometric and spectroscopic data obtainable on stars in globular clusters. Evidence from CCD-based colour magnitude diagrams points to clear differences in age between some clusters. High dispersion spectra show that abundance variations cannot explain the observed differences. In particular, it seems that NGC 288 must be 2–3 Gyr older than NGC 362. The same spectra show that although there is a spread in some molecular band strengths in NGC 362, the total C+N+O abundance remains constant, indicating that the material has undergone varying amounts of nuclear processing. No variations are seen in the abundances of iron group elements. Lower dispersion spectra for a large sample of faint stars in 47 Tucanae, obtained with a multi-object optical fibre system, show that unevolved main sequence stars in that cluster share the same CNO variations as the bright giants. The conclusion from all these data is that the intra-cluster CNO variations are neither truly primordial nor due to evolutionary mixing. It may be that there was a sufficiently extended period of star formation for material from first generation stars to be used in later generations, or that some pollution has occurred due to mass loss. Finally, it is noted that if ‘prehistoric’ clusters exist with ages of around 50 Gyr, as hypothesised in some cosmological models, these should probably still be rather obvious and readily recognised.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -9123,7 +9114,7 @@
 				<feature></feature>
 				<page>0007-0016</page>
 				<abstract>
-					<p></p>
+					<p>Spectral analysis of the residual pulsearrival times of pulsars is a useful tool in understanding the nature of the underlying processes that may be responsible for the timing noise observed from pulsars. Power spectra of pulsar timing residuals may be described by one or a combination of powerlaws. As these spectra are expected to be very steep, it is important to ensure a high dynamic range in the estimation of the spectrum. This is difficult in practice since one is, in general, dealing with timing measurements made at unevenly placed epochs. In this paper, we present a technique based on, ‘CLEAN’ to obtain high dynamic range spectra from unevenly sampled data. We compare the performance of this technique with other techniques including some that were used earlier for estimation of power spectra of pulsar timing residuals.</p>
 				</abstract>
 				<keywords>Pulsars: timing noise;power spectra;data processing: CLEAN algorithm.</keywords>
 				<authors>
@@ -9155,7 +9146,7 @@
 				<feature></feature>
 				<page>0017-0021</page>
 				<abstract>
-					<p></p>
+					<p>We raise the question of whether velocities of left and right circularly-polarized photons might be different (for reasons other than the well-known Faraday effect). Such a difference could manifest itself either in the time profiles of pulsed or bursting astronomical sources or in the rotation of the direction of polarization of linearly polarized radiation from them. The existing observations of pulsars, gamma ray bursters, and quasar jets are used to set limits to the difference in speed, |𝑐(𝐿) – 𝑐(𝑅)|/ 𝑐 between 10<sup>-17</sup> and 10<sup>-32</sup>.</p>
 				</abstract>
 				<keywords>Chirality;propagation of light vacuum properties.</keywords>
 				<authors>
@@ -9180,7 +9171,7 @@
 				<feature></feature>
 				<page>0023-0040</page>
 				<abstract>
-					<p></p>
+					<p>Two high resolution spectra of the hot RCrB star DΥ Cen in the red region are compared. The photospheric absorption lines show a radial velocity variation of 12 kms<sup>-1</sup> between 1989 July and 1992 May. Emission components to some CII lines present in 1989 are almost entirely absent in 1992. Nebular forbidden lines of [ΟΙ], [ΝΠ] and [SII] appear unchanged from 1989 to 1992.</p>
 				</abstract>
 				<keywords>Hot RCrB stars;radial velocity;photospheric and nebular lines.</keywords>
 				<authors>
@@ -9210,7 +9201,7 @@
 				<feature></feature>
 				<page>0041-0052</page>
 				<abstract>
-					<p></p>
+					<p>Einstein Α-values are given for the electric dipole transitions in the C<sub>3</sub> H<sub>2</sub>- molecule between the rotational levels of the vibrational ground state up to 85cm<sup>-1</sup>. The mean radiation life-times of the levels are calculated from the Einstein Α-values. These values can be used as input parameters for analysing the spectra of C<sub>3</sub> H<sub>2</sub>.</p>
 				</abstract>
 				<keywords>C<sub>3</sub>H<sub>2</sub>-molecule;Einstein A-coefficients;molecular data.</keywords>
 				<authors>
@@ -9237,9 +9228,7 @@
 				<title>Stars: Their Structure and Evolution</title>
 				<feature></feature>
 				<page>0053-0076</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9254,9 +9243,7 @@
 				<title>Neutron Stars Before 1967 and my debt to Chandra</title>
 				<feature></feature>
 				<page>0077-0079</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9271,9 +9258,7 @@
 				<title>The Stellar-Dynamical Oeuvre</title>
 				<feature></feature>
 				<page>0081-0093</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9289,7 +9274,7 @@
 				<feature></feature>
 				<page>0095-0112</page>
 				<abstract>
-					<p></p>
+					<p>Chandrasekhar’s work in radiative transfer theory began in 1944 and culminated with the publication of his influential treatise <i>Radiative Transfer</i> in 1950. In this review his major contributions to radiative transfer will be recounted and evaluated. These include his development of the discrete ordinates method, the invariance principles, and his formulation and solution of the transfer equation for polarized light.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -9306,7 +9291,7 @@
 				<feature></feature>
 				<page>0113-0145</page>
 				<abstract>
-					<p></p>
+					<p>The negative ion of hydrogen continues to be important in atomic physics and astrophysics. Correlations between the two electrons are strong already in the ground state, the only bound state in this three-body system. This state attracted early interest, especially for the description of stellar atmospheres by Chandrasekhar and others. More recently, the rich spectrum of doubly-excited states, and the nature of the double escape above the break-up energy of 14.35 eV, have been central to our understanding of highly-correlated, non-separable problems in quantum physics. This article is a survey of the story of H– as it has developed over the last seventy years.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -9322,9 +9307,7 @@
 				<title>S. Chandrasekhar and Magnetohydrodynamics</title>
 				<feature></feature>
 				<page>0147-0166</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9339,9 +9322,7 @@
 				<title>The Virial Method and the Classical Ellipsoids</title>
 				<feature></feature>
 				<page>0167-0182</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9356,9 +9337,7 @@
 				<title>Making the Transition from Newton to Einstein: Chandrasekhar’s Work on the Post-Newtonian Approximation and Radiation Reaction</title>
 				<feature></feature>
 				<page>0183-0197</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9373,9 +9352,7 @@
 				<title>Stability Theory of Relativistic Stars</title>
 				<feature></feature>
 				<page>0199-0211</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9390,9 +9367,7 @@
 				<title>Chandrasekhar, Black Holes, and Singularities</title>
 				<feature></feature>
 				<page>0213-0231</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9407,9 +9382,7 @@
 				<title>Chandra and his students at Yerkes Observatory</title>
 				<feature></feature>
 				<page>0233-0268</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9424,9 +9397,7 @@
 				<title>Publications</title>
 				<feature></feature>
 				<page>269-0298</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9441,9 +9412,7 @@
 				<title>Author Index </title>
 				<feature></feature>
 				<page>0299-0299</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9452,9 +9421,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0301-0302</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9467,9 +9434,7 @@
 				<title>In Memoriam</title>
 				<feature></feature>
 				<page>0001-0002</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract/>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9489,9 +9454,7 @@
 				<title>To Victor Ambartsumian on His 80th Birthday</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9507,7 +9470,7 @@
 				<feature></feature>
 				<page>0005-0014</page>
 				<abstract>
-					<p></p>
+					<p>Power spectra of the timing noise observed in 18 southern pulsars have been derived using a novel technique, based on the CLEAN algorithm. Most of the spectra are well described by a single-or Double-component power-law model. Some of these spectra can be interpreted in the context of one or more of the current timing noise models. The results combined with those obtained from the time-domain analyses of the timing activity in these pulsars are used to assess the viability of the various theoretical models of pulsar timing noise.</p>
 				</abstract>
 				<keywords>Pulsars: timing noise;power spectra;neutron star.</keywords>
 				<authors>
@@ -9538,7 +9501,7 @@
 				<feature></feature>
 				<page>0015-0021</page>
 				<abstract>
-					<p></p>
+					<p>The effect of C-field in high density matter has been studied. We find that the negative energy and negative pressure of the C-field helps in formation of massive compact stable neutron stars of mass ~ 0.5 solar mass which is in the  range of 0.01 to 1.0 solar mass of recently observed dwarf stars.</p>
 				</abstract>
 				<keywords>Dwarf stars;neutron stars;C-field</keywords>
 				<authors>
@@ -9563,7 +9526,7 @@
 				<feature></feature>
 				<page>0023-0032</page>
 				<abstract>
-					<p></p>
+					<p>Hernquist's (1990) mass model for spherical galaxies and bulges described by the deVaucouleur's profile gives analytical expressions for the density profile and the potential. These have been used to derive a simple and exact analytical expression for the gravitational potential energy of a pair of interpenethose for polytropic and Plummer models of galaxis.</p>
 				</abstract>
 				<keywords>Stellar systems: dynamics;galaxies: interactions.</keywords>
 				<authors>
@@ -9594,7 +9557,7 @@
 				<feature></feature>
 				<page>0033-0037</page>
 				<abstract>
-					<p></p>
+					<p>we suggest that the dynamical regime(s) underlying quasiperiodic oscillations observed in the spectra of bright galactic-bulge X-ray sources are nonlinear with a mixed phase space. The important feature of such regimes is that they are generic among nonlinear Hamiltonian and nearly Hamiltonian systems of more than two degrees of freedom. We give a simple example of such chaotic (deterministic) systems whose spectra share a number of features with those observed for quasiperiodic oscillations of such sources.</p>
 				</abstract>
 				<keywords>Binaries: close;stars; oscillations;galaxy: centre;X-rays: stars.</keywords>
 				<authors>
@@ -9619,7 +9582,7 @@
 				<feature></feature>
 				<page>0039-0055</page>
 				<abstract>
-					<p></p>
+					<p>Super-active region NOAA 6555 was highly flare productive during the period March 21st – 27th, 1991 of its disk passage. We have studied its chromospheric activity using high spatial resolution Hα filtergrams taken at Udaipur along with MSFC vector magnetograms. A possible relationship of flare productivity and the variation in shear has been explored. Flares were generally seen in those subareas of the active region which possessed closed magnetic field configuration, whereas only minor flares and/or surges occurred in subareas showing open magnetic field configuration. Physical mechanisms responsible for the observed surges are also discussed.</p>
 				</abstract>
 				<keywords>Super-active region;chromosphere;flare actiity;magnetic field.</keywords>
 				<authors>
@@ -9659,7 +9622,7 @@
 				<feature></feature>
 				<page>0057-0071</page>
 				<abstract>
-					<p></p>
+					<p>The energy and angular distribution of electrons as a function of column densities initially for monoenergetic and monodirectional electron beams and incidence angles of 0°, 30° and 60° have been studied by combining small angle scattering using analytical treatment with large angle collisions using Monte Carlo calculations. Using these distributions, X-ray and EUV-line flux have been studied as a function of column density. It is observed that the line flux increases with the increase in column density, becoming significant at intermediate column densities where the electron energies and angular distributions have a non maxwellian nature.</p>
 				</abstract>
 				<keywords>Solar flares: X-ray, EUV line emission;non thermal particle distribution.</keywords>
 				<authors>
@@ -9684,7 +9647,7 @@
 				<feature></feature>
 				<page>0073-0085</page>
 				<abstract>
-					<p></p>
+					<p>We discuss the origin of the optical jets and the apparently associated cloud of QSOs in NGC 1097. There is a simple explanation for the jets in terms of ejection trails of supermassive black holes. In this interpretation, the trails provide the first direct evidence for the nonconservation of linear momentum in a two black hole collision. The cluster of quasars at the end of the jets is then naturally associated with objects which have been ejected by the merging pair of black holes. It is possible to interpret the spectral lines of these QSOs such that half of them are blueshifted relative to NGC 1097 while the other half is redshifted. We infer that the objects in the QSO cluster are not real QSOs but probably collapsed objects of lower mass. We argue that these objects are likely to represent the hypothetical population III black holes of Carr <i>et al</i>.</p>
 				</abstract>
 				<keywords>Quasars: redshifts of.</keywords>
 				<authors>
@@ -9714,7 +9677,7 @@
 				<feature></feature>
 				<page>0087-0090</page>
 				<abstract>
-					<p></p>
+					<p>The inverse Compton scattering of high energy electrons by photons is discussed and a simple derivation of the total power radiated is presented. The derivation is completely classical and exhibits clearly why similar formulas are applicable in the case of inverse compton scattering and synchroton radiation.</p>
 				</abstract>
 				<keywords>Radiation mechanisms.</keywords>
 				<authors>
@@ -9736,7 +9699,11 @@
 				<feature></feature>
 				<page>0091-0131</page>
 				<abstract>
-					<p></p>
+					<p>Pulsar Β1929+10 is remarkable on a number of grounds. Its narrow primary components exhibit virtually complete and highly stable linear polarisation, which can be detected over most of its rotation cycle. Various workers have been lured by the unprecedented range over which its linear polarisation angle can be determined, and more attempts have been made to model its emission geometry than perhaps for any other pulsar. Paradoxically, there is compelling evidence to interpret the pulsar's emission geometry <i>both</i> in terms of an aligned configuration whereby its observed radiation comes from a single magnetic-polar emission region <i>and</i> in terms of a nearly orthogonal configuration in which we receive emission from regions near each of its two poles. Pulsar 1929+10 thus provides a fascinating context in which to probe the conflict between these lines of interpretation in an effort to deepen our understanding of pulsar radio emission</p>
+					<p>Least-squares fits to the polarisation-angle traverse fit poorly near the main pulse and interpulse and have an inflection point far from the centre of the main pulse. This and a number of other circumstances suggest that the position-angle traverse is an unreliable indicator of the geometry in this pulsar, possibly in part because its low level 'pedestal' emission makes it impossible to properly calibrate a Polarimeter which correlates orthogonal circular polarisations.</p>
+					<p>Taking the interpulse and main-pulse comp. II widths as indicators of the magnetic latitude, it appears that pulsar 1929+10 has an α value near 90° and thus has a two-pole interpulse geometry. This line of  interpretation leads to interesting and consistent results regarding the geometry of the conal components. Features corresponding to both an inner and outer cone are identified. In addition, it appears that pulsar 1929+10—and a few other stars—have what we are forced to identify as a 'furtherin' cone, with a conal emission radius of about $2.3^\circ/P^{\frac{1}{2}}$.</p>
+					<p>Secondarily, 1929+10's nearly complete linear polarisation provides an ideal opportunity to study how mechanisms of depolarisation function on a pulse-to-pulse basis. Secondary-polarisation-mode emission appears in significant proportion only in some limited ranges of longitude, and the subsequent depolarization is studied using different mode-separation techniques. The characteristics of the two polarisation modes are particularly interesting, both because the primary mode usually dominates the secondary so completely and because the structure seen in the secondary mode appears to bear importantly on the question of the pulsar's basic emission geometry. New secondary-mode features are detected in the average profile of this pulsar which appear independent of the main-pulse component structure and which apparently constitute displaced modal emission.</p>
+					<p>Individual pulses during which the secondary-mode dominates the primary one are found to be considerably more intense than the others and largely depolarised. Monte-Carlo modeling of the mode mixing in this region, near the boundary of comps. II and III, indicates that the incoherent interference of two fully and orthogonally polarised modes can adequately account for the observed depolarisation. The amplitude distributions of the two polarisation modes are both quite steady: the primary polarisation mode is well fitted by a χ<sup>2</sup> distribution with about nine degrees of freedom; whereas the secondary mode requires a more intense distribution which is constant, but sporadic.</p>
 				</abstract>
 				<keywords>Pulsars;polarisation;PSR Β1929+10.</keywords>
 				<authors>
@@ -9761,7 +9728,7 @@
 				<feature></feature>
 				<page>0133-0143</page>
 				<abstract>
-					<p></p>
+					<p>We have performed proximity effect analysis of low and high resolution data, considering detailed frequency and redshift dependence of the AGN spectra processed through galactic and intergalactic material. We show that such a background flux, calculated using the observed distribution of AGNs, falls short of the value required by the proximity effect analysis by a factor of ≥ 2.7. We have studied the uncertainty in the value of the required flux due to its dependence on the resolution, description of column density distribution, systemic redshifts of QSOs etc. We conclude that in view of these uncertainties the proximity effect is consistent with the background contributed by the observed AGNs and that the hypothesized presence of an additional, dust extinct, population of AGNs may not be necessary.</p>
 				</abstract>
 				<keywords>QSO;absorption lines;Ly 𝛼-proximity effect;intergalactic ultraviolet background radiation.</keywords>
 				<authors>
@@ -9786,7 +9753,7 @@
 				<feature></feature>
 				<page>0145-0150</page>
 				<abstract>
-					<p></p>
+					<p>We show here that the H𝛼 flux from late type Be stars can be explained as emission from an HII region formed in the gas envelope around the Be star, by the UV flux emitted by a helium star binary companion. We also discuss the observability of the helium star companions.</p>
 				</abstract>
 				<keywords>Be stars;Η-alpha line;He stars.</keywords>
 				<authors>
@@ -9811,7 +9778,8 @@
 				<feature></feature>
 				<page>0151-0159</page>
 				<abstract>
-					<p></p>
+					<p>It is shown that parameters of flashes to those of Cherenkov flashes initiated by VHE gamma-quanta in the Earth atmosphere. Even after application of criteria for gamma-like events selection a considerable part of those flashes may be misclassified and accepted as gammas. Since the flashes of this kind are detected also during normal measurements with the opened lids of image cameras it just increases the background and, as a consequence, decreases the detector sensitivity even when one uses an anticoincidence scintillator shield around the camera (its efficiency is about 75 %).</p>
+					<p>The use of detectors consisting of two (or more) sections no less than 20-30 m apart permits us to avoid the detection of both muon and local charged particles flashes in the course of observations.</p>
 				</abstract>
 				<keywords>VHE 𝛾-ray astronomy-technique.</keywords>
 				<authors>
@@ -9846,7 +9814,7 @@
 				<feature></feature>
 				<page>0161-0227</page>
 				<abstract>
-					<p></p>
+					<p>Radial velocities are given for some 900 stars within 15° of the North Galactic Pole, including almost all such stars classified G5 or later in the <i>Henry Draper Catalogue</i>. Luminosities, two-dimensional spectral classes, composition indices, and distances are derived for the majority of the sample through 𝐷𝐷𝑂 and 𝐵𝑉 photometry. More than half of the stars are classified as G5 – K5 giants: they show a clear relationship between composition and velocity dispersion for the two Galactic components 𝑉 and 𝑊, and a less well-defined trend for 𝑈. Four abundance groups exhibit characteristics which imply association with, respectively, the thick disk, old thin disk, and Roman's "4140" group. The sample is contained within 1kpc of the Galactic plane, and no trends with distance are evident.</p>
 				</abstract>
 				<keywords>North Galactic Pole;radial velocities—𝐵𝑉 and 𝐷𝐷𝑂 photometry;space velocities;abundances;Galactic structure.</keywords>
 				<authors>
@@ -9872,9 +9840,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0229-0229</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9890,7 +9856,7 @@
 				<feature></feature>
 				<page>0231-0240</page>
 				<abstract>
-					<p></p>
+					<p>In this talk I outline some of the arguments in support of a cosmological and primordial origin of the observed microwave background radiation (MBR) in the early hot phase of the unicerse. This interpretation of the MBR is at the heart of the hot Big Bang model (HBBM) of the universe. The observed Planckian energy distribution of the microwave photons reflects the thermal equilibrium that can be set up naturally within HBBM in the dense early universe. Alternate interpretations face the challenge of extremely tight constraints on deviations from a Planckian distribution. Within HBBM, the formation of large scale structure is linked to tiny anisotropies in the angular distribution of the MBR photons. Recent measurements of these anisotropies seem to be broadly consistent with the predictions of the current scenarios of structure formation in the universe. Since these predictions are based on HBBM, the concurrence of data with theory provides additional support in favour of viewing the MBR as the relic of Big Bang.</p>
 				</abstract>
 				<keywords>Cosmic microwave background;cosmology: theory;large-scale structure of universe.</keywords>
 				<authors>
@@ -9907,7 +9873,11 @@
 				<feature></feature>
 				<page>0241-0249</page>
 				<abstract>
-					<p></p>
+					<p>With the exception of ZERO, the concept of BIG BANG is by far the most bizarre creation of the human mind. Three classical pillars of  the Big Bang model of the origin of the universe are generally thought to be: (i) The abundances of the light elements; (ii) the microwave background radiation; and (iii) the change with cosmic epoch in the average properties of galaxies (both active and non-active types). Evidence is also mounting for redshift dependence of the intergalactic medium, as discussed elsewhere in this volume in detail. In this contribution, I endeavour to highlight a selection of recent advances pertaining to the third category.</p>
+					<p>The Widely different levels of confidence in the claimed observational constraints in the field of cosmology can be guaged from the following excerpts from two leading astrophysicists:</p>
+					<p><i>“I would bet odds of 10 to 1 on the validity of the general ‘hot Big Bang’  concept as a description of how our universe has evolved since it was around 1 sec. old”</i> —M. Rees (1995), in ‘Perspectives in Astrophysical Cosmology’ CUP.</p>
+					<p><i>“With the much more sensitive observations available today, no astrophysical property shows evidence of evolution, such as was claimed in the 1950s to disprove the Steady State theory”</i> —F. Hoyle (1987), in ‘Fifty years in cosmology’, B.M. Birla Memorial Lecture, Hyderabad, India.</p>
+					<p>The burgeoning multi-wavelength culture in astronomy has provided a tremendous boost to observational cosmology in recent years. We now proceed to illustrate this with a sequence of examples which reinforce the picture of an evolving universe. Also provided are some relevant details of the data used in these studies so that their scope can be independently judged by the readers.</p>
 				</abstract>
 				<keywords>Galaxies;galaxies: active, cluster, evolution, intergalactic medium;cosmology.</keywords>
 				<authors>
@@ -9924,7 +9894,7 @@
 				<feature></feature>
 				<page>0251-0255</page>
 				<abstract>
-					<p></p>
+					<p>The discovery of the 3 K microwave background radiation (MBR) and its interpretation as a relict of the hot big bang was probably the most important observation that led to the elevation of the hot big bank model to the status of a `Standard Model'. The temperature of this background is consistant with the primordial nucleosynthesis hypothesis. Detailed measurements of the spectrum and angular anisotropy of this radiation background have been found – within the measurement errors –to be consistent with the expectations of the Standard Model and with the formation of structure from the gravitational growth of primordial seed density perturbations within this framework.</p>
 				</abstract>
 				<keywords>Cosmic microwave background;cosmology: observations;conmology: theory.</keywords>
 				<authors>
@@ -9941,7 +9911,7 @@
 				<feature></feature>
 				<page>0257-0261</page>
 				<abstract>
-					<p></p>
+					<p>I summarize the properties of the QSO absorption lines which provide evidence for the standard model of the Universe.</p>
 				</abstract>
 				<keywords>Intergalactic medium;quasars: absorption lines;galaxies: halos.</keywords>
 				<authors>
@@ -9958,7 +9928,7 @@
 				<feature></feature>
 				<page>0263-0269</page>
 				<abstract>
-					<p></p>
+					<p>The detection of the Cosmic Thermal Neutrino Background (CTNB) would provide the "cleanest" evidence for the hot bit bank model of the early Universe. I discuss some recent thoughts on the possibility of detecting the CTNB (especially if neutrinos have a small mass of ~ few eV) by looking for certain CTNB-induced features in the extremely  high energy $(E \gtrsim 10^{20} eV)$ cosmic neutrino spectrum that may become measurable in the future by some of the large-area extensive air-shower detectors being built for detecting extremely high energy cosmic rays.</p>
 				</abstract>
 				<keywords>Cosmic neutrino background;cosmic rays;massive neutrino;topological defects.</keywords>
 				<authors>
@@ -9976,7 +9946,7 @@
 				<feature></feature>
 				<page>0271-0294</page>
 				<abstract>
-					<p></p>
+					<p>The fundamental properties of Friedmann Universes, which  are attractive because of their simplicity, are linear expansion (except for deceleration), cooling, and evolution. In addition it is assumed that the fundamental constants of physics are constant and that the known laws of physics apply (including GR). An increasing number of observational tests support these premises. In particular the expansion is as linear as can be tested. The present expansion rate (𝐻<sub>0</sub> = 55 ± 10 km s<sup>-1</sup> Mpc<sub>-1</sub>) implies an expansion age of 17.8 ± 3.2 Gyr (for 𝑞<sub>0</sub> = 0) to 11.9 ± 2.1 Gyr (for 𝑞<sub>0</sub> = 1/2). This agrees perfectly within the errors, even for a critical Universe, with present age determinations of the oldest objects in the Galaxy which require 13.5 ± 2 Gyr.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -10010,7 +9980,7 @@
 				<feature></feature>
 				<page>0303-0311</page>
 				<abstract>
-					<p></p>
+					<p>I review the constraints on standard big bang model arising from considerations related to structure formation. I will focus on two specific series of models though similar analysis can be performed for a wider class of models. The first one is a Ω = 1 model with non-zero cosmological constant and the second one is a Ω &lt; 1 model with zero cosmological constant. The observational constraints which I shall discuss include the measurement of the Hubble’s constant, the ages of globular clusters, the abundance of rich clusters, the baryon content of galaxy clusters and the abundance of high redshift objects. These constraints limit the allowed range of the cosmological parameters and allow. for only a small region to survive. In particular, the aesthetically pleasing model with Ω = 1 and zero cosmological constant is ruled out by the observations. It seems necessary to fine-tune the theoretical parameters if they have to fall within the available space. This talk is based on the work in Bagla <i>et al</i>. (1996).</p>
 				</abstract>
 				<keywords>Cosmology;Big Bang Model;structure formation</keywords>
 				<authors>
@@ -10027,7 +9997,7 @@
 				<feature></feature>
 				<page>0313-0319</page>
 				<abstract>
-					<p></p>
+					<p>In this short contribution I want to discuss one particular candidate for the Dark Matter (DM) in the Universe, viz., the lightest supersymmetric particle (LSP). I discuss, very briefly, the motivation for Supersymmetry as well as the LSP as DM candidate. Then I summarise the current accelerator bounds on its mass and couplings and end by pointing out the implications of these limits for the experiments which search ‘directly’ for the DM.</p>
 				</abstract>
 				<keywords>Dark matter;supersymmetry.</keywords>
 				<authors>
@@ -10044,7 +10014,7 @@
 				<feature></feature>
 				<page>0321-0322</page>
 				<abstract>
-					<p></p>
+					<p>A preferred epoch for forming galaxies argues strongly in favour of a standard Big Bang cosmology with a single epoch of creation. In this paper I present a model in which there is a causal connection between AGN activity and galaxy formation with its epoch closely linked to the observed epoch of peak AGN activity.</p>
 				</abstract>
 				<keywords>Galaxies;AGNs;black holes</keywords>
 				<authors>
@@ -10061,7 +10031,7 @@
 				<feature></feature>
 				<page>0323-0333</page>
 				<abstract>
-					<p></p>
+					<p>Still more shocking than the metaphysical assumption of some initial singularity, is the constant insistence upon the so-called cosmological principle of “homogeneity” and “isotropy” of the Universe. Observations do contradict this principle. And to me, the inhomogeneous, fractal at least on a certain scale range, of the distribution of matter is in itself an important cosmological fact, hitherto almost neglected. Moreover difficulties as to the applicability of the second principle of thermodynamics, observations of abnormal redshifts, etc., are casting large doubts not only upon the standard cosmological models, but even on the interpretation of the observed redshift as due solely to a universal expansion.</p>
 				</abstract>
 				<keywords>Cosmology;Big Bang.</keywords>
 				<authors>
@@ -10078,7 +10048,7 @@
 				<feature></feature>
 				<page>0335-0338</page>
 				<abstract>
-					<p></p>
+					<p>We give an elementary overview of the subject of gravitational collapse in classical general relativity. Recent theoretical evidence for the formation of black-holes and naked singularities is summarised.</p>
 				</abstract>
 				<keywords>Black-holes;naked singularities;cosmic censorship.</keywords>
 				<authors>
@@ -10095,7 +10065,7 @@
 				<feature></feature>
 				<page>0339-0342</page>
 				<abstract>
-					<p></p>
+					<p>The historical motivation for the Brans-Dicke theory and its connection with Mach’s principle has been discussed. Some examples of  actions which can be reduced to the Brans-Dicke type have been given. Further, the recent developments in the theory in the context of inflationary cosmology have been briefly pointed out.</p>
 				</abstract>
 				<keywords>Mach’s Principle;Brans-Dicke;cosmology.</keywords>
 				<authors>
@@ -10112,7 +10082,7 @@
 				<feature></feature>
 				<page>0343-0347</page>
 				<abstract>
-					<p></p>
+					<p>So far all known singularity-free cosmological models are cylindrically symmetric. Here we present a new family of spherically symmetric non-singular models filled with imperfect fluid and radial heat flow, and satisfying all the energy conditions. For large t anisotropy in pressure and heat flux tend to vanish leading to a perfect fluid. There is a free function of time in the model, which can be suitably chosen for non singular behaviour and there exist multiplicity of such choices.</p>
 				</abstract>
 				<keywords>Inhomogeneous cosmology;singularity-free models.</keywords>
 				<authors>
@@ -10129,7 +10099,7 @@
 				<feature></feature>
 				<page>0349-0351</page>
 				<abstract>
-					<p></p>
+					<p>Some problems associated with the big bang cosmological model are briefly discussed. It is shown that the quasi-steady state model (QSSC) is a viable alternative. Moreover, the cosmogony related to this theory is supported by the observations.</p>
 				</abstract>
 				<keywords>Cosmology;cosmogony;relativistic jets;quasi-stellarobjects.</keywords>
 				<authors>
@@ -10146,7 +10116,7 @@
 				<feature></feature>
 				<page>0353-0362</page>
 				<abstract>
-					<p></p>
+					<p>This paper summarises the recent work on the quasi-steady state cosmology. This includes, the theoretical formulation and simple exact solutions of the basic equations, their relationship to observations, the stability of solutions and the toy model for understanding the growth of structures in the universe.</p>
 				</abstract>
 				<keywords>Cosmology;creation of matter;structure formation.</keywords>
 				<authors>
@@ -10163,7 +10133,7 @@
 				<feature></feature>
 				<page>0363-0379</page>
 				<abstract>
-					<p></p>
+					<p>In a universe whose elementary constituents are point particles there does not seem to be any obvious mechanism for avoiding the initial singularities in physical quantities in the standard model of cosmology. In contrast in string theory these singularities can be absent even at the level where spacetime is treated classically. This is a consequence of the basic degrees of freedom of strings in compact spaces, which necessitate a reinterpretation of what one means by a very small universe. We discuss the basic degrees of freedom of a string at the classical and quantum level, the minimum size of strings(string uncertainty principle), the 𝑡 duality symmetry, and string thermodynamics at high energy densities, and then describe how these considerations suggest a resolution of the initial singularity problem. An effort has been made to keep this writeup self-contained and accessible to non-string theorists.</p>
 				</abstract>
 				<keywords>Superstring theory;cosmology;initial singularity problem;minimum length.</keywords>
 				<authors>
@@ -10171,6 +10141,7 @@
 						<name first="Sanjay" last="Jain">Sanjay Jain</name>
 						<affiliation>Centre for Theoretical Studies, Indian Institute of Science, Bangalore 560012, India</affiliation>
 						<affiliation>Also at Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560064, and Associate Member of ICTP, Trieste.</affiliation>
+						<email>jain@cts.iisc.ernet.in</email>
 						<email>jain@cts.iisc.ernet.in</email>
 					</author>
 				</authors>
@@ -10181,7 +10152,7 @@
 				<feature></feature>
 				<page>0381-0387</page>
 				<abstract>
-					<p></p>
+					<p>We briefly review the status of the “graceful exit” problem in superstring cosmology and present a possible resolution. It is shown that there exists a solution to this problem in two-dimensional dilaton gravity provided quantum corrections are incorporated. This is similar to the recently proposed solution of Rey. However, unlike in his case, in our oneloop corrected model the graceful exit problem is solved for any finite number of massless scalar matter fields present in the theory.</p>
 				</abstract>
 				<keywords>Dilaton gravity;superstring cosmology;back reaction;graceful exit.</keywords>
 				<authors>
@@ -10198,7 +10169,7 @@
 				<feature></feature>
 				<page>0389-0392</page>
 				<abstract>
-					<p></p>
+					<p>We explore features of a nonminimally coupled theory of scalar fields with an effective potential that supports non topological soliton solutions. It is suggested that a problem free cosmology results.</p>
 				</abstract>
 				<keywords>Q-balls;non-minimal coupling;effective gravity.</keywords>
 				<authors>
@@ -10215,7 +10186,8 @@
 				<feature></feature>
 				<page>0393-0406</page>
 				<abstract>
-					<p></p>
+					<p>Building on evidence starting from 1966, X-ray observations have once again confirmed the association of quasars with low redshift galaxies. Enough examples of quasar-like objects ejected in opposite  directions from nearby, active galaxies have accumulated so that an empirical evolutionary sequence can be outlined.</p>
+					<p>The quasars start out with low luminosity and high (𝑧  &gt; 2) redshift. As they travel away from their galaxy of origin they grow in size and decay in redshift. The redshifts drop in steps and near the quantized values of 𝑧 = 0.6, 0.3, and 0.06 the quasars become particularly active, ejecting or breaking up into many objects which evolve finally into groups and clusters of galaxies. The observations massively violate the assumptions of the Big Bang and require continuous, episodic creation in a non expanding universe of indefinitely large size and age.</p>
 				</abstract>
 				<keywords>Quasars;redshifts;galaxies;evolution.</keywords>
 				<authors>
@@ -10232,7 +10204,8 @@
 				<feature></feature>
 				<page>0407-0414</page>
 				<abstract>
-					<p></p>
+					<p>One of the largest rotation curve data bases of spiral galaxies currently available is that provided by Persic &amp; Salucci (1995; hereafter, PS) which has been derived by them from unreduced rotation curve data of 965 southern sky spirals obtained by Mathewson, Ford &amp; Buchhorn (1992; hereafter, MFB). Of the original sample of 965 galaxies, the observations on 900 were considered by PS to be good enough for rotation curve studies, and the present analysis concerns itself with these 900 rotation curves</p>
+					<p>The analysis is performed within the context of the hypothesis that velocity fields within spiral discs can be described by generalized powerlaws. Rotation curve data was found to impose an extermely strong and detailed correlation between the free parameters of the power-law model, and this correlation accounts for virtually all the variation in the pivotal diagram. In the process, the analysis reveals completely unexpected structure which indicates that rotation curves can be partitioned into welldefined discrete subclasses.</p>
 				</abstract>
 				<keywords>Spiral galaxies;rotation curves.</keywords>
 				<authors>
@@ -10249,7 +10222,7 @@
 				<feature></feature>
 				<page>0415-0433</page>
 				<abstract>
-					<p></p>
+					<p>Evidence for redshift quantization is reviewed and summarlized. The cosmic background rest frame appears to be central to the effect. Periods are consistently found to be members of a set predicted by the ninth-root Lehto-Tifft rule which has implications relating to the possible nature of time, particle physics and cosmology. Galaxies can be divided into four morphological families associated with particular classes of periods. Numerous examples are given including recent work where redshifts appear to show evidence of changes between related quantized levels.</p>
 				</abstract>
 				<keywords>Red shift;galaxies;cosmology.</keywords>
 				<authors>
@@ -10267,7 +10240,7 @@
 				<feature></feature>
 				<page>0435-0440</page>
 				<abstract>
-					<p></p>
+					<p>The variable Mass Hypothesis of conformal gravitation theory of Hoyle-Narlikar is used to develop a model for the anomalous redshift quasar-galaxy associations. It is hypothesised that quasars are born in and ejected from the nuclei of parent galaxies as massless objects and the particle masses in them systematically increase with epoch. The dynamics of such an ejection is discussed and it is shown that the observed features such as redshift bunching and quasar alignments can be understood in this scenario. Further tests of this hypothesis are suggested.</p>
 				</abstract>
 				<keywords>Hoyle-Narlikar cosmology;anomalous redshift;quasargalaxy associations.</keywords>
 				<authors>
@@ -10284,7 +10257,7 @@
 				<feature></feature>
 				<page>0441-0447</page>
 				<abstract>
-					<p></p>
+					<p>There have been claims, from time to time that there are periodicities in the redshift distribution of quasistellar objects. These claims are examined from various statistical angles for the 2164 QSO redshifts available in the latest compilation by Hewitt &amp; Burbidge (1990). The statistical tests reveal moderate to strong evidence for periodicities 𝜉 = 0.0565 and 0.01270–0.129.</p>
 				</abstract>
 				<keywords>Redshift;Quasi Stellar Objects.</keywords>
 				<authors>
@@ -10301,7 +10274,7 @@
 				<feature></feature>
 				<page>0449-0454</page>
 				<abstract>
-					<p></p>
+					<p>The paper shows that a phenomenological model of inertial induction based on a proposed extension of Mach’s Principle can produce the observed cosmological red shift in a quasi-static infinite universe. Unlike all other theories (except the Doppler effect) to explain the observed red shift this model can be verified from other local effects predicted by this mechanism. A number of such phenomena have been investigated and these expected effects are not only found to be present but they also explain a number of unexplained or ill explained observational results. It is suggested that atttmpts should be made to verify the model through further tests and observations.</p>
 				</abstract>
 				<keywords>Cosmological red shift;stationary universe.</keywords>
 				<authors>
@@ -10318,7 +10291,7 @@
 				<feature></feature>
 				<page>0455-0463</page>
 				<abstract>
-					<p></p>
+					<p>The current status of a continuing programme of tests for redshift periodicity or `quantization' of nearby bright galaxies is described. So far the redshifts of over 250 galaxies with high-precision HI profiles have been used in the study. In consistently selected sub-samples of the datasets of sufficient precision examined so far, the redshift distribution has been found to be strongly quantized in the galactocentric frame of reference. The phenomenon is easily seen by eye and apparently cannot be ascribed to statistical artefacts, selection procedures or flawed reduction techniques. Two galactocentric periodicities have so far been detected, ~ 71·5km s<sup>-1</sup> in the Virgo cluster, and ~37·5km s<sup>-1</sup> for all other spiral galaxies within ~ 2600km s<sup>-1</sup>. The formal confidence levels associated with these results are extremely high.</p>
 				</abstract>
 				<keywords>Galaxies: distances and redshifts, spiral, radio lines.</keywords>
 				<authors>
@@ -10339,9 +10312,7 @@
 				<title>Panel Discussion</title>
 				<feature></feature>
 				<page>0465-0475</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10356,9 +10327,7 @@
 				<title>Questions and Comments that followed the Panel Discussion</title>
 				<feature></feature>
 				<page>0477-0489</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10373,9 +10342,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0491-0492</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10384,9 +10351,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0493-0495</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
