@@ -6135,16 +6135,16 @@
 				<abstract>
 					<p>Results of analysis of aphotoelectric observations of the RS CVn eclipsing binary WY Cancri in the standard passbands of 𝑈𝐵𝑉 during 1973-74, 1976-79 and in 𝑈𝐵𝑉𝑅𝐼 during 1984-86 are reported. A preliminary analysis of the eclipses suggested the primary eclipse to be transit. A study of the percentage contribution of the distortion wave amplitudes in all the colours with respect to the luminosities of both components, showed the hotter component to be the source of the distortion wave. The clean (wave removed) light curves of different epochs have not merged, suggesting residual effects of spot activity. The reason for this is attributed to the presence of either (1) polar spots or (2) small spots uniformly distributed all over the surface of the hotter component. This additional variation is found to have a periodicity of about 50 years or more. The distortion waves in yellow colour are modelled according to Budding’s (1977) method. For getting the best fit of the observations and theory, it was found necessary to assume three or four spots on the surface of the hot component. Out of these four spot groups, three are found to have direct motion with migration periods of 1.01, 1.01 and 2.51 years while the fourth one has a retrograde motion with a migration period of 3.01 years. From these periods and the latitudes of the spots derived from the model a co-rotating latitude of 4° is obtained. The temperatures of these spots are found to be lower than that of the photosphere by about 700°K to 800°K. Assuming  the light curve of 1985–86, which is the brightest of all the observed seasons, to be least affected by the spots, the light curves of the other seasons are all brought up to the quadrature level of this season by applying suitable corrections. The merged curves in the UBVRI colours are analysed for the elements by the Wilson-Devinney method. This analysis yielded the following absolute elements</p>
 					<p>\begin{align*}  
-							m_h & = 0.85 \pm 0,03 M_\odot\\
-							m_h & = 0.51 \pm 0.03 M_\odot\\
-							R_h & = 0.99 \pm 0.02 R_\odot\\
-							R_c & = 0.65 \pm 0.02 R_\odot\\
-							T_h & = 5520^\circ K \pm 100^\circ K\\
-							T_c & = 3740^\circ K \pm 20^\circ K\\
-							M_{\text{h(bol)}} & = 4^m.96 \pm 0.10\\
-							M_{\text{c(bol)}} & = 7^m.58 \pm 0.15\\
-							\text{Spectral type} & \qquad \text{hotter component} = G5 \pm 1\\
-							& \qquad \text{cooler component} = K9 \pm 1
+							m_h &amp; = 0.85 \pm 0,03 M_\odot\\
+							m_h &amp; = 0.51 \pm 0.03 M_\odot\\
+							R_h &amp; = 0.99 \pm 0.02 R_\odot\\
+							R_c &amp; = 0.65 \pm 0.02 R_\odot\\
+							T_h &amp; = 5520^\circ K \pm 100^\circ K\\
+							T_c &amp; = 3740^\circ K \pm 20^\circ K\\
+							M_{\text{h(bol)}} &amp; = 4^m.96 \pm 0.10\\
+							M_{\text{c(bol)}} &amp; = 7^m.58 \pm 0.15\\
+							\text{Spectral type} &amp; \qquad \text{hotter component} = G5 \pm 1\\
+							&amp; \qquad \text{cooler component} = K9 \pm 1
 					   \end{align*}
 				   </p>
 				   <p>For a mass ratio of 0.506 and with the derived fractional radii 𝑟<sub>ℎ</sub> = 0.241 and 𝑟<sub>𝑐</sub> = 0.157, both the components are found to be within their Roche lobes. Hence we have classified WY Cnc as a detached system. From their positions on the HR diagram it is concluded that both the components of WY Cnc belong to the main sequence.</p>
@@ -10365,7 +10365,8 @@
 				<feature></feature>
 				<page>0001-0018</page>
 				<abstract>
-					<p></p>
+					<p>The characteristics of the “burst” (B) mode and “quiescent” (Q) mode pulse sequences—long known from studies at or below 103 MHz—are identified at 430 MHz for the first time. An 18-minute, Polarimetrie observation begins with a long Bmode sequence, which has a higher average intensity, regular drifting subpulses, and a preponderance of primary polarisationmode radiation. An abrupt transition to a Q-mode sequence is then marked by a) weaker average intensity, but occasional very bright individual subpulses, b) a complete cessation of drifting subpulses, with disorganized subpulses now being emitted over a much wider longitude interval, and c) near parity between the primary and secondary polarisation modes, resulting in pronounced depolarisation, both of individual pulses and the average profile.</p>
+					<p>Careful study, however, of profile changes before and after this mode change reveals slower variations which both anticipate the abrupt transition and respond to it. A slow attenuation of the intensity level of the dominant component is observed throughout the duration of the B-mode sequence, which then accelerates with the onset of the Q-mode sequence. This slow variation appears to represent a “preswitching transition” process; and the combination of effects on slow and abrupt time scales are finally responsible for the formation of the characteristic B and Q-mode average profiles.</p>
 				</abstract>
 				<keywords>Pulsars;B0943+10;mode changing;polarisation.</keywords>
 				<authors>
@@ -10400,7 +10401,7 @@
 				<feature></feature>
 				<page>0019-0033</page>
 				<abstract>
-					<p></p>
+					<p>We explore a simple model for the representation of the observed distributions of the motions, and the characteristic ages of the  local population of pulsars. The principal difference from earlier models is the introduction of a unique value, S, for the kick velocity with which pulsars are born. We consider separately the proper motion components in galactic longitude and latitude, and find that the distributions of the velocity components parallel and perpendicular to the galactic plane are represented satisfactorily by S = 200 km/sec, and leave no room for a significant fraction of much higher velocities. The successful proposition of a unique value for the kick velocity may provide an interesting tool in attempts to understand the physical process leading to the expulsion of the neutron star.</p>
 				</abstract>
 				<keywords>Methods: statistical;stars: neutron, kinematics;pulsars: general.</keywords>
 				<authors>
@@ -10425,7 +10426,8 @@
 				<feature></feature>
 				<page>0035-0053</page>
 				<abstract>
-					<p></p>
+					<p> A new, meter-wave radio telescope has been built in the northeast of Mauritius, an island in the Indian Ocean, at a latitude of –20.14°. The Mauritius Radio Telescope (MRT) is a Fourier Synthesis T-shaped array, consisting of a 2048 m long East-West arm and an 880 m long South arm. In the East-West arm 1024 fixed helices are arranged in 32 groups and in the South arm 16 trolleys, with four helices on each, which move on a rail are used. A 512-channel digital complex correlation receiver is used to measure the visibility function. At least 60 days of observing are required for obtaining the visibilities up to 880 m spacing. The Fourier transform of the calibrated visibilities produces a map of the area of the sky under observation with a synthesized beam width 4' × 4.6' sec(δ + 20.14°) at151.5 MHz</p>
+					<p>The primary objective of the telescope is to produce a sky survey in the declination range —70° to —10° with a point source sensitivity of about 200 mJy (3 level). This will be the southern sky equivalent of the Cambridge 6C survey. In this paper we describe the telescope, discuss the array design and the calibration techniques used, and present a map made using the telescope.</p>
 				</abstract>
 				<keywords>Radio telescope;low frequency;imaging;southern sky;Fourier Synthesis.</keywords>
 				<authors>
@@ -10469,7 +10471,7 @@
 				<feature></feature>
 				<page>0055-0061</page>
 				<abstract>
-					<p></p>
+					<p>The observations of the black hole binary Cygnus X-1 were made in the energy band of 20-100keV with a balloon-borne Zenonfilled multiwire proportional counter telescope on 5th April 1992. Timing analysis of the data revealed the presence of Quasi-Periodic Oscillations (QPO) in the hard X-ray emission from the source. The QPO feature in the power density spectrum is broad with a peak at a frequency of 0.06 Hz. This result is compared with similar reports of QPOs in Cyg X-l in soft and hard X-rays. Short time scale random intensity variations in the X-ray light curve are described with a shot noise model.</p>
 				</abstract>
 				<keywords>X-rays: stars;stars: individual Cygnus Xl.</keywords>
 				<authors>
@@ -10500,9 +10502,7 @@
 				<title>Vijay Κ. Kapahi</title>
 				<feature></feature>
 				<page>0063a</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10518,7 +10518,8 @@
 				<feature></feature>
 				<page>0063-0077</page>
 				<abstract>
-					<p></p>
+					<p>We present and discuss in this paper the rest frame radio spectra (1–25 GHz) of a sample of fourteen radio galaxies at z &gt; 2 from the newly defined MRC/1Jy complete sample of 558 radio sources. These galaxies are among the most powerful radio sources known and range in luminosity from 10<sup>28</sup>–10<sup>28.8</sup>  watt Hz<sup>-1</sup> at 1 GHz. We find that the median rest frame spectral index of this sample of galaxies at z &gt; 2 is significantly steeper than that of a matched luminosity sample of 3CRR galaxies which are at a much lower redshift (0.85 &lt; z &lt; 1.7). This indicates that spectral index correlates primarily with redshift, at least in the luminosity range considered here. The difference between the distributions of rest frame spectral curvatures for the two samples does not appear to be statistically significant</p>
+					<p>We suggest a new explanation for the steeper spectra of radio galaxies at high redshift involving steeper electron energy spectra at injection. Electron energy spectra are expected to steepen in a first-order Fermi acceleration process, at both non-relativistic and relativistic shock fronts, as the upstream fluid velocity decreases. This may well be the case at high redshifts: the hotter and denser circum-galactic medium at high redshifts could result in slower speeds for the hotspot and the jet material behind it. The smaller sizes of radio sources at higher redshifts provide support to this scenario.</p>
 				</abstract>
 				<keywords>Galaxies: radio spectra, high redshift radio;synchrotron electron acceleration.</keywords>
 				<authors>
@@ -10544,7 +10545,7 @@
 				<feature></feature>
 				<page>0079-0096</page>
 				<abstract>
-					<p></p>
+					<p>We present a survey of molecular gas in the J = 1 → 0 transition of <sup>12</sup>CO towards the IRAS Vela Shell. The shell, previously identified from IRAS maps, is a ring-like structure seen in the region of the Gum Nebula. We confirm the presence of molecular gas associated with some of the infrared point sources seen along the shell. We have studied the morphology and kinematics of the gas and conclude that the shell is expanding at the rate of ~ 13 km s<sup>-1</sup> from a common center. We go on to include in this study the Southern Dark Clouds seen in the region. The distribution and motion of these objects firmly identify them as being part of the shell of molecular gas. Estimates of the mass of gas involved in this expansion reveal that the shell is a massive object comparable to a GMC. From the expansion and various other signatures like the presence of bright-rimmed clouds with head-tail morphology, clumpy distribution of the gas etc., we conjecture that the molecular gas we have detected is the remnant of a GMC in the process of being disrupted and swept outwards through the influence of a central OB association, itself born of the parent cloud</p>
 				</abstract>
 				<keywords>ISM: structure, clouds.</keywords>
 				<authors>
@@ -10569,7 +10570,7 @@
 				<feature></feature>
 				<page>0097-0116</page>
 				<abstract>
-					<p></p>
+					<p>This investigation is aimed at clarifying the nature of the interstellar gas seen in absorption against bright Ο and Β stars. Towards this end we have obtained for the first time HI absorption spectra towards radio sources very close to the lines of sight towards twenty five bright stars previously studied. In this paper we describe the selection criteria, the details regarding our observations, and finally present the absorption spectra. In the accompanying paper we analyse the results and draw conclusions.</p>
 				</abstract>
 				<keywords>ISM: clouds, structure;radio lines: ISM.</keywords>
 				<authors>
@@ -10599,7 +10600,8 @@
 				<feature></feature>
 				<page>0117-0131</page>
 				<abstract>
-					<p></p>
+					<p>In the preceding paper (Paper I), we presented HI absorption spectra towards radio sources very close to the lines of sight towards twenty five bright stars against which optical absorption spectra had been obtained earlier, In this paper we analyse the results and draw some conclusions. </p>
+					<p>To summarize briefly, in most cases we found HI absorption at velocities corresponding to the optical absorption features provided one restricted oneself to velocities ≲ 10 kms–1. At higher velocities we did not detect any HI absorption down to an optical depth limit of 0.1 (except in four cases which we attribute to gas in systematic motion rather than clouds in random motion). After discussing various scenarios, we suggest that this trend should perhaps be understood in terms of the high velocity interstellar clouds being accelerated, heated and ablated by expanding supernova remnants. </p>
 				</abstract>
 				<keywords>ISM: clouds, structure, kinematics and dynamics.</keywords>
 				<authors>
@@ -10629,7 +10631,7 @@
 				<feature></feature>
 				<page>0133-0139</page>
 				<abstract>
-					<p></p>
+					<p>Using the metric conformal transformation and simple path integral, Feynman propagator method, for computing its quantum fluctuations, we analyse the radiation dominated anisotropic Bianchi Type I cosmology. We proceed to show that the quantum conformal fluctuations diverge at the classical spacetime singularity, suggesting that a singularity  free solution can exist in anisotropic cosmology in the quantum regime.</p>
 				</abstract>
 				<keywords>Quantum cosmology;quantum fluctuations;spacetime singularity</keywords>
 				<authors>
@@ -10655,7 +10657,7 @@
 				<feature></feature>
 				<page>0141-0146</page>
 				<abstract>
-					<p></p>
+					<p>Using simple path integral, Feynman propagator method and  the relation between conformal time η and scale factor Ƭ, we investigate the non-conformal quantum fluctuations (of expansion and shear) and axisymmetric singularity case in radiation dominated anisotropic cosmology. We show that near the classical singularity the quantum fluctuations tend to diverge.</p>
 				</abstract>
 				<keywords>Quantum Cosmology;Anisotropic universes.</keywords>
 				<authors>
@@ -10680,9 +10682,7 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0147-0147</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10691,9 +10691,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0149-0149</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10707,7 +10705,8 @@
 				<feature></feature>
 				<page>0001-0022</page>
 				<abstract>
-					<p></p>
+					<p>Embedded Young Stellar Objects (YSO) in dense interstellar clouds are treated self-consistently to understand their spectral energy distributions (SED). Radiative transfer calculations in spherical geometry involving the dust as well as the gas component, have been carried out to explain observations covering a wide spectral range encompassing nearinfrared to radio continuum wavelengths. Various geometric and physical details of the YSOs are determined from this modelling scheme.</p>
+					<p>In order to assess the effectiveness of this self-consistent scheme, three young Galactic star forming regions associated with IRAS 18314-0720, 18355-0532 and 18316-0602 have been modelled as test cases. They cover a large range of luminosity (≈ 40). The modelling of their SEDs has led to information about various details of these sources, e.g. embedded energy source, cloud structure and size, density distribution, composition and abundance of dust grains etc. In all three cases, the best fit model corresponds to the uniform density distribution. Two types of dust have been considered, viz., Draine &amp; Lee (DL) and the Mezger, Mathis &amp; Panagia (MMP). Models with MMP type dust explain the dust continuum and radio continuum emission from IRAS 18314-0720 and 18355-0532 self-consistently. These models predict much lower intensities for the fine structure lines of ionized heavy elements, than those observed for IRAS 18314-0720 and 18355-0532. This discrepancy has been resolved by invoking clumpiness in the interstellar medium. For IRAS 18316-0602, the model with DL type dust grains is preferred.</p>
 				</abstract>
 				<keywords>Infrared SED - HII regions - radiative transfer - IRAS 18314-0720 - IRAS 18355-0532 - IRAS 18316-0602.</keywords>
 				<authors>
@@ -10732,7 +10731,7 @@
 				<feature></feature>
 				<page>0023-0035</page>
 				<abstract>
-					<p></p>
+					<p>Mid- and far-infrared maps of many Galactic star forming regions show multiple peaks in close proximity, implying more than one embedded energy source. With the aim of understanding such interstellar clouds better, the present study models the case of two embedded sources. A radiative transfer scheme has been developed to deal with a uniform density dust cloud in a cylindrical geometry, which includes isotropic scattering in addition to the emission and absorption processes. This scheme has been applied to the Galactic star forming region associated with IRAS 19181 + 1349, which shows observational evidence for two embedded energy sources. Two independent modelling approaches have been adopted, viz., to fit the observed spectral energy distribution (SED) best; or to fit the various radial profiles best, as a function of wavelength. Both the models imply remarkably similar physical parameters.</p>
 				</abstract>
 				<keywords>Interstellar clouds—infrared SED—IRAS 19181 + 1349.</keywords>
 				<authors>
@@ -10757,7 +10756,7 @@
 				<feature></feature>
 				<page>0037-0050</page>
 				<abstract>
-					<p></p>
+					<p>Most of the known pulsars are sources of highly linearly polarized radiation. Faraday rotation in the intervening medium rotates the plane of the linear polarization as the signals propagate through the medium. The Rotation Measure (RM), which quantifies the amount of such rotation as a function of wavelength, is useful in studying the properties of the medium and in recovering the intrinsic polarization characteristics of the pulsar signal. Conventional methods for polarization measurements use telescopes equipped with dual orthogonally polarized feeds that allow estimation of all 4 Stokes parameters. Some telescopes (such as the Ooty Radio Telescope) that offer high sensitivity for pulsar observations may however be receptive to only a single linear polarization. In such a case, the apparent spectral intensity modulation, resulting from differential Faraday rotation of the linearly polarized signal component within the observing bandwidth, can be exploited to estimate the RM as well as to study the linear polarization properties of the source. In this paper, we present two improved procedures by which these observables can be estimated reliably from the intensity modulation over large bandwidths, particularly at low radio frequencies. We also highlight some other applications where such measurements and procedures would be useful.</p>
 				</abstract>
 				<keywords>Determination of Linear Polarization and Faraday Rotation of Pulsar Signals from Spectral Intensity Modulation</keywords>
 				<authors>
@@ -10782,7 +10781,7 @@
 				<feature></feature>
 				<page>0051-0065</page>
 				<abstract>
-					<p></p>
+					<p>We present NeV/MgV and SiVII/MgVII theoretical line intensity ratios as a function of electron density 𝑁𝑒 and temperature 𝑇𝑒. These are shown in the form of ratio-ratio diagrams, which should in principle allow both 𝑁𝑒 and 𝑇𝑒 to be deduced for the emitting region of the solar plasma. We apply these diagnostics in the solar atmosphere, and discuss the available observations made from space. In most cases, however, we deduce 𝑁𝑒 and 𝑇𝑒 from the computed absolute line intensities in a spherically symmetric model atmosphere of the Sun. Possible future applications of the investigation to spectral data from the Coronal Diagnostic Spectrometer (CDS) on the Solar and Heliospheric Observatory (SOHO) are briefly discussed.</p>
 				</abstract>
 				<keywords>Solar atmosphere;EUV diagnostics;emission lines;spectroscopic diagnostics.</keywords>
 				<authors>
@@ -10812,7 +10811,7 @@
 				<feature></feature>
 				<page>0067-0077</page>
 				<abstract>
-					<p></p>
+					<p>Cosmological models involving shear and rotation are considered, first in the general relativistic and then in the Newtonian framework with the aim of investigating singularities in them by using numerical and analytical techniques. The dynamics of these rotating models are studied. It is shown that singularities are unavoidable in such models and that the centrifugal force arising due to rotation can never overcome the gravitational and shearing force over a length of time.</p>
 				</abstract>
 				<keywords>Cosmological models;singularity;rotation;centrifugal force;shear.</keywords>
 				<authors>
@@ -10832,9 +10831,7 @@
 				<title>Formation of Giant Molecular Clouds by Aggregation in a Galactic Disc with Rigid Rotation</title>
 				<feature></feature>
 				<page>0079-0088</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Aggregation of clouds;rigid rotation.</keywords>
 				<authors>
 					<author>
@@ -10859,9 +10856,7 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0089-0089</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10876,9 +10871,7 @@
 				<title>New Light on the Einstein-Hilbert Priority Question</title>
 				<feature></feature>
 				<page>0091-0101</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10894,7 +10887,7 @@
 				<feature></feature>
 				<page>0103-0120</page>
 				<abstract>
-					<p></p>
+					<p>In this article, we first consider briefly the basic properties of the non-rotating Schwarzschild black hole and the rotating Kerr black hole Rotational effects are then described in static and stationary spacetimes with arial symmetry by studying inertial forces, gyroscopic precession and gravi-electromagnetism. The results are applied to the black hole spacetimes.</p>
 				</abstract>
 				<keywords>Black holes;rotation;inertial forces;gyroscopic precession;gravi-electromagnetism</keywords>
 				<authors>
@@ -10911,7 +10904,7 @@
 				<feature></feature>
 				<page>0121-0129</page>
 				<abstract>
-					<p></p>
+					<p>We demonstrate how Sakharov’s idea of induced gravity allows one to explain the statistical-mechanical origin of the entropy of a black hole. According to this idea, gravity becomes dynamical as the result of quantum effects in the system of heavy constituents of the underlying theory.The black hole entropy is related to the properties of the vacuum in the induced gravity in the presence of the horizon. We obtain the Bekenstein-Hawking entropy by direct counting the states of the constituents.</p>
 				</abstract>
 				<keywords>Black hole;gravity;entropy.</keywords>
 				<authors>
@@ -10933,7 +10926,7 @@
 				<feature></feature>
 				<page>0131-0148</page>
 				<abstract>
-					<p></p>
+					<p>we review some of the progress in understanding the statistical basis of black hole thermodynamics in string theory. The emphasis is on the “derivation” of Hawking radiation from the unitary decay of near extremal D-brane states. We also review recent progress in understanding Schwarzschild black holes by relating them to D-brane black holes via“boosts” in M-theory.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -10950,7 +10943,7 @@
 				<feature></feature>
 				<page>0149-0164</page>
 				<abstract>
-					<p></p>
+					<p>This contribution gives a personal view on recent attempts to find a unified framework for non-perturbative string theories, with special emphasis on the hidden symmetries of supergravity and their possible role in this endeavor. A reformulation of 𝑑 = 11  supergravity with enlarged tangent space symmetry SO(1, 2) × SO(16) is discussed from this perspacitive, as well as an ansatz to construct yet further versions with SO(1, 1) × SO(16)<sup>∞</sup> and possibly even SO(1, 1)<sub>+</sub> × ISO(16)<sup>∞</sup> tangent space symmetry. It is suggested that upon "third quantization", dimensionally reduced maximal supergravity may have an equally important role to play in this unification as the dimensionally reduced maximally supersymmetric SU(∞) Yang Mills theory.</p>
 				</abstract>
 				<keywords>Supergravity;hidden symmetries;superstrings.</keywords>
 				<authors>
@@ -10967,7 +10960,7 @@
 				<feature></feature>
 				<page>0165-0185</page>
 				<abstract>
-					<p></p>
+					<p>Naturally occurring water vapor maser emission at 1.35 cm wavelength provides an accurate probe for the study of accretion disks around highly compact objects, thought to be black holes, in the centers of active galaxies. Because of the exceptionally fine angular resolution, 200 microarcseconds, obtainable with very long baseline interferometry, accompanied by high spectral resolution, &lt; 0.1 km s<sup>-1</sup>, the dynamics and structures of these disks can be probed with exceptional clarity. The data on the galaxy NGC 4258 are discussed here in detail. The mass of the black hole binding the accretion disk is 3·9 × 10<sup>7</sup> Μ<sub>⊙</sub>. Although the accretion disk has a rotational period of about 800 years, the physical motions of the masers have been directly measured with VLBI over a period of a few years. These measurements also allow the distance from the earth to the black hole to be estimated to an accuracy of 4 per cent. The status of the search for other maser/black hole candidates is also discussed</p>
 				</abstract>
 				<keywords>Masers;black holes;accretion disks;very long baselines interferometry.</keywords>
 				<authors>
@@ -10994,7 +10987,7 @@
 				<feature></feature>
 				<page>0187-0196</page>
 				<abstract>
-					<p></p>
+					<p>At the dynamic center of the Milky Way high spatial resolution, near-infrared imaging and spectroscopy have made it possible in the last few years to measure stellar velocities down to separations of less than five light days from the compact radio source SgrA* (in the constellation Sagittarius). These measurements make a compelling case for the presence of a compact, central dark mass of 2.6 × 10<sup>6</sup> solar masses. Simple physical considerations show that this dark mass cannot consist of a stable cluster of stars, stellar remnants, substellar condensations or a degenerate gas of elementary particles. Energy equipartition requires that at least 10<sup>5</sup> solar masses must be associated with SgrA* itself and is enclosed within less than 8 light minutes (equivalent to 15 Schwarzschild radii of a million solar mass black hole). If one accepts these arguments it is hard to escape the conclusions that there must be a massive black hole at the core of the Milky Way.</p>
 				</abstract>
 				<keywords>Galactic center;massive black holes;SgrA</keywords>
 				<authors>
@@ -11016,7 +11009,7 @@
 				<feature></feature>
 				<page>0197-0210</page>
 				<abstract>
-					<p></p>
+					<p>I review the evidence for stellar mass black holes in the Galaxy. The unique properties of the soft X-ray transient (SXTs) have provided the first opportunity for detailed studies of the mass-losing star in low-mass X-ray binaries. The large mass functions of these systems imply that the compact object has a mass greater than the maximum mass of a neutron star, strengthening the case that they contain black holes. The results and techniques used are discussed. I also review the recent study of a comparison of the luminosities of black hole and neutron star systems which has yielded compelling evidence for the existence of event horizons.</p>
 				</abstract>
 				<keywords>X-ray sources;black holes.</keywords>
 				<authors>
@@ -11033,7 +11026,7 @@
 				<feature></feature>
 				<page>0211-0220</page>
 				<abstract>
-					<p></p>
+					<p>The new millennium will withness the operation of several long-baseline ground-based interferometric detectors, possibly a spacebased detector too, which will make it possible to directly observe black holes by catching gravitational waves emitted by them during their formation or when they are perturbed or when a binary consisting of black holes in-spirals due to radiation reaction. Such observations will help us not only to test some of the fundamental predictions of Einstein’s general relativity but will also give us the unique opportunity to map black hole spacetimes, to measure the masses and spins of black holes and their population, etc.</p>
 				</abstract>
 				<keywords>Black holes;gravitational waves;testing general relativity.</keywords>
 				<authors>
@@ -11050,7 +11043,7 @@
 				<feature></feature>
 				<page>0221-0232</page>
 				<abstract>
-					<p></p>
+					<p> This article gives an elementary review of gravitational collapse and the cosmic censorship hypothesis. Known models of collapse resulting in the formation of black holes and naked singularities are summarized. These models, when taken together, suggest that the censorship hypothesis may not hold in classical general relativity. The nature of the quantum processes that take place near a naked singularity, and their possible implication for observations, is briefly discussed.</p>
 				</abstract>
 				<keywords>Cosmic censorship;black holes;naked singularities.</keywords>
 				<authors>
@@ -11067,7 +11060,7 @@
 				<feature></feature>
 				<page>0233-0248</page>
 				<abstract>
-					<p></p>
+					<p>Cosmic censorship is discussed in its various facets. It is concluded that rather little clear-cut progress has been made to date, and that the question is still very much open.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -11084,7 +11077,7 @@
 				<feature></feature>
 				<page>0249-0257</page>
 				<abstract>
-					<p></p>
+					<p>An account is given of recent advances in mathematical techniques for extending space-times through weak singularities. This gives one more hope of proving a cosmic censorship theorem, and hence of understanding whether the final state of gravitational collapse will indeed be a black hole.</p>
 				</abstract>
 				<keywords>Singularities;censorship;black holes.</keywords>
 				<authors>
@@ -11101,7 +11094,7 @@
 				<feature></feature>
 				<page>0259-0268</page>
 				<abstract>
-					<p></p>
+					<p>An internal singularity of a string four-dimensional black hole with second order curvature corrections is investigated. A restriction to a minimal size of a neutral black hole is obtained in the frame of the model considered. Vacuum polarization of the surrounding space-time caused by this minimal-size black hole is also discussed.</p>
 				</abstract>
 				<keywords>Black holes;string theory;higher order curvature corrections.</keywords>
 				<authors>
@@ -11123,7 +11116,7 @@
 				<feature></feature>
 				<page>0269-0280</page>
 				<abstract>
-					<p></p>
+					<p>This article is a brief survey of the contribution of perturbative studies to our understanding of black hole physice. For natural reasons, I will not be able to discuss all details required for an exhaustive understanding of a field that has been active for the last forty years. Neither will I be able to cover all problem areas where perturbation theory has been applied. My aim is simply to provide the interested reader with a few pointers that can serve as useful starting points for an odyssey through the literature.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -11140,7 +11133,7 @@
 				<feature></feature>
 				<page>0281-0289</page>
 				<abstract>
-					<p></p>
+					<p>In this talk, I review an analytic method for calculating gravitational radiation from a small mass particle orbiting a massive black hole. This method allows a systematic evalutation of the gravitational radiation to a very high order in post-Newtonian expansion, hence gives us useful information on the evolution of coalescing compact binary stars.</p>
 				</abstract>
 				<keywords>Gravitational radiation;black hole;post-Newtonian expansion.</keywords>
 				<authors>
@@ -11156,9 +11149,7 @@
 				<title>Author Index </title>
 				<feature></feature>
 				<page>0291-0291</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11167,9 +11158,7 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0293-0294</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11183,7 +11172,14 @@
 				<feature></feature>
 				<page>0001-0017</page>
 				<abstract>
-					<p></p>
+					<p>The absolute temperature of the cosmic microwave background (CMB) has been measured at a frequency of 1280 MHz. The observation was made with a modified version of the L-band receiver used in the Giant Metre wavelength Radio Telescope (GMRT): the feed horn was replaced by a corrugated plate and the receiver was placed on the ground, directed at zenith, and shielded from ground radiation by an aluminium screen with corrugated edges. Novel techniques have been adopted for</p>
+					<p>
+						<ul>
+							<li>reducing and cancelling unwanted contributions to the system temperature of the reveiver and</li>
+							<li>calibrating the contributions from the feed assembly and reveiver.</li>
+						</ul>
+					</p>
+					<p>The thermodynamic temperature of the CMB is estimated to be 3.45 ± 0.78 K.</p>
 				</abstract>
 				<keywords>Cosmic microwave background;cosmology: observations.</keywords>
 				<authors>
@@ -11209,7 +11205,7 @@
 				<feature></feature>
 				<page>0019-0027</page>
 				<abstract>
-					<p></p>
+					<p>We have tried to determine the flux of the ultraviolet background radiation field from the column density ratios of various ions in several absorption systems observed in the spectra of QSOs. We find that in most cases the flux is considerably higher than what has been estimated to be contributed by the AGNs. The excess flux could originate locally in hot stars. In a few cases we have been able to show that such galactic flux can only contribute a part of the total required flux. The results suggest that the background gets a significant contribution from an unseen QSO population.</p>
 				</abstract>
 				<keywords>Quasars: absorption lines;diffuse radiation.</keywords>
 				<authors>
@@ -11234,7 +11230,7 @@
 				<feature></feature>
 				<page>0029-0038</page>
 				<abstract>
-					<p></p>
+					<p>The outburst of X-ray transient source XTE J2012+381 was detected by the RXTE All-Sky Monitor on 1998 May 24th. Following the outburst, X-ray observations of the source were made in the 2-18keV energy band with the Pointed Proportional Counters of the Indian X-ray Astronomy Experiment (IXAE) on-board the Indian satellite IRS-P3 during 1998 June 2nd-10th. The X-ray flux of the source in the main outburst decreased exponentially during the period of observation. No large amplitude short-term variability in the intensity is detected from the source. The power density spectrum obtained from the timing analysis of the data shows no indication of any quasi-periodic oscillations in 0.002- 0.5 Hz band. The hardness ratio i.e. the ratio of counts in 6-18 keV to 2-6 keV band, indicates that the X-ray spectrum is soft with spectral index >2. From the similarities of the X-ray properties with those of other black hole transients, we conclude that the X-ray transient XTE J2012+381 is likely to be a black hole</p>
 				</abstract>
 				<keywords>Accretion, accretion disks;black hole physics;X-rays:stars;stars: individual;XTE J2012+381.</keywords>
 				<authors>
@@ -11280,7 +11276,7 @@
 				<feature></feature>
 				<page>0039-0052</page>
 				<abstract>
-					<p></p>
+					<p>We report the spectral measurement of GRS 1915+105 in the hard X-ray energy band of 20-140keV. The observations were made on March 30th, 1997 during a quiescent phase of the source. We discuss the mechanism of emission of hard X-ray photons and the evolution of the spectrum by comparing the data with earlier measurements and an axiomatic model for the X-ray source.</p>
 				</abstract>
 				<keywords>Accretion, accretion disks;X-rays: stars;Black hole candidates, binary sources: individual;GRS 1915+105.</keywords>
 				<authors>
@@ -11300,7 +11296,7 @@
 				<feature></feature>
 				<page>0053-0059</page>
 				<abstract>
-					<p></p>
+					<p>This paper presents an analysis of the first 2MASS (The Two Micron All Sky Survey) sampler data as observed at lower Galactic latitude in our Galaxy. These new near-infrared data provide insight into the structure of the thin disk of our Galaxy, The interpretation of star counts and color distributions of stars in the near-infrared with the synthetic stellar population model, gives strong evidence that the Galactic thin disk density scale length, ℎ<sub>𝑅</sub>, is rather short (2.7 ± 0.1 kpc).</p>
 				</abstract>
 				<keywords>Galaxy: stellar content;Galaxy: structure.</keywords>
 				<authors>
@@ -11320,7 +11316,8 @@
 				<feature></feature>
 				<page>0061-0076</page>
 				<abstract>
-					<p></p>
+					<p>A new scheme of radiation transfer for understanding the infrared spectra of HII regions, has been developed. This scheme considers non-equilibrium processes (e.g. transient heating of the very small grains, VSG; and the polycyclic aromatic hydrocarbon, PAH) also, in addition to the equilibrium thermal emission from normal dust grains (BG). The spherically symmetric interstellar dust cloud is segmented into a large number of "onion skin" shells in order to implement the non-equilibrium processes. The scheme attempts to fit the observed SED originating from the dust component, by exploring the following parameters: (i) geometrical details of the dust cloud, (ii) PAH size and abundance, (iii) composition of normal grains (BG), (iv) radial distribution of all dust (BG, VSG &amp; PAH).</p>
+					<p>The scheme has been applied to a set of five compact Η II regions (IRAS 18116-1646, 18162-2048, 19442 + 2427, 22308 + 5812, and 18434 — 0242) whose spectra are available with adequate spectral resolution. The best fit models and inferences about the parameters for these sources are presented.</p>
 				</abstract>
 				<keywords>HII regions;radiative transfer;PAH;VSG.</keywords>
 				<authors>
@@ -11345,7 +11342,7 @@
 				<feature></feature>
 				<page>0077-0090</page>
 				<abstract>
-					<p></p>
+					<p>ISOGAL is a survey at 7 and 15 µm with ISOCAM of the inner galactic disk and bulge of our Galaxy. The survey covers ~ 22 deg<sup>2</sup> in selected areas of the central l = ±30 degree of the inner Galaxy. In this paper, we report the study of a small ISOGAL field in the inner galactic bulge (l = 0°,b = -1°, area = 0.033deg<sup>2</sup>). Using the multicolor nearinfrared data (IJK<sub>s</sub>) of DENIS (DEep Near Infrared Southern Sky Survey) and mid-infrared ISOGAL data, we discuss the nature of the ISOGAL sources. The various color-color and color-magnitude diagrams are discussed in the paper. While most of the detected sources are red giants (RGB tip stars), a few of them show an excess in J-K<sub>s</sub> and K<sub>s</sub> -[15] colors with respect to the red giant sequence. Most of them are probably AGB stars with large mass-loss rates.</p>
 				</abstract>
 				<keywords>Stars: AGB and post-AGB;stars: circumstellar matter;stars: mass - loss - dust - infrared: stars;Galaxy: bulge.</keywords>
 				<authors>
@@ -11385,7 +11382,7 @@
 				<feature></feature>
 				<page>0091-0099</page>
 				<abstract>
-					<p></p>
+					<p>It has long been established that the ratio of total to selective extinction is anomalously large (≥ 5) in certain regions of the interstellar medium. In these regions of anomalous extinction the dust grains are likely to be irregular in shape and fluffy in structure. Using discrete dipole approximation (DDA) we calculate the extinction for porous and fluffy grains. We apply DDA first to solid spheroidal particles assumed to be made of a certain (large) number of dipoles. Then we systematically reduce the number of dipoles to model the porous grains. The aggregates of these particles are suggested to form the fluffy grains. We study the extinction for these particles as a function of grain size, porosity and wavelength. We apply these calculations to interpret the observed extinction data in the regions of star formation (e.g. the Orion complex).</p>
 				</abstract>
 				<keywords>Interstellar dust;extinction;porous grains;anomalous extinction.</keywords>
 				<authors>
@@ -11421,9 +11418,7 @@
 				<title>The Kodaikanal Observatory–A Historical Account</title>
 				<feature></feature>
 				<page>0103-0106</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11438,9 +11433,7 @@
 				<title>Foreword</title>
 				<feature></feature>
 				<page>0111-0111</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11466,7 +11459,7 @@
 				<feature>Session I – Keynote Address</feature>
 				<page>0119-0125</page>
 				<abstract>
-					<p></p>
+					<p>The tilt angles of sunspot groups are defined, using the Mount Wilson data set. It is shown that groups with tilt angles greater than or less than the average value (≈5 deg) show different latitude dependences. This effect is also seen in synoptic magnetic field data defining plages. The fraction of the total sunspot group area that is found in the leading spots is discussed as a parameter that can be useful in studying the dynamics of sunspot groups. This parameter is larger for low tilt angles, and small for extreme tilt angles in either direction. The daily variations of sunspot group tilt angles are discussed. The result that sunspot tilt angles tend to rotate toward the average value is reviewed. It is suggested that at some depth, perhaps 50 Mm, there is a flow relative to the surface that results from a rotation rate faster than the surface rate by about 60 m/sec and a meridional drift that is slower than the surface rate by about 5 m/sec. This results in a slanted relative flow at that depth that is in the direction of the average tilt angle and may be responsible for the tendency for sunspot groups (and plages) to rotate their magnetic axes in the direction of the average tilt angle.</p>
 				</abstract>
 				<keywords>Active regions;sunspot groups;group tilt angles.</keywords>
 				<authors>
@@ -11483,7 +11476,7 @@
 				<feature>Session II – Synoptic Observations</feature>
 				<page>0127-0134</page>
 				<abstract>
-					<p></p>
+					<p>Several new synoptic facilities for long-term studies of the Sun will become operational within the next few years. This paper summarizes information on some of these projects, in particular GONG+, ISOON, GOES/SXI, and SOLIS. SOLIS, the Synoptic Optical Long-Term Investigations of the Sun, is currently being built by the National Solar Observatory and will become operational in 2001. It consists of a 50-cm vector spectromagnetograph, a 14-cm full-disk patrol, and an 8-mm sun-as-a-star spectrometer.</p>
 				</abstract>
 				<keywords>GONG;ISOON;SXI;SOLIS</keywords>
 				<authors>
@@ -11500,7 +11493,7 @@
 				<feature>Session II – Synoptic Observations</feature>
 				<page>0135-0140</page>
 				<abstract>
-					<p></p>
+					<p>The PICARD microsatellite mission will provide 2 to 6 years simultaneous measurements of the solar diameter, differential rotation and solar constant to investigate the nature of their relations and variabilities. The 100 kg satellite has a 40 kg payload consisting of 3 instruments which will provide an absolute measure (better than 10 milliarcsec) of the diameter and the solar shape, a measure of total solar irradiance, and UV and visible flux in selected wavelength bands. Now in Phase B, PICARD is expected to be launched before mid-2003. The engineering model of the diameter telescope will be used on ground simultaneously with the satellite to investigate the atmospheric bias and state on the possible accuracy of the ground measurements carried up to now. We review the scientific goals linked to the diameter measurement, present the payload, and give a brief overview of the program aspects.</p>
 				</abstract>
 				<keywords>Solar diameter;solar shape;long-period oscillations;g-modes;solar influence on climate.</keywords>
 				<authors>
@@ -11517,7 +11510,7 @@
 				<feature>Session II – Synoptic Observations</feature>
 				<page>0141-0147</page>
 				<abstract>
-					<p></p>
+					<p>The design ofthe space solar telescope (SST) (phase B) has been completed. The manufacturing is under development. At the end of 2000, it will be assembled. The basic aspect will be introduced in this paper.</p>
 				</abstract>
 				<keywords>Space telescopes.</keywords>
 				<authors>
@@ -11554,7 +11547,9 @@
 				<feature>Session II – Synoptic Observations</feature>
 				<page>0149-0153</page>
 				<abstract>
-					<p></p>
+					<p>The synoptic observations of Kodaikanal form one of the longest unbroken solar data from the beginning of the 20th century to the present day, and consists of the white light and monochromatic images of the sun. In this review, I shall discuss the results of the investigations in two areas using these data: (i) Tilt angles of the magnetic axes of bipolar spot groups, and (ii) structure and dynamics of large scale unipolar magnetic regions on the solar surface.</p>
+					<p>The observed properties and patterns of behaviour of the tilt angles can be used as effective diagnostics to infer the physical conditions in the subsurface layers of the sun, and thus get an insight into the physical effects that act on the rising magnetic flux tubes during their journey through the convection zone to the surface.</p>
+					<p>The second topic of discussion here, namely, the studies of the dynamics of unipolar regions over several solar cycles, show that the global solar activity has a high latitude component which manifests in the form of polar faculae, in addition to the well known sunspot activity at the middle and low latitudes. This raises the question about the origin of this high latitude component.</p>
 				</abstract>
 				<keywords>Synoptic observations;tilt angles of sunspot groups;global solar cycle.</keywords>
 				<authors>
@@ -11571,7 +11566,7 @@
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0155-0160</page>
 				<abstract>
-					<p></p>
+					<p>Data on sunspot groups have been quite useful for obtaining clues to several processes on global and local scales within the sun which lead to emergence of toroidal magnetic flux above the sun's surface. I present here a report on such studies carried out at Indian Institute of Astrophysics during the last decade or so.</p>
 				</abstract>
 				<keywords>Sunspot group;solar cycle;solar rotation.</keywords>
 				<authors>
@@ -11587,9 +11582,7 @@
 				<title>The Large-Scale Magnetic Field and Sunspot Cycles</title>
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0161-0162</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun: magnetic field;sunspots;solar cycle.</keywords>
 				<authors>
 					<author>
@@ -11610,7 +11603,7 @@
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0163-0165</page>
 				<abstract>
-					<p></p>
+					<p>The records of sunspot number, sunspot areas and sunspot locations gathered over the centuries by various observatories are reanalysed with the aim of finding as yet undiscovered connections between the different parameters of the sunspot cycle and the butterfly diagram. Preliminary results of such interrelationships are presented.</p>
 				</abstract>
 				<keywords>Sunspots;solar dynamo.</keywords>
 				<authors>
@@ -11642,7 +11635,7 @@
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0167-0170</page>
 				<abstract>
-					<p></p>
+					<p>Using the data on sunspot groups compiled during 1879-1975, we determined variations in the differential rotation coefficients 𝐴 and 𝐵 during the solar cycle. The variation in the equatorial rotation rate 𝐴 is found to be significant only in the odd numbered cycles, with an amplitude ~ 0.01 µ rads<sup>-1</sup>. There exists a good anticorrelation between the variations of the differential rotation rate 𝐵 derived from the odd and even numbered cycles, suggesting existence of a '22-year' periodicity in 𝐵. The amplitude of the variation of 𝐵 is ~ 0.05 µ rad s<sup>-1</sup>.</p>
 				</abstract>
 				<keywords>Sunspot group;solar cycle;solar rotation.</keywords>
 				<authors>
@@ -11658,9 +11651,7 @@
 				<title>Is a Sunspot in Static or Dynamic Equilibrium?</title>
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0171-0172</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun;sunspot;structure.</keywords>
 				<authors>
 					<author>
@@ -11676,7 +11667,7 @@
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0173-0176</page>
 				<abstract>
-					<p></p>
+					<p>We report here a study of various solar activity phenomena occurring in both north and south hemispheres of the Sun during solar cycles 8-23. In the study we have used sunspot data for the period 1832—1976, flare index data for the period 1936-1993, Hα flare data 1993-1998 and solar active prominences data for the period 1957-1998. Earlier Verma reported long-term cyclic period in N-S asymmetry and also that the N-S asymmetry of solar activity phenomena during solar cycles 21, 22, 23 and 24 will be south dominated and the N-S asymmetry will shiftto north hemisphere in solar cycle 25. The present study shows that the N-S asymmetry during solar cycles 22 and 23 are southern dominated as suggested by Verma.</p>
 				</abstract>
 				<keywords>Sunspots;solar activity;solar cycles.</keywords>
 				<authors>
@@ -11693,7 +11684,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0177-0183</page>
 				<abstract>
-					<p></p>
+					<p>Solar filaments are discussed in terms of two contrasting paradigms. The standard paradigm is that filaments are formed by condensation of coronal plasma into magnetic fields that are twisted or dimpled as a consequence of motions of the fields' sources in the photosphere. According to a new paradigm, filaments form in rising, twisted flux ropes and are a necessary intermediate stage in the transfer to interplanetary space of dynamo-generated magnetic flux. It is argued that the accumulation of magnetic helicity in filaments and their coronal sur-roundings leads to filament eruptions and coronal mass ejections. These ejections relieve the Sun of the flux generated by the dynamo and make way for the flux of the next cycle.</p>
 				</abstract>
 				<keywords>Solar filaments;solar dynamo;magnetic fields.</keywords>
 				<authors>
@@ -11710,7 +11701,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0185-0192</page>
 				<abstract>
-					<p></p>
+					<p>The solar corona-one of the most spectacular celestial shows and yet one of the most challenging puzzles-exhibits a spectrum of structures related to both the quiet Sun and active regions. In spite of dramatic differences in appearance and physical processes, all these structures share a common origin: they are all related to the solar magnetic field. The origin of the field is beneath the turbulent convection zone, where the magnetic field is not a master but a slave, and one can wonder how much the coronal magnetic field "remembers" its dynamo origin. Surprisingly, it does. We will describe several observational phenomena that indicate a close relationship between coronal and sub-photospheric processes.</p>
 				</abstract>
 				<keywords>Sun;solar corona;magnetic field;helicity.</keywords>
 				<authors>
@@ -11732,7 +11723,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0193-0196</page>
 				<abstract>
-					<p></p>
+					<p>A possible scenario of polar magnetic field reversal of the Sun during the Maunder Minimum (1645-1715) is discussed using data of magnetic field reversals of the Sun for 1880-1991 and the <sup>14</sup>C content variations in the bi-annual rings of the pine-trees in 1600-1730 yrs.</p>
 				</abstract>
 				<keywords>Sun: cycle;magnetic field;maunder minimum.</keywords>
 				<authors>
@@ -11754,7 +11745,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0197-0200</page>
 				<abstract>
-					<p></p>
+					<p>We present an analysis of shot time-scale intensity variations in the coronal green line as obtained with time resolution observations. The observed data can be divided into two groups. The first one shows periodic intensity  variations with a period of 5 min. the second one does not show any significant intensity variations. We studied the relation between regions of coronal intensity oscillations and the shape of whitelight coronal structures. We found that the coronal green-line oscillations occur mainly in regions where open white-light coronal structures are located.</p>
 				</abstract>
 				<keywords>Sun;solar corona;5 min variations;solar activity.</keywords>
 				<authors>
@@ -11781,7 +11772,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0201-0204</page>
 				<abstract>
-					<p></p>
+					<p>Long-term cycle variations in the distribution of prominences and intensities of green (530.3 nm) and red (637.4 nm) coronal emission lines over solar cycles 18-23 are presented. Polar prominence branches will reach the poles at different epochs in cycle 23: the north branch at the beginning in 2002 and the south branch a year later (2003), respectively. The local maxima of intensities in the green line show both poleward- and equatorward-migrating branches. The poleward branches will reach the poles around' cycle maxima like prominences, while the equatorward branches show a duration of 18 years and will end in cycle minima (2007). The red corona shows mostly equatorward branches. The possibility that these branches begin to develop at high latitudes in the preceding cycles cannot be excluded.</p>
 				</abstract>
 				<keywords>Prominences;emission corona;cycle activity.</keywords>
 				<authors>
@@ -11808,7 +11799,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0205-0208</page>
 				<abstract>
-					<p></p>
+					<p>Precise measurements of heliographic position of solar filaments were used for determination of the proper motion of solar filaments on the time-scale of days. The filaments have a tendency to make a shaking or waving of the external structure and to make a general movement of whole filament body, coinciding with the transport of the magnetic flux in the photosphere. The velocity scatter of individual measured points is about one order higher than the accuracy of measurements.</p>
 				</abstract>
 				<keywords>Sun;filaments;horizontal motions.</keywords>
 				<authors>
@@ -11830,7 +11821,7 @@
 				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
 				<page>0209-0212</page>
 				<abstract>
-					<p></p>
+					<p>A comparison is made of observational data on the mean magnetic field of the Sun from several observatories (a selection of published information and new measurements). Results of correlation and regression analyses of observations of background magnetic fields at the STOP telescope of the Sayan solar observatory in different spectral lines are also presented. Results obtained furnish an opportunity to obtain more unbiased information about large-scale magnetic fields of the Sun and, in particular, about manifestations of strong (kilogauss) magnetic fields in them.</p>
 				</abstract>
 				<keywords>Sun: magnetic fields;magnetographs.</keywords>
 				<authors>
@@ -11847,7 +11838,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0213-0220</page>
 				<abstract>
-					<p></p>
+					<p>Observations of the strength and spatial distribution of vector magnetic fields in active regions have revealed several fundamental properties of the twist of their magnetic fields. First, the handedness of this twist obeys a hemispheric rule: left-handed in the northern hemisphere, right-handed in the southern. Second, the rule is weak; active regions often disobey it. It is statistically valid only in a large ensemble. Third, the rule itself, and the amplitude of the scatter about the rule, are quantitatively consistent with twisting of fields by turbulence as flux tubes buoy up through the convection zone. Fourth, there is considerable spatial variation of twist within active regions. However, relaxation to a linear force-free state, which has been documented amply in laboratory plasmas, is not observed.</p>
 				</abstract>
 				<keywords>Magnetic fields;currents;magnetic helicity.</keywords>
 				<authors>
@@ -11869,7 +11860,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0221-0227</page>
 				<abstract>
-					<p></p>
+					<p>Solar flares, prominences and CMEs are well known manifestations of solar activity. For many years, qualitative studies were made about the cyclical behaviour of such phenomena. Nowadays, more quantitative studies have been undertaken with the aim to understand the solar cycle dependence of such phenomena as well as peculiar behaviour, such as asymmetries and periodicities, occurring within the solar cycle. Here, we plan to review the more recent research concerning all these topics.</p>
 				</abstract>
 				<keywords>Sun: Activity;prominences;flares;CMEs.</keywords>
 				<authors>
@@ -11886,7 +11877,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0229-0232</page>
 				<abstract>
-					<p></p>
+					<p>In this paper we present complete two-dimensional measurements of the observed brightness of the 9th November 1990 𝐻𝛼 flare, using a PDS microdensitometer scanner and image processing software MIDAS. The resulting isophotal contour maps, were used to describe morphological-cum-temporal behaviour of the flare and also the kernels of the flare. Correlation of the 𝐻𝛼 flare with SXR and MW radiations were also studied.</p>
 				</abstract>
 				<keywords>H𝛼 flare;isophotal contour maps;flare kernels.</keywords>
 				<authors>
@@ -11908,7 +11899,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0233-0236</page>
 				<abstract>
-					<p></p>
+					<p>The active region NoAA 8032 of April 15, 1997 was observed to evolve rapidly. The GOES X-ray data showed a number of sub-flares and two C-class flares during the 8-9 hours of its evolution. The magnetic evolution of this region is studied to ascertain its role in flare production. Large changes were observed in magnetic field configuration due to the emergence of new magnetic flux regions (EFR). Most of the new emergence occured very close to the existing magnetic regions, which resulted in strong magnetic field gradients in this region. EFR driven reconnection of the field lines and subsequent flux cancellation might be the reason for the continuous occurrence of sub-flares and other related activities.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -11930,7 +11921,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0237-0240</page>
 				<abstract>
-					<p></p>
+					<p>We present observations of the 'quiet' Sun close to the recent solar minimum (Cycle 22), with the Gauribidanur radioheliograph. Our main conclusion is that coronal streamers also influence the observed radio brightness temperature.</p>
 				</abstract>
 				<keywords>Sun;corona;radio observations;streamers;scattering.</keywords>
 				<authors>
@@ -11947,7 +11938,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0241-0244</page>
 				<abstract>
-					<p></p>
+					<p>A Stokes Polarimeter has been developed using a masked CCD arrangement for the measurement of the vector magnetic field of sunspots. Charge shifting within the CCD is used to record near simultaneous orthogonal polarisation. The testing ofthe Stokes Polarimeter and the behavior ofthe integrated system combinedwith the Kodaikanaltower tunnel telescope will be discussed.</p>
 				</abstract>
 				<keywords>Solar polarimetry;charge shifting;vector magnetic field.</keywords>
 				<authors>
@@ -11978,9 +11969,7 @@
 				<title>Twist of Magnetic Fields in Solar Active Regions</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0245-0247</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Solar active regions;solar magnetic fields.</keywords>
 				<authors>
 					<author>
@@ -12010,9 +11999,7 @@
 				<title>The Photospheric Flow near the Flare Locations of Active Regions</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0249-0250</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Active regions;magnetic field;velocity field;flare locations;shear.</keywords>
 				<authors>
 					<author>
@@ -12028,7 +12015,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0251-0254</page>
 				<abstract>
-					<p></p>
+					<p>The experiment with 10K-80 aboard the INTER-BALL-2 (which detects protons with energies &gt; 7, 27-41, 41-58, 58-88, 88-180 and 180-300 MeV) registered six events of the solar energetic particle (SEP) increase. These events are during the initial rise phase of the 23rd solar activity cycle. Solar flares with the SEP generation are accompanied by coronal mass ejection (CME). Here we analyze the dynamics of the differential energy spectrum at different phases of the SEP increase.</p>
 				</abstract>
 				<keywords>Solar energetic particles;coronal mass ejection;interplanetary shock;differential energy spectrum.</keywords>
 				<authors>
@@ -12050,7 +12037,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0255-0258</page>
 				<abstract>
-					<p></p>
+					<p>We present an application of the PALI (Polarized Approximate Lambda Iteration) method to the resonance scattering in spectral lines formed in the presence of weak magnetic fields. The method is based on an operator perturbation approach, and can efficiently give solutions for oriented vector magnetic fields in the solar atmosphere.</p>
 				</abstract>
 				<keywords>Polarization;magnetic fields, radiative transfer;stars: atmospheres;methods: numerical.</keywords>
 				<authors>
@@ -12081,9 +12068,9 @@
 			<entry hassup="0">
 				<title>On the Possibility of Radio Emission from Quasi-parallel and Quasi-perpendicular Propagation of Shocks</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
-				<page></page>
+				<page>0259-0262</page>
 				<abstract>
-					<p></p>
+					<p>A set of 21 solar type II radio bursts observed using Hiraiso radio spectrograph have been analysed to study the direction of propagation of coronal shocks. Α simple analysis is carried out to find the approximate angle between the shock normal and magnetic field by solving the Rankine-Hugoniot MHD relation with assumption of Alfven speed and plasma beta. From this analysis, it is suggested that both quasi-parallel shocks (favourable) and quasi-perpendicular shocks can generate type II bursts depending upon the circumstances of the corona.</p>
 				</abstract>
 				<keywords>Radio emission;shocks;type II bursts.</keywords>
 				<authors>
@@ -12105,9 +12092,7 @@
 				<title>Emergence of Twisted Magnetic Flux Related Sigmoidal Brightening</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0263-0264</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun: Sigmoid;filament;sunspots.</keywords>
 				<authors>
 					<author>
@@ -12143,7 +12128,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0265-0268</page>
 				<abstract>
-					<p></p>
+					<p>A gradient based algorithm which divides arbitrary images into non-overlapping surface filling tiles of opposite polarity is used to study the flux and size distributions of large scale magnetic flux concentrations in solar and heliospheric observatory (SoHO) magnetograms. The mean absolute flux and size of the concentrations at the considered scale is found to be about 1.7 × 10<sup>18</sup>Mx and 5.2Mm for both polarities. The form of the flux distribution is characterized by a skewness of α<sub>3</sub> = 4.9 and a kurtosis of α<sub>4</sub>, = 42.8. The fall in the distribution in the range 6.5 × 10<sup>17</sup>Mx to 5 × 10<sup>18</sup>Mx is described by an exponential fit, in agreement with a model for the sustenance of quiet region flux.</p>
 				</abstract>
 				<keywords>Sun: granulation;magnetogram.</keywords>
 				<authors>
@@ -12164,9 +12149,7 @@
 				<title>Parametric Study of Molecular Line Polarization in the Solar Atmosphere</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0269-0269</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Molecular polarization;scattering;radiative transfer.</keywords>
 				<authors>
 					<author>
@@ -12187,7 +12170,7 @@
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0271-0274</page>
 				<abstract>
-					<p></p>
+					<p>We have made an attempt to obtain relationship of magnetic shear and vertical currents in NOAA AR7321. Intercomparison of changes observed at several flaring and non-flaring sites associated with an M4/2B flare observed on October 26, 1992 is reported.</p>
 				</abstract>
 				<keywords>Magnetic shear-electrical current-flare.</keywords>
 				<authors>
@@ -12209,7 +12192,8 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0275-0282</page>
 				<abstract>
-					<p></p>
+					<p>At the solar surface the magnetic field is bundled into discrete elements of concentrated flux, often referred to as magnetic flux tubes, which cover only a small fraction of the solar surface. Flux tubes span a whole spectrum of sizes, ranging from sunspots to features well below the best currently obtainable spatial resolution.</p>
+					<p>Whereas sunspots have been well studied, our knowledge of the true brightness of small-scale magnetic features is hampered by the insufficient spatial resolution of the observations. A better understanding of the thermal and magnetic properties of these small-scale features, however, is crucial for an understanding of (climate relevant) long-term solar irradiance variations.</p>
 				</abstract>
 				<keywords>Irradiance;flux tube;sunspot;plage.</keywords>
 				<authors>
@@ -12231,7 +12215,7 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0283-0287</page>
 				<abstract>
-					<p></p>
+					<p>We model the dynamical interaction between magnetic flux tubes and granules in the solar photosphere which leads to the excitation of transverse (kink) and longitudinal (sausage) tube waves. The investigation is motivated by the interpretation of network oscillations in terms of flux tube waves. The calculations show that for magnetic field strengths typical of the network, the energy flux in transverse waves is higher than in longitudinal waves by an order of magnitude. But for weaker fields, such as those that might be found in internetwork regions, the energy fluxes in the two modes are comparable. Using observations of footpoint motions, the energy flux in transverse waves is calculated and the implications for chromospheric heating are pointed out.</p>
 				</abstract>
 				<keywords>MHD;Sun: magnetic fields, oscillations.</keywords>
 				<authors>
@@ -12248,7 +12232,7 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0289-0292</page>
 				<abstract>
-					<p></p>
+					<p>Simultaneous time series of broad-band images of two active regions close to the disk center were acquired at the maximum (0.80 µm) and minimum (1.55 µm) continuum opacities. Dark faculae are detected in images obtained as weighted intensity differences between both wavelength bands. The elements of quiet regions can be clearly distinguished from those of faculae and pores in scatter plots of brightness temperatures. There is a smooth transition between faculae and pores in the scatter plots. These facts are interpreted in terms of the balance between the inhibition of convective energy transport and the lateral radiative heating.</p>
 				</abstract>
 				<keywords>Solar photosphere;faculae;pores.</keywords>
 				<authors>
@@ -12286,7 +12270,7 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0293-0297</page>
 				<abstract>
-					<p></p>
+					<p>To identify and understand the underlying physical mechanisms of total solar and UV irradiance variability and to estimate the contribution of various chromospheric features to UV irradiance, detailed analysis of spatially resolved data is required. The various chromospheric features have been segregated and different parameters have been derived from CaII Κ Spectroheliograms of NSO/Sac Peak and Kodaikanal Observatory and compared with UV irradiance flux measured in MgII h and k lines by NOAA 9 satellite. The important results of this detailed analysis of CaII Κ Images of 1992 together with UV irradiance data will be discussed in this paper.</p>
 				</abstract>
 				<keywords>Chromosphere: CaII Κ Emission—UV Irradiance.</keywords>
 				<authors>
@@ -12303,7 +12287,7 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0299-0302</page>
 				<abstract>
-					<p></p>
+					<p>We study the relaxation of a compressible plasma to an equilibrium with flow. The constraints of conservation of mass, energy, angular momentum, cross-helicity and relative magnetic helicity are imposed. Equilibria corresponding to the energy extrema while conserving these invariants for parallel flows yield three classes of solutions and one of them with an increasing radial density profile, relevant to solar flux tubes is presented.</p>
 				</abstract>
 				<keywords>Hydromagnetics;Sun: atmosphere, magnetic fields.</keywords>
 				<authors>
@@ -12325,7 +12309,7 @@
 				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
 				<page>0303-0306</page>
 				<abstract>
-					<p></p>
+					<p>We compute the signs of two different current helicity parameters (i.e., <sup>𝛼</sup> best and 𝐻<sub>𝑐</sub>) for 87 active regions during the rise of cycle 23. The results indicate that 59% of the active regions in the northern hemisphere have negative <sup>𝛼</sup>best and 65% in the southern hemisphere have positive. This is consistent with that of the cycle 22. However, the helicity parameter 𝐻<sub>𝑐</sub> shows a weaker opposite hemispheric preference in the new solar cycle. Possible reasons are discussed.</p>
 				</abstract>
 				<keywords>Sun: activity;magnetic fields;photosphere.</keywords>
 				<authors>
@@ -12352,7 +12336,7 @@
 				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
 				<page>0307-0313</page>
 				<abstract>
-					<p></p>
+					<p>We review current understanding of the interaction of magnetic fields with convective motions in stellar convection zones. Among the most exciting recent results is the discovery that magnetic fields need not primarily be confined to the stable layer below the convection zone; numerical simulations have shown that surprisingly, strong magnetic fields can be maintained in the interior of the convection zone.</p>
 				</abstract>
 				<keywords>Magnetic fields;convection;dynamo;Sun.</keywords>
 				<authors>
@@ -12379,7 +12363,7 @@
 				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
 				<page>0315-0318</page>
 				<abstract>
-					<p></p>
+					<p>Horizontal large-scale velocity field describes horizontal displacement of the photospheric magnetic flux in zonal and meridian directions. The flow systems of solar plasma, constructed according to the velocity field, create the large-scale cellular-like patterns with up-flow in the center and the down-flow on the boundaries. Distribution of the largescale horizontal eddies (with characteristic scale length from 350 to 490 Mm) was found in the broad equatorial zone, limited by 60° latitude circles on both hemispheres. The zonal averages of the zonal and meridian velocities, and the total horizontal velocity for each Carrington rotation during the activity cycles no. 21 and 22 varies during the 11-yr activity cycle. Plot of RMS values of total horizontal velocity is shifted about 1·6 years before the similarly shaped variation of the magnetic flux.</p>
 				</abstract>
 				<keywords>Sun;large-scale flow;cyclic variations.</keywords>
 				<authors>
@@ -12396,7 +12380,7 @@
 				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
 				<page>0319-0322</page>
 				<abstract>
-					<p></p>
+					<p>The main scientific objectives, asteroseismology and search for extrasolar planets for the COROT photometric mission are presented, and its interest in terms of stellar variability. A description of the payload, details of the scientific program, the ground based preparatory observations and bibliography can be found at http://www.astrsp-mrs.fr/corot/pagecorot.html.</p>
 				</abstract>
 				<keywords>Space;photometry;asteroseismology;extrasolar planets.</keywords>
 				<authors>
@@ -12423,7 +12407,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0323-0329</page>
 				<abstract>
-					<p></p>
+					<p>The inversion of helioseismic modes leads to the sound velocity inside the Sun with a precision of about 0.1 per cent. Comparisons of solar models with the "seismic sun" represent powerful tools to test the physics: depth of the convection zone, equation of state, opacities, element diffusion processes and mixing inside the radiative zone. We now have evidence that microscopic diffusion (element segregation) does occur below the convection zone, leading to a mild helium depletion in the solar outer layers. Meanwhile this process must be slowed down by some macroscopic effect, presumably rotation-induced mixing. The same mixing is also responsible for the observed lithium depletion. on the other hand, the observations of beryllium and helium 3 impose specific con straints on the depth of this mildly mixed zone. Helioseismology also gives information on the internal solar rotation: while differential rotation exists in the convection zone, solid rotation prevails in the radiative zone, and the transition layer (the so-called "tachocline") is very small. These effects are discussed, together with the astrophysical constraints on the solar neutrino fluxes.</p>
 				</abstract>
 				<keywords>Helioseismology;diffusion;light elements;abundances.</keywords>
 				<authors>
@@ -12440,7 +12424,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0331-0337</page>
 				<abstract>
-					<p></p>
+					<p>The interior of the Sun is not directly accessible to observations. Nonetheless, it is possible to infer the physical conditions inside the Sun with the help of structure equations governing its equilibrium and with the powerful observational tools provided by the neutrino fluxes and oscillation frequencies. The helioseismic data show that the internal constitution of the Sun can be adequately represented by a standard solar model. It turns out that a cooler solar core is not a viable solution for the measured deficit of neutrino fluxes, and the resolution of the solar neutrino puzzle should be sought in the realm of particle physics.</p>
 				</abstract>
 				<keywords>Sun: Oscillations, rotation, interior.</keywords>
 				<authors>
@@ -12457,7 +12441,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0339-0342</page>
 				<abstract>
-					<p></p>
+					<p>Surface gravity waves have been used to probe flows in the two megameters beneath the photosphere using the techniques of time distance helioseismology. The results suggest that supergranule velocities are smaller than at the surface. The outward flow outside a sunspot penumbra (the moat) is observed, as is an inward flow in the region beyond the moat.</p>
 				</abstract>
 				<keywords>Helioseismology;supergranulation;sunspots.</keywords>
 				<authors>
@@ -12484,9 +12468,7 @@
 				<title>Helioseismic Search for Magnetic Field in the Solar Interior</title>
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0343-0347</page>
-				<abstract>
-					<p></p>
-				</abstract>
+<!--				<abstract />  missing the this page --> 
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -12512,7 +12494,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0349-0352</page>
 				<abstract>
-					<p></p>
+					<p>Using the GONG data for a period over four years, we have studied the variation of frequencies and splitting coefficients with solar cycle. Frequencies and even-order coefficients are found to change significantly with rising phase of the solar cycle. We also find temporal variations in the rotation rate near the solar surface.</p>
 				</abstract>
 				<keywords>Solar cycle;rotation;activity.</keywords>
 				<authors>
@@ -12539,7 +12521,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0353-0356</page>
 				<abstract>
-					<p></p>
+					<p>We attempt to detect short-term temporal variations in the rotation rate and other large scale velocity fields in the outer part of the solar convection zone using the ring diagram technique applied to Michelson Doppler Imager (MDI) data. The measured velocity field shows variations by about 10 m/s on the scale of few days.</p>
 				</abstract>
 				<keywords>Sun: Oscillations, Rotation, Interior.</keywords>
 				<authors>
@@ -12561,7 +12543,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0357-0360</page>
 				<abstract>
-					<p></p>
+					<p>Using intermediate degree p-mode frequency data sets for solar cycle 22, we find that the frequency shifts and magnetic activity indicators show a "hysteresis" phenomenon. It is observed that the magnetic indices follow different paths for the ascending and descending phases of the solar cycle while for radiative indices, the separation between the paths are well within the error limits.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
@@ -12593,7 +12575,7 @@
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0361-0364</page>
 				<abstract>
-					<p></p>
+					<p>It is well known from Helioseismology that the Sun exhibits oscillations on a global scale, most of which are non-radial in nature. These oscillations help us to get a clear picture of the internal structure of the Sun as has been demonstrated by the theoretical and observational (such as GONG) studies. In this study we formulate the linearised equations of motion for non-radial oscillations by perturbing the MHD equilibrium solution for an axisymmetric incompressible fluid. The fluid motion and the magnetic field are expressed as scalars 𝑈, 𝑉, 𝑃 and 𝑇, respectively. In deriving the exact solution for the equilibrium state, we neglect the contribution due to meridional circulation. The perturbed quantities 𝑈*, 𝑉*, 𝑃*, 𝑇* are written in terms of orthogonal polynomials. A special case of the above formulation and its stability is discussed.</p>
 				</abstract>
 				<keywords>Non-radial oscillations;MHD;axisymmetry.</keywords>
 				<authors>
@@ -12610,7 +12592,7 @@
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0365-0371</page>
 				<abstract>
-					<p></p>
+					<p>We briefly describe historical development of the concept of solar dynamo mechanism that generates electric current and magnetic field by plasma flows inside the solar convection zone. The dynamo is the driver of the cyclically polarity reversing solar magnetic cycle. The reversal process can easily and visually be understood in terms of magnetic field line stretching and twisting and folding in three-dimensional space by plasma flows of differential rotation and global convection under influence of Coriolis force. This process gives rise to formation of a series of huge magnetic flux tubes that propagate along iso-rotation surfaces inside the convection zone. Each of these flux tubes produces one solar cycle. We discuss general characteristics of any plasma flows that can generate magnetic field and reverse the polarity of the magnetic field in a rotating body in the Universe. We also mention a list of problems which are currently being disputed concerning the solar dynamo mechanism together with observational evidences that are to be constraints as well as verifications of any solar cycle dynamo theories of short and long term behaviors of the Sun, particularly time variations of its magnetic field, plasma flows, and luminosity.</p>
 				</abstract>
 				<keywords>Dynamo;solar cycle;polarity reversal;differential rotation;turbulence;global convection.</keywords>
 				<authors>
@@ -12627,7 +12609,7 @@
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0373-0377</page>
 				<abstract>
-					<p></p>
+					<p>This review provides a historical overview of how research in kinematic solar dynamo modeling evolved during the last few decades and assesses the present state of research. The early pioneering papers assumed the dynamo to operate in the convection zone. It was suggested in the 1980s that the dynamo operates in a thin layer at the bottom of the convection zone. Some researchers in recent years are arguing that the poloidal field is produced near the surface—an idea that goes back to Babcock (1961) and Leighton (1969).</p>
 				</abstract>
 				<keywords>Sun;MHD;dynamo theory.</keywords>
 				<authors>
@@ -12643,9 +12625,7 @@
 				<title>Solar Internal Rotation and Dynamo Waves: A Two-Dimensional Asymptotic Solution in the Convection Zone</title>
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0379-0380</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun: magnetic fields, rotation, activity.</keywords>
 				<authors>
 					<author>
@@ -12671,7 +12651,7 @@
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0381-0385</page>
 				<abstract>
-					<p></p>
+					<p>We study the effects of incorporating magnetic buoyancy in a model of the solar dynamo-which draws inspiration from the Babcock-Leighton idea of surface processes generating the poloidal field. We present our main results here.</p>
 				</abstract>
 				<keywords>MHD—Sun: interior, magnetic fields.</keywords>
 				<authors>
@@ -12692,9 +12672,7 @@
 				<title>Alpha-Effect, Current and Kinetic Helicities for Magnetically Driven Turbulence, and Solar Dynamo</title>
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0387-0388</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun—dynamo, helicity, turbulent convection.</keywords>
 				<authors>
 					<author>
@@ -12722,7 +12700,7 @@
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0389-0395</page>
 				<abstract>
-					<p></p>
+					<p>Recent advances in the understanding of the quiet corona and coronal holes are reviewed. The review is based on long-term accumulation of data from eclipse observations, coronagraph observations, helium 10830 Å spectroheliograms, and X-ray observations.</p>
 				</abstract>
 				<keywords>Coronagraphs;solar activity cycle;solar corona;total eclipses;X-ray observations.</keywords>
 				<authors>
@@ -12739,7 +12717,7 @@
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0397-0401</page>
 				<abstract>
-					<p></p>
+					<p>We present results from sunspot observations obtained by SUMER on SOHO. In sunspot plumes the EUV spectrum differs from the quiet Sun; continua are observed with different slopes and intensities; emission lines from molecular hydrogen and many unidentified species indicate unique plasma conditions above sunspots. Sunspot plumes are sites of systematic downflow. We also discuss the properties of sunspot oscillations.</p>
 				</abstract>
 				<keywords>Sun: EUV spectroscopy;sunspot;oscillation.</keywords>
 				<authors>
@@ -12766,7 +12744,7 @@
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0403-0406</page>
 				<abstract>
-					<p></p>
+					<p>We applied advanced image enhancement techniques to explore in detail the characteristics of the smallscale structures and/or the low contrast structures in several Coronal Mass Ejections (CMEs) observed by SOHO. We highlight here the results from our studies of the morphology and dynamical evolution of CME structures in the solar corona using two instruments on board SOHO: LASCO and EIT.</p>
 				</abstract>
 				<keywords>Corona;CME.</keywords>
 				<authors>
@@ -12803,7 +12781,7 @@
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0407-0411</page>
 				<abstract>
-					<p></p>
+					<p>Using spectra obtained from the SUMER (Solar Ultraviolet Measurements of Emitted Radiation) spectrograph on the spacecraft SOHO (Solar and Heliospheric Observatory), we investigate the height dependence of electron density, temperature and abundance anomalies in the solar atmosphere. In particular, we present the behaviour of the solar FIP effect (the abundance enhancement of elements with first ionization potential &lt; 10 eV in the corona with respect to photospheric values) with height above an active region observed at the solar limb, with emphasis on the so-called transition region lines.</p>
 				</abstract>
 				<keywords>Solar atmosphere;abundance anomalies;EUV diagnostics;emission lines.</keywords>
 				<authors>
@@ -12831,7 +12809,7 @@
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0413-0417</page>
 				<abstract>
-					<p></p>
+					<p>We report on the statistical properties of the microwave enhancement (brightness temperature, area, fine structure, life time and magnetic field strength) in coronal holes observed over a period of several solar rotations.</p>
 				</abstract>
 				<keywords>Sun: radio radiation;coronal holes;EUV emission.</keywords>
 				<authors>
@@ -12858,9 +12836,7 @@
 				<title>The Enhanced Coronal Green Line Intensity and the Magnetic Field Gradients</title>
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0419-0420</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Sun: Corona;emergence of magnetic flux.</keywords>
 				<authors>
 					<author>
@@ -12885,9 +12861,7 @@
 				<title>Multibaseline Observations of the Occultation of Crab Nebula by the Solar Corona at Decameter Wavelengths</title>
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0421-0422</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Occultation;solar corona;density fluctuations.</keywords>
 				<authors>
 					<author>
@@ -12903,7 +12877,7 @@
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0423-0429</page>
 				<abstract>
-					<p></p>
+					<p>The cyclic evolution of the heliospheric plasma parameters is related to the time-dependent boundary conditions in the solar corona. "Minimal" coronal configurations correspond to the regular appearance of the tenuous, but hot and fast plasma streams from the large polar coronal holes. The denser, but cooler and slower solar wind is adjacent to coronal streamers. Irregular dynamic manifestations are present in the corona and the solar wind everywhere and always. They follow the solar activity cycle rather well. Because of this, the direct and indirect solar wind measurements demonstrate clear variations in space and time according to the minimal, intermediate and maximal conditions of the cycles. The average solar wind density, velocity and temperature measured at the Earth's orbit show specific decadal variations and trends, which are of the order of the first tens per cent during the last three solar cycles. Statistical, spectral and correlation characteristics of the solar wind are reviewed with the emphasis on the cycles.</p>
 				</abstract>
 				<keywords>Solar wind;solar activity cycle.</keywords>
 				<authors>
@@ -12935,7 +12909,7 @@
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0431-0437</page>
 				<abstract>
-					<p></p>
+					<p>The heliosphere is the region filled with magnetized plasma of mainly solar origin. It extends from the solar corona to well beyond the planets, and is separated from the interstellar medium by the heliopause. The latter is embedded in a complex and still unexplored boundary region. The characteristics of heliospheric plasma, fields, and energetic particles depend on highly variable internal boundary conditions, and also on quasi-stationary external ones. Both galactic cosmic rays and energetic particles of solar and heliospheric origin are subject to intensity variations over individual solar cycles and also from cycle to cycle. Particle propagation is controlled by spatially and temporally varying interplanetary magnetic fields, frozen into the solar wind. An overview is presented of the main heliospheric components and processes, and also of the relevant missions and data sets. Particular attention is given to flux variations over the last few solar cycles, and to extrapolated effects on the terrestrial environment.</p>
 				</abstract>
 				<keywords>Heliosphere;heliopause;termination shock;solar cycle;energetic'interplanetary neutrals;anomalous componene;cosmic rays;interplanetary magnetic fields.</keywords>
 				<authors>
@@ -12952,7 +12926,7 @@
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0439-0444</page>
 				<abstract>
-					<p></p>
+					<p>The ground-based radio astronomy method of interplanetary scintillations (IPS) and spacecraft observations have shown, in the past 25 years, that while coronal holes give rise to stable, recurring high speed solar wind steram during the minimum of the solar activity cycle, the slow speed wind seen more during the solar maximum activity is better associated with the closed field regions, which also give rise to solar flares and coronal mass ejections (CME's). The latter events increase significantly, as the cycle maximum takes place. We have recently shown that in the case of energetic flares one may be able to track the associated disturbances almost on a one to one basis from a distance of 0.2 to 1 AU using IPS methods. Time dependent 3D MHD models which are constrained by IPS observations are being developed. These models are able to simulate general features of the solar-generated disturbances. Advances in this direction may lead to prediction of heliospheric propagation of these disturbances throughout the solar system.</p>
 				</abstract>
 				<keywords>Sun;heliosphere, solar wind.</keywords>
 				<authors>
@@ -12968,9 +12942,7 @@
 				<title>Tomography of the Solar Wind using Interplanetary Scintillation</title>
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0445-0446</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords>Tomography;solar wind;interplanetary scintillation.</keywords>
 				<authors>
 					<author>
@@ -12992,7 +12964,7 @@
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0447-0450</page>
 				<abstract>
-					<p></p>
+					<p>The Ulysses Unified Radio and Plasma Wave Experiment (URAP) has observed Langmuir, ion-acoustic and associated solar type III radio emissions in the interplanetary medium. Bursts of 50-300 Hz (in the spacecraft frame) electric field signals, corresponding to long-wavelength ion-acoustic waves are often observed coincident in time with the most intense Langmuir wave spikes, providing evidence for the electrostatic decay instability. Langmuir waves often occur as envelope solitons, suggesting that strong turbulence processes, such as modulational instability and soliton formation, often coexist with weak turbulence processes, such as electrostatic decay, in a few type III burst source regions.</p>
 				</abstract>
 				<keywords>Type III bursts;electrostatic decay;modulational instability.</keywords>
 				<authors>
@@ -13014,7 +12986,7 @@
 				<feature>Session XII – Conclusion</feature>
 				<page>0451-0457</page>
 				<abstract>
-					<p></p>
+					<p>This summary lecture makes no attempt to summarize what was actually said at the meeting, since this is well covered by the other contributors. Instead I have structured my presentation in three parts: First I try to demonstrate why the Sun is unique by comparing it with laboratory plasmas. This is followed by some personal reminiscences that go back a significant fraction of the century. I conclude in the form of a poem about this memorable conference in honor of the centennial anniversary of the Kodaikanal Observatory.</p>
 				</abstract>
 				<keywords>Sun;plasma physics;history of science.</keywords>
 				<authors>
@@ -13030,9 +13002,7 @@
 				<title>List of Participants</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0459-0461</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -13041,9 +13011,7 @@
 				<title>Author Index</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0463-0467</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
