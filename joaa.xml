@@ -2,6 +2,2444 @@
 <!DOCTYPE journal SYSTEM "journal.dtd">
 
 <journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
+	<volume vnum="001">
+		<issue inum="01" month="" year="1980" info="">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="M. K. V." last="BAPPU">M. K. V. BAPPU</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Comoving Frame Calculations of Spectral Lines formed in Rapidly Expanding Media with the Partial Frequency Redistribution Function for Zero Natural Line Width</title>
+				<feature></feature>
+				<page>0003-0016</page>
+				<abstract />
+				<keywords>radiative transfer;partial redistribution function;comoving frame;spectral lines</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-02-08</date>
+					<date type="A">1980-04-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Lines formed in Rotating and Expanding Atmospheres</title>
+				<feature></feature>
+				<page>0017-0023</page>
+				<abstract />
+				<keywords>radiative transfer;partial redistribution function;comoving frame;spectral lines</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-02-23</date>
+					<date type="A">1980-04-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pulsar Activity and the Morphology of Supernova Remnants</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<abstract />
+				<keywords>pulsars;supernova remnants;magnetic window</keywords>
+				<authors>
+					<author>
+						<name first="V." last="Radhakrishnan">V. Radhakrishnan</name>
+						<affiliation>Raman Research institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-03-17</date>
+					<date type="A">1980-04-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Role of General Relativity in Astronomy: Retrospect and Prospect</title>
+				<feature></feature>
+				<page>0033-0045</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="S." last="Chandrasekhar">S. Chandrasekhar</name>
+						<affiliation>Laboratory for Astrophysics and Space Research, The University of Chicago, Chicago, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Evidence for a Large Population of Shocked Interstellar Clouds</title>
+				<feature></feature>
+				<page>0047-0066</page>
+				<abstract />
+				<keywords>21 cm absorption;shocked clouds;spin temperature;high velocities</keywords>
+				<authors>
+					<author>
+						<name first="V." last="Radhakrishnan">V. Radhakrishnan</name>
+						<affiliation>Raman Research institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-04-14</date>
+					<date type="A">1980-05-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Search for OB Stars in Supernova Remnants</title>
+				<feature></feature>
+				<page>0067-0070</page>
+				<abstract />
+				<keywords>Supernovae;supernova remnants;binaries</keywords>
+				<authors>
+					<author>
+						<name first="Sidney Van den" last="Bergh">Sidney Van den Bergh</name>
+						<affiliation>Dominion Astrophysical Observatory, Herzberg Institute of Astrophysics, Victoria, B.C., Canada</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-04-30</date>
+					<date type="A">1980-05-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>XX Cam—The Inactive R CrB Star</title>
+				<feature></feature>
+				<page>0071-0078</page>
+				<abstract />
+				<keywords>R CrB star;infrared excess</keywords>
+				<authors>
+					<author>
+						<name first="Ν. Kameswara" last="Rao">Ν. Kameswara Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N. M." last="Ashok">N. M. Ashok</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. V." last="Kulkarni">P. V. Kulkarni</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-05-08</date>
+					<date type="A">1980-05-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Α Dispersion Relation for Open Spiral Galaxies</title>
+				<feature></feature>
+				<page>0079-0095</page>
+				<abstract />
+				<keywords>galaxies;density waves;dispersion relation</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Contopoulos">G. Contopoulos</name>
+						<affiliation>Astronomy Department, University of Athens, Athens, Greece</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-03-20</date>
+					<date type="A">1980-04-25</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="" year="1980" info="">
+			<entry hassup="0">
+				<title>Comments on the Source Function Equality in (Zeeman)-Multiplets</title>
+				<feature></feature>
+				<page>0097-0100</page>
+				<abstract />
+				<keywords>radiative transfer;non-LTE;Zeeman effect;polarization</keywords>
+				<authors>
+					<author>
+						<name first="L. G." last="Stenholm">L. G. Stenholm</name>
+						<affiliation>Institut für Theoretische Astrophysik, im Neuenheimer Feld 294, D 6900 Heidelberg, Federal Republic of Germany</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Wehrse">R. Wehrse</name>
+						<affiliation>Institut für Theoretische Astrophysik, im Neuenheimer Feld 294, D 6900 Heidelberg, Federal Republic of Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-06-18</date>
+					<date type="A">1980-06-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An Iterative Simultaneous Solution of the Equations of Statistical Equilibrium and Radiative Transfer in the Comoving Frame</title>
+				<feature></feature>
+				<page>0101-0111</page>
+				<abstract />
+				<keywords>statistical equilibrium equation;radiative transfer;co-moving frame;iterative solution;velocity gradients</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-06-20</date>
+					<date type="A">1980-10-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of High Velocities on Photoionization Lines</title>
+				<feature></feature>
+				<page>0113-0117</page>
+				<abstract />
+				<keywords>photoionization lines;comoving frame;radiative transfer equation</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Raghunath">G. Raghunath</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-07-08</date>
+					<date type="A">1980-10-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Structure of Integrated Pulse Profiles</title>
+				<feature></feature>
+				<page>0119-0128</page>
+				<abstract />
+				<keywords>pulsars;integrated pulse profiles;polar cap model</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Vivekanand">Μ. Vivekanand</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V." last="Radhakrishnan">V. Radhakrishnan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-07-08</date>
+					<date type="A">1980-10-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Central Regions of Sérsic-Pastoriza Galaxies: A Photographic Study</title>
+				<feature></feature>
+				<page>0129-0154</page>
+				<abstract />
+				<keywords>galaxies;central regions;bursts of star formation;surface photometry</keywords>
+				<authors>
+					<author>
+						<name first="T. P." last="Prabhu">T. P. Prabhu</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-08-06</date>
+					<date type="A">1980-10-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Supernovae and the Ap Phenomenon</title>
+				<feature></feature>
+				<page>0155-0164</page>
+				<abstract />
+				<keywords>Supernovae;clusters;peculiar stars</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Rajamohan">R. Rajamohan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ashok K." last="Pati">Ashok K. Pati</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-08-22</date>
+					<date type="A">1980-10-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Convective Instability in the Solar Envelope</title>
+				<feature></feature>
+				<page>0165-0175</page>
+				<abstract />
+				<keywords>sun;granulation;supergranulation;convective instability</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Narasimha">D. Narasimha</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. Κ." last="Pandey">S. Κ. Pandey</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. Μ." last="Chitre">S. Μ. Chitre</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400005</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-09-09</date>
+					<date type="A">1980-11-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>NGC 4650 A: A Nearly Edge-on Ring Galaxy?</title>
+				<feature></feature>
+				<page>0177-0187</page>
+				<abstract />
+				<keywords>elliptical galaxy;prolate galaxy;ring galaxy;Η II regions</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Laustsen">S. Laustsen</name>
+						<affiliation>Astronomisk Institut, Aarhus Universitet, DK-8000 Aarhus C., Denmark</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. M." last="West">R. M. West</name>
+						<affiliation>European Southern Observatory, Karl-Schwarzchild-Strasse 2, D-8046 Garching bei München, F.R.G.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-09-22</date>
+					<date type="A">1980-10-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>No Detectable Supernova Remnant near the Pulsar PSR 1930 + 22</title>
+				<feature></feature>
+				<page>0189-0192</page>
+				<abstract />
+				<keywords>pulsar;supernova remnant</keywords>
+				<authors>
+					<author>
+						<name first="W. M." last="GOSS">W. M. GOSS</name>
+						<affiliation>Kapteyn Astronomical Institute, 9700 AV Groningen, Netherlands</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Morris">D. Morris</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<affiliation>Present address: I. R.A.M., B.P. 391, F 38017 Grenoble, France</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-19-22</date>
+					<date type="A">1980-10-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A New Spectroscopic Facility at Millimetre Wavelengths</title>
+				<feature>Report on New Instrumentation Facilities</feature>
+				<page>0193-0196</page>
+				<abstract />
+				<keywords>instruments;millimeter-wave astronomy</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Baudry">A. Baudry</name>
+						<affiliation>E. R. A. du C. N. R. S. no 380, Observatoire de l’Universite de Bordeaux, 33270 Floirac, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J." last="Brillet">J. Brillet</name>
+						<affiliation>E. R. A. du C. N. R. S. no 380, Observatoire de l’Universite de Bordeaux, 33270 Floirac, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. Μ." last="Desbats">J. Μ. Desbats</name>
+						<affiliation>E. R. A. du C. N. R. S. no 380, Observatoire de l’Universite de Bordeaux, 33270 Floirac, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J." last="Lacroix">J. Lacroix</name>
+						<affiliation>E. R. A. du C. N. R. S. no 380, Observatoire de l’Universite de Bordeaux, 33270 Floirac, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Montignac">G. Montignac</name>
+						<affiliation>E. R. A. du C. N. R. S. no 380, Observatoire de l’Universite de Bordeaux, 33270 Floirac, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Encrenaz">P. Encrenaz</name>
+						<affiliation>E. R. A. du C. N. R. S. n° 762, Ecole Normale Superieure, 75231 Paris Cedex 05 et U. S. M. G., CERMO, B. P. 53X, 38041 Grenoble, Cedex, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Lucas">R. Lucas</name>
+						<affiliation>E. R. A. du C. N. R. S. n° 762, Ecole Normale Superieure, 75231 Paris Cedex 05 et U. S. M. G., CERMO, B. P. 53X, 38041 Grenoble, Cedex, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Beaudin">G. Beaudin</name>
+						<affiliation>L. A. du C. N. R. S. n° 236, Observatoire de Meudon, 92190, Meudon, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Dierich">P. Dierich</name>
+						<affiliation>L. A. du C. N. R. S. n° 236, Observatoire de Meudon, 92190, Meudon, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Germont">A. Germont</name>
+						<affiliation>L. A. du C. N. R. S. n° 236, Observatoire de Meudon, 92190, Meudon, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Landry">P. Landry</name>
+						<affiliation>L. A. du C. N. R. S. n° 236, Observatoire de Meudon, 92190, Meudon, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Rerat">G. Rerat</name>
+						<affiliation>L. A. du C. N. R. S. n° 236, Observatoire de Meudon, 92190, Meudon, France</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-08-10</date>
+					<date type="A">1980-09-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature>Report on New Instrumentation Facilities</feature>
+				<page>0197-0199</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature>Report on New Instrumentation Facilities</feature>
+				<page>0201-0202</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="002">
+		<issue inum="01" month="" year="1981" info="">
+			<entry hassup="0">
+				<title>General Relativistic Analysis of Structure and Stability of Charged Fluid Disks Around Compact Objects</title>
+				<feature></feature>
+				<page>0001-0027</page>
+				<abstract />
+				<keywords>general relativity;black holes;accretion disks;stability</keywords>
+				<authors>
+					<author>
+						<name first="A. R." last="Prasanna">A. R. Prasanna</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. K." last="Chakraborty">D. K. Chakraborty</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-04-01</date>
+					<date type="A">1981-01-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An Analysis of the Orbital Periods of Some Eclipsing Binaries Suspected to be in the Pre-Main Sequence Contraction Phase of Evolution</title>
+				<feature></feature>
+				<page>0029-0041</page>
+				<abstract />
+				<keywords>eclipsing binaries;period changes;pre-main sequence evolution</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Panchatsaram">Τ. Panchatsaram</name>
+						<affiliation>Centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ. D." last="Abhyankar">Κ. D. Abhyankar</name>
+						<affiliation>Centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-09-04</date>
+					<date type="A">1981-01-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Extragalactic Sources with One-sided Radio Structure</title>
+				<feature></feature>
+				<page>0043-0058</page>
+				<abstract />
+				<keywords>quasars and radio galaxies;double radio sources;asymmetric structure;relativistic beaming</keywords>
+				<authors>
+					<author>
+						<name first="Vijay Κ." last="Kapahi">Vijay Κ. Kapahi</name>
+						<affiliation>Tata Institute of Fundamental Research, Radio Astronomy Group, Indian Institute of Science Campus, Bangalore 560012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-10-31</date>
+					<date type="A">1981-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pulsating Radio Emission at Decametre Wavelengths from the Sun</title>
+				<feature></feature>
+				<page>0059-0065</page>
+				<abstract />
+				<keywords>explosive instability;pulsating burst</keywords>
+				<authors>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V." last="Krishan">V. Krishan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. R." last="Subramanian">K. R. Subramanian</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-11-24</date>
+					<date type="A">1981-02-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Luminosity-H I Velocity Width Relation for Spirals</title>
+				<feature></feature>
+				<page>0067-0079</page>
+				<abstract />
+				<keywords>spiral galaxies;photometry;luminosity-ΗI velocity width relation</keywords>
+				<authors>
+					<author>
+						<name first="Ν." last="Visvanathan">Ν. Visvanathan</name>
+						<affiliation>Mount Stromlo and Siding Spring Observatories, Research School of Physical Sciences, The Australian National University, Australia</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-12-12</date>
+					<date type="A">1981-02-18</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photon Escape Probabilities in Expanding Atmospheres</title>
+				<feature></feature>
+				<page>0081-0086</page>
+				<abstract />
+				<keywords>mean number of scatterings;mean escape probability;partial redistribution function;isotropic scattering;dipole scattering</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ. Ε." last="Rangarajan">Κ. Ε. Rangarajan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. Mohan" last="Rao">D. Mohan Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-12-30</date>
+					<date type="A">1981-02-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Relationship Between Pulsars and Supernova Remnants</title>
+				<feature></feature>
+				<page>0087-0093</page>
+				<abstract />
+				<keywords>pulsars;Supernovae;supernova remnants</keywords>
+				<authors>
+					<author>
+						<name first="R. Κ." last="Kochhar">R. Κ. Kochhar</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-01-09</date>
+					<date type="A">1981-02-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intrinsic Properties of Carbon Stars. I. Effective Temperature Scale of N-type Carbon Stars</title>
+				<feature></feature>
+				<page>0095-0113</page>
+				<abstract />
+				<keywords>carbon stars;effective temperatures;line blanketing;spectral classification;stellar atmospheres</keywords>
+				<authors>
+					<author>
+						<name first="Takashi" last="Tsuji">Takashi Tsuji</name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-01-27</date>
+					<date type="A">1981-03-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Spectroscopic Orbit for 26 Comae</title>
+				<feature></feature>
+				<page>0115-0118</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-02-03</date>
+					<date type="A">1981-02-16</date>
+				</dates>
+			</entry>
+		</issue>			
+		<issue inum="02" month="" year="1981" info="">
+			<entry hassup="0">
+				<title>A Model of the Algol Type Close Binary TT Hydrae</title>
+				<feature></feature>
+				<page>0119-0132</page>
+				<abstract />
+				<keywords>close binaries;absolute dimensions;ultraviolet excess in Algols</keywords>
+				<authors>
+					<author>
+						<name first="Α. G." last="Kulkarni">Α. G. Kulkarni</name>
+						<affiliation>centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<affiliation>Present address: Sardar Patel Planetarium, Sayaji Baug, Baroda 390018</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. D." last="Abhyankar">K. D. Abhyankar</name>
+						<affiliation>centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-04-18</date>
+					<date type="A">1981-04-29</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Time-Dependent Interaction of Granules with Magnetic Flux Tubes</title>
+				<feature></feature>
+				<page>0133-0139</page>
+				<abstract />
+				<keywords>Sun;small scale magnetic fields;granules;downdrafts;fluid dynamics;unsteady one-dimensional flow</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. S." last="Hasan">S. S. Hasan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-01-01</date>
+					<date type="A">1981-04-20</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Photographic Spectrophotometry of Selected Bright B and Be Stars</title>
+				<feature></feature>
+				<page>0141-0159</page>
+				<abstract />
+				<keywords>Β stars;Be stars;photographic spectrophotometry</keywords>
+				<authors>
+					<author>
+						<name first="Elaine Μ." last="Hendry">Elaine Μ. Hendry</name>
+						<affiliation>Department of Physics and Astronomy, Georgia State University, Atlanta, Georgia 30303, USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. D. R." last="Bahng">J. D. R. Bahng</name>
+						<affiliation>Lindheimer Astronomical Research Center, Northwestern University, Evanston, Illinois 60201, USA</affiliation>
+						<affiliation>Visiting Astronomer, Kitt peak National Observatory and Cerro Tololo Inter-American Ibservatory, operated by the Association of Universities for Research in Astoronomy, under contract with the National Science Foundation.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-01-16</date>
+					<date type="A">1981-05-25</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Anomalous Giants in Magellanic Cloud Clusters</title>
+				<feature></feature>
+				<page>0161-0164</page>
+				<abstract />
+				<keywords>anomalous giants;blue globular clusters;Magellanic Clouds</keywords>
+				<authors>
+					<author>
+						<name first="P. W." last="Hodge">P. W. Hodge</name>
+						<affiliation>Astronomy Department, University of Washington, Seattle, Washington 98195, USA</affiliation>
+						<affiliation>Visiting Astronomer, Cerro Tololo Inter-American Observatory, which is supported by the National Science Foundation under contract No. AST 78-27879.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-02-12</date>
+					<date type="A">1981-03-01</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>How High Can A Mountain Be ?</title>
+				<feature></feature>
+				<page>0165-0169</page>
+				<abstract />
+				<keywords>mountains;planets;neutron stars</keywords>
+				<authors>
+					<author>
+						<name first="P. A. G." last="Scheuer">P. A. G. Scheuer</name>
+						<affiliation>Cavendish Laboratory, Cambridge, CB3 OHE, UK</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-03-09</date>
+					<date type="A">1981-06-03</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Current Rate of Nucleosynthesis and its Implications</title>
+				<feature></feature>
+				<page>0171-0185</page>
+				<abstract />
+				<keywords>massive stars;nucleosynthesis;stellar birthrate</keywords>
+				<authors>
+					<author>
+						<name first="D. C. V." last="Mallik">D. C. V. Mallik</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-03-13</date>
+					<date type="A">1981-05-25</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Intersteller Masers: The Influence of the Geometrical Shape on the Radiation Properties</title>
+				<feature></feature>
+				<page>0187-0199</page>
+				<abstract />
+				<keywords>cosmic masers;radiative transfer;influence of geometry</keywords>
+				<authors>
+					<author>
+						<name first="Erich" last="Bettwieser">Erich Bettwieser</name>
+						<affiliation>Universitats-Sternwarte, Geismarlandstr. 11, D-3400 Göttingen,W. Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-04</date>
+					<date type="A">1981-05-28</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Long Term Variations in Solar Flare Activity</title>
+				<feature></feature>
+				<page>0201-0212</page>
+				<abstract />
+				<keywords>solar flares;solar activity;long term variations</keywords>
+				<authors>
+					<author>
+						<name first="J. Ν." last="Goswam">J. Ν. Goswam</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Jha">R. Jha</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Lal">D. Lal</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-04</date>
+					<date type="A">1981-06-08</date>
+				</dates>
+			</entry>			
+			<entry hassup="0">
+				<title>Corrigenda</title>
+				<feature></feature>
+				<page>0213-0213</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+		<issue inum="03" month="" year="1981" info="">
+			<entry hassup="0">
+				<title>Mass Segregation in Globular Clusters</title>
+				<feature></feature>
+				<page>0215-0244</page>
+				<abstract />
+				<keywords>globular clusters;𝜔 Centauri;photoelectric photometry of globular clusters;equidensitometry;horizontal branch stars</keywords>
+				<authors>
+					<author>
+						<name first="Κ. Κ." last="Scaria">Κ. Κ. Scaria</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Μ. Κ. V." last="Bappu">Μ. Κ. V. Bappu</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1980-12-03</date>
+					<date type="A">1981-08-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of Redistribution with Dipole Scattering on Line Source Functions</title>
+				<feature></feature>
+				<page>0245-0252</page>
+				<abstract />
+				<keywords>partial frequency redistribution;dipole scattering;statistical equilibrium equation;line transfer equation in the comoving frame.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. E." last="Rangarajan">K. E. Rangarajan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-03-20</date>
+					<date type="A">1981-08-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intrinsic Properties of Carbon Stars. II. Spectra, Colours, and HR Diagram of Cool Carbon Stars</title>
+				<feature></feature>
+				<page>0253-0276</page>
+				<abstract />
+				<keywords>carbon stars;HR diagram;stellar evolution;molecular spectra;photometric indices</keywords>
+				<authors>
+					<author>
+						<name first="Takashi" last="Tsuji">Takashi Tsuji</name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-03</date>
+					<date type="A">1981-08-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optical Depth Effects on the Formation of Spectral Lines in Rotating and Expanding Spherical Atmospheres</title>
+				<feature></feature>
+				<page>0277-0284</page>
+				<abstract />
+				<keywords>spectral lines;rotating and expanding shells</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Raghunath">G. Raghunath</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. N." last="Nagendra">K. N. Nagendra</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-15</date>
+					<date type="A">1981-08-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the MgH Oscillator Strengths</title>
+				<feature></feature>
+				<page>0285-0288</page>
+				<abstract />
+				<keywords>oscillator strengths;photospheric spectrum;MgH molecules</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Sinha">K. Sinha</name>
+						<affiliation>Uttar Pradesh State Observatory, Manora Peak, Naini Tel 263129</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-27</date>
+					<date type="A">1981-07-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Doppler Theory of Quasars</title>
+				<feature></feature>
+				<page>0289-0307</page>
+				<abstract />
+				<keywords>quasar alignments;non cosmological redshifts of quasars</keywords>
+				<authors>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay ,400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. G." last="Edmunds">M. G. Edmunds</name>
+						<affiliation>Department of Applied Mathematics and Astronomy, University College, Cardiff, UK</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-28</date>
+					<date type="A">1981-07-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Spectroscopic Orbit for HD 115968</title>
+				<feature></feature>
+				<page>0309-0313</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 0HA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-06-09</date>
+					<date type="A">1981-07-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A New Look at Pulsar Statistics—Birthrate and Evidence for Injection</title>
+				<feature></feature>
+				<page>0315-0337</page>
+				<abstract />
+				<keywords>pulsar statistics;birthrate;injection</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Vivekanand">M. Vivekanand</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Narayan">R. Narayan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-07-03</date>
+					<date type="A">1981-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Structure of the Cygnus Loop at 34.5 MHz</title>
+				<feature></feature>
+				<page>0339-0347</page>
+				<abstract />
+				<keywords>supernova remnants, individual;radio continuum</keywords>
+				<authors>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ. S." last="Dwarakanath">Κ. S. Dwarakanath</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. Κ." last="Shevgaonkar">R. Κ. Shevgaonkar</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-07-07</date>
+					<date type="A">1981-08-27</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="" year="1981" info="">
+			<entry hassup="0">
+				<title>Changes in Sizes and Shapes of Spherical Galaxies in Head-on Collisions</title>
+				<feature></feature>
+				<page>0349-0363</page>
+				<abstract />
+				<keywords>stellar dynamics;galaxy collisions;tidal interaction</keywords>
+				<authors>
+					<author>
+						<name first="Farooq" last="Ahmed">Farooq Ahmed</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 and Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<affiliation>Present address: Department of Physics, Kashmir University, Srinagar 190006</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Saleh Mohammed" last="Alladin">Saleh Mohammed Alladin</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-03-09</date>
+					<date type="A">1981-10-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Two Components in the Distribution of Sunspot Groups with Respect to their Maximum Areas</title>
+				<feature></feature>
+				<page>0365-0377</page>
+				<abstract />
+				<keywords>sunspots, distribution of areas;solar activity;solar cycle;solar magnetic field</keywords>
+				<authors>
+					<author>
+						<name first="Μ. Η." last="Gokhale">Μ. Η. Gokhale</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ. R." last="Sivaraman">Κ. R. Sivaraman</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-07</date>
+					<date type="A">1981-11-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Plasma Heating in a Sheared Magnetic Field</title>
+				<feature></feature>
+				<page>0379-0385</page>
+				<abstract />
+				<keywords>Alfven waves;plasma heating;solar corona</keywords>
+				<authors>
+					<author>
+						<name first="V." last="Krishan">V. Krishan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-04-13</date>
+					<date type="A">1981-09-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Rotation and Luminosity Variations in Post-Main Sequence Stars</title>
+				<feature></feature>
+				<page>0387-0403</page>
+				<abstract />
+				<keywords>rotating stars;post-main sequence evolution;neutrino emission;gravitational radiation</keywords>
+				<authors>
+					<author>
+						<name first="Paul J." last="Wiita">Paul J. Wiita</name>
+						<affiliation>Theoretical Astrophysics Group, Tata Institute of Fundamental Research, Bombay 400005</affiliation>
+						<affiliation>Permanent address: Department of Astronomy and Astrophysics, University of Pennsylvania, Philadelphia 19104, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-06-26</date>
+					<date type="A">1981-09-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Equilibrium Configuration of the Magnetosphere of a Star Loaded with Accreted Magnetized Mass</title>
+				<feature></feature>
+				<page>0405-0419</page>
+				<abstract />
+				<keywords>stellar magnetospheres;accretion of magnetized mass;X-ray binaries</keywords>
+				<authors>
+					<author>
+						<name first="Yutaka" last="Uchida">Yutaka Uchida</name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<affiliation>Present address: High Altitude Observatory, Boulder, Colorado 80307, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-06-29</date>
+					<date type="A">1981-10-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structure and Stability of Rotating Fluid Disks Around Massive Objects. I. Newtonian Formulation</title>
+				<feature></feature>
+				<page>0421-0437</page>
+				<abstract />
+				<keywords>Fluid disks;stability</keywords>
+				<authors>
+					<author>
+						<name first="D. K." last="Chakraborty">D. K. Chakraborty</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. R." last="Prasanna">A. R. Prasanna</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-06-29</date>
+					<date type="A">1981-09-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Corrigendum</title>
+				<feature></feature>
+				<page>0439-0439</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0441-0443</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0444-0447</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>		
+	</volume>
+	<volume vnum="003">
+		<issue inum="01" month="" year="1982" info="">
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 3: HD 105341</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-10-14</date>
+					<date type="A">1981-11-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Braided Rings of Saturn—its Topology</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<abstract />
+				<keywords>braided F rings;topology of braiding;plasma helicoids;self-consistent fields</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Pratap">R. Pratap</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-09-23</date>
+					<date type="A">1981-11-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On Franck-Condon Factors and Intensity Distributions in some Band Systems of I2, NS and PS Molecules</title>
+				<feature></feature>
+				<page>0013-0025</page>
+				<abstract />
+				<keywords>Franck-Condon factors;intensity variations in band systems</keywords>
+				<authors>
+					<author>
+						<name first="Κ." last="Raghuveer">Κ. Raghuveer</name>
+						<affiliation>spectroscopy Division, Bhabha Atomic Research Centre, Trombay, Bombay 400085</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ν. A." last="Narasimham">Ν. A. Narasimham</name>
+						<affiliation>spectroscopy Division, Bhabha Atomic Research Centre, Trombay, Bombay 400085</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-09-09</date>
+					<date type="A">1981-12-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spot Activity in the RS CVn Binary HR 1099</title>
+				<feature></feature>
+				<page>0027-0038</page>
+				<abstract />
+				<keywords>UBV photometry;RS CVn variables;spot activity</keywords>
+				<authors>
+					<author>
+						<name first="Μ. V." last="Mekkaden">Μ. V. Mekkaden</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Α. V." last="Raveendran">Α. V. Raveendran</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Mohin">S. Mohin</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-11-03</date>
+					<date type="A">1982-01-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Study of the H-AIpha Line in Late G and Κ Supergiants</title>
+				<feature></feature>
+				<page>0039-0061</page>
+				<abstract />
+				<keywords>late-type stars;chromospheres;mass loss</keywords>
+				<authors>
+					<author>
+						<name first="Sushma Vasu" last="Mallik">Sushma Vasu Mallik</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-09-24</date>
+					<date type="A">1982-02-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Kerr – Newman Metric in Cosmological Background</title>
+				<feature></feature>
+				<page>0063-0067</page>
+				<abstract />
+				<keywords>Kerr-Newman metric;cosmology;Einstein universe;Robertson-Walker universe</keywords>
+				<authors>
+					<author>
+						<name first="L. Κ." last="Patel">L. Κ. Patel</name>
+						<affiliation>Department of Mathematics, Gujarat University, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Hiren Β." last="Trivedi">Hiren Β. Trivedi</name>
+						<affiliation>Department of Mathematics, Gujarat University, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-11-21</date>
+					<date type="A">1982-02-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Doppler Shift Measurements on the Green Coronal Line—Evidence for Largescale Macroscopic Mass Motion</title>
+				<feature></feature>
+				<page>0069-0077</page>
+				<abstract />
+				<keywords>total solar eclipse;green coronal line;Doppler shifts</keywords>
+				<authors>
+					<author>
+						<name first="J. Ν." last="Desai">J. Ν. Desai</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Τ." last="Chandrasekhar">Τ. Chandrasekhar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. D." last="Angreji">P. D. Angreji</name>
+						<affiliation>The Vedhshala, Ahmedabad 380013</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-08-24</date>
+					<date type="A">1982-02-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ultraviolet Observations of the Hydrogen-Deficient Variable Star MV Sagittarii</title>
+				<feature></feature>
+				<page>0079-0092</page>
+				<abstract />
+				<keywords>variable stars;ultraviolet spectra;circumstellar dust</keywords>
+				<authors>
+					<author>
+						<name first="Ν. Kameswara" last="Rao">Ν. Kameswara Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K." last="Nandy">K. Nandy</name>
+						<affiliation>Royal Observatory, Edinburgh, UK</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-10-13</date>
+					<date type="A">1982-03-02</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="" year="1982" info="">
+			<entry hassup="0">
+				<title>Analysis of the U B V Light Curves of TT Hydrae by Kopal’s Frequency Domain Method</title>
+				<feature></feature>
+				<page>0093-0099</page>
+				<abstract />
+				<keywords>close binaries;absolute dimensions</keywords>
+				<authors>
+					<author>
+						<name first="Jawahar" last="Koul">Jawahar Koul</name>
+						<affiliation>centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. D." last="Abhyankar">K. D. Abhyankar</name>
+						<affiliation>centre of Advanced study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-02-12</date>
+					<date type="A">1982-03-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 4: HD120803</title>
+				<feature></feature>
+				<page>0101-0105</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-01-25</date>
+					<date type="A">1982-02-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 5: HD 117064</title>
+				<feature></feature>
+				<page>0107-0109</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-21</date>
+					<date type="A">1982-05-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Jeans Problem for a Thin Galaxy in Steady State</title>
+				<feature></feature>
+				<page>0111-0123</page>
+				<abstract />
+				<keywords>Jeans problem;disk galaxies;local mass density</keywords>
+				<authors>
+					<author>
+						<name first="Robert" last="Whitley">Robert Whitley</name>
+						<affiliation>University of California, Irvine, California 92717, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-11-25</date>
+					<date type="A">1982-03-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Global Stability of Disk-Bulge Systems: Spiral Structure of Disk Galaxies</title>
+				<feature></feature>
+				<page>0125-0144</page>
+				<abstract />
+				<keywords>global density waves;spiral galaxies;disk-bulge systems</keywords>
+				<authors>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ram K." last="Varma">Ram K. Varma</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-01-21</date>
+					<date type="A">1982-03-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectrophotometric Observations of a Peculiar Nitrogen Rich Planetary Nebula NGC 2440</title>
+				<feature></feature>
+				<page>0145-0150</page>
+				<abstract />
+				<keywords>planetary nebulae;line intensities</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Louise">R. Louise</name>
+						<affiliation>Observatoire de Marseille, 2 Place Le Verrier, 13248 Marseille Cedex 4, France</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-02-22</date>
+					<date type="A">1982-03-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Time Structure of Solar Decametre Type III Radio Bursts</title>
+				<feature></feature>
+				<page>0151-0159</page>
+				<abstract />
+				<keywords>Sun;Type III bursts;time profiles</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Thejappa">G. Thejappa</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034and Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-12-30</date>
+					<date type="A">1982-03-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Compact Radio Cores and the Relation between the Radio and Optical Axes of Elliptical Galaxies</title>
+				<feature></feature>
+				<page>0161-0171</page>
+				<abstract />
+				<keywords>radio galaxies;elliptical galaxies;extended radio sources</keywords>
+				<authors>
+					<author>
+						<name first="V. K." last="Kapahi">V. K. Kapahi</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Ρ Ο Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. J." last="Saikia">D. J. Saikia</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Ρ Ο Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-09</date>
+					<date type="A">1982-05-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>VLA Observations of Hot Spots in High Luminosity Radio Sources</title>
+				<feature></feature>
+				<page>0173-0187</page>
+				<abstract />
+				<keywords>hot spots;radio galaxies;quasars</keywords>
+				<authors>
+					<author>
+						<name first="R. T." last="Schillzzi">R. T. Schillzzi</name>
+						<affiliation>Netherlands Foundation for Radio Astronomy, Dwingeloo, The Netherlands</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. K." last="Kapahi">V. K. Kapahi</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Ρ Ο Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. Gr." last="Neff">S. Gr. Neff</name>
+						<affiliation>Astronomy Program, University of Virginia,Charlottesville, Virginia, USA and National Radio Astronomy Observatory, Charlottesville, Virginia, USA</affiliation>
+						<affiliation>Present address: Netherlands Foundation for Radio Astronomy, Dwingeloo, The Netherlands</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-16</date>
+					<date type="A">1982-05-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Identification of CTA 21</title>
+				<feature></feature>
+				<page>0189-0192</page>
+				<abstract />
+				<keywords>radio sources;infrared sources</keywords>
+				<authors>
+					<author>
+						<name first="David A." last="Allen">David A. Allen</name>
+						<affiliation>Anglo-Australian Observatory, PO Box 296, Epping NSW 2121, Australia</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Alan E." last="Wright">Alan E. Wright</name>
+						<affiliation>CSIRO Division of Radiophysics, PO Box 76, Epping NSW 2121, Australia</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Jon G." last="Ables">Jon G.Ables</name>
+						<affiliation>CSIRO Division of Radiophysics, PO Box 76, Epping NSW 2121, Australia</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-21</date>
+					<date type="A">1982-05-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structure and Stability of Rotating Fluid Disks around Massive Objects. II. General Relativistic Formulation</title>
+				<feature></feature>
+				<page>0193-0206</page>
+				<abstract />
+				<keywords>fluid disks;general relativity;stability</keywords>
+				<authors>
+					<author>
+						<name first="D. K." last="Chakraborty">D. K. Chakraborty</name>
+						<affiliation>physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<affiliation>Permanent Address: Government College, Jagdalpur 494001 </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. R." last="Prasanna">A. R. Prasanna</name>
+						<affiliation>physical Research Laboratory, Navrangpura, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-01-04</date>
+					<date type="A">1982-05-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Observations of the Supernova Remnants HB 9 and 1C 443 at 34·5MHz</title>
+				<feature></feature>
+				<page>0207-0216</page>
+				<abstract />
+				<keywords>supernova remnants;spectral break;free-free absorption</keywords>
+				<authors>
+					<author>
+						<name first="Κ. S." last="Dwarakanath">Κ. S. Dwarakanath</name>
+						<affiliation>Raman Research Institute, Bangalore 560080 and Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. Κ." last="Shevgaonkar">R. Κ. Shevgaonkar</name>
+						<affiliation>Raman Research Institute, Bangalore 560080 and Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Raman Research Institute, Bangalore 560080 and Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-02-01</date>
+					<date type="A">1982-06-30</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="" year="1982" info="">			
+			<entry hassup="0">
+				<title>M.K. Vainu Bappu (1927–1982)</title>
+				<feature></feature>
+				<page>0217-0218</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="V." last="Radhakrishnan">V. Radhakrishnan</name>
+						<affiliation>for the Editorial Board</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Eclipsing Binary V 836 Cygni: Photometric Evidence for an Early Evolutionary Status</title>
+				<feature></feature>
+				<page>0219-0231</page>
+				<abstract />
+				<keywords>eclipsing binaries;period variations;mass exchange</keywords>
+				<authors>
+					<author>
+						<name first="R. A." last="Breinhorst">R. A. Breinhorst</name>
+						<affiliation></affiliation>
+						<affiliation>Visiting astronomer, Kitt Peak National Observatory, operated by the Association of Universities for Research in Astronomy, Inc., under contract with the National Science Foundation</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="H. W." last="Duerbeck">H. W. Duerbeck</name>
+						<affiliation>Observatorium Hoher List der Universitäts-Sternwarte Bonn, 5568 Daun, F R Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-24</date>
+					<date type="A">1982-05-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Spectroscopic Orbit of the Short Period Eclipsing Binary V 836 Cygni</title>
+				<feature></feature>
+				<page>0233-0235</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="H. W." last="Duerbeck">H. W. Duerbeck</name>
+						<affiliation>Observatorium Hoher List der Universitäts-Sternwarte Bonn, 5568 Daun, F. R. Germany</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. D." last="Schumann">J. D. Schumann</name>
+						<affiliation>Observatorium Hoher List der Universitäts-Sternwarte Bonn, 5568 Daun, F. R. Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-05-19</date>
+					<date type="A">1982-06-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On Selection Effects in Pulsar Searches</title>
+				<feature></feature>
+				<page>0237-0247</page>
+				<abstract />
+				<keywords>pulsar searches;selection effects</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Vivekanand">M. Vivekanand</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Narayan">R. Narayan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V." last="Radhakrishnan">V. Radhakrishnan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-02-25</date>
+					<date type="A">1982-05-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Eclipse Observations of Coronal Emission Lines. I. [Fex] 6374Å Profiles at the Eclipse of 16 February 1980</title>
+				<feature></feature>
+				<page>0249-0266</page>
+				<abstract />
+				<keywords>Solar corona;red coronal line;turbulent velocities;rotation of solar corona</keywords>
+				<authors>
+					<author>
+						<name first="Jagdev" last="Singh">Jagdev Singh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. K. V." last="Bappu">M. K. V. Bappu</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Deceased on 1982 August 19</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. K." last="Saxena">A. K. Saxena</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-05-19</date>
+					<date type="A">1982-06-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>HD 147010: The Ap Star in the Reflection Nebula vdB 102 in Upper Scorpius Region</title>
+				<feature></feature>
+				<page>0267-0276</page>
+				<abstract />
+				<keywords>peculiar stars;spectrum variables</keywords>
+				<authors>
+					<author>
+						<name first="Ν. Kameswara" last="Rao">Ν. Kameswara Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Rajamohan">R. Rajamohan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-17</date>
+					<date type="A">1982-07-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chromospheric Activity of Late-type Giants and Supergiants: Reappearance of Dynamo Activity in the Interior due to the Spin-up of the Core in Evolution</title>
+				<feature></feature>
+				<page>0277-0296</page>
+				<abstract />
+				<keywords>stellar evolution;chromospheric activity;dynamo activity;red giants</keywords>
+				<authors>
+					<author>
+						<name first="Yutaka" last="Uchida">Yutaka Uchida</name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. K. V." last="Bappu">M. K. V. Bappu</name>
+						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-24</date>
+					<date type="A">1982-07-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Balmer Progression in the Expanding Shell of Pleione</title>
+				<feature></feature>
+				<page>0297-0302</page>
+				<abstract />
+				<keywords>Balmer progression;velocity gradients;shell stars</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-11</date>
+					<date type="A">1982-07-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intensity and Polarization Line Profiles in a Semi-Infinite Rayleigh-Scattering Planetary Atmosphere. I. Integrated Flux</title>
+				<feature></feature>
+				<page>0303-0324</page>
+				<abstract />
+				<keywords>Rayleigh scattering—line profiles—atmosphere of Venus</keywords>
+				<authors>
+					<author>
+						<name first="R. Κ." last="Bhatia">R. Κ. Bhatia</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. D." last="Abhyankar">K. D. Abhyankar</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-13</date>
+					<date type="A">1982-07-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Exact Relativistic Model for a Superdense Star</title>
+				<feature></feature>
+				<page>0325-0334</page>
+				<abstract />
+				<keywords>neutron stars;general relativity</keywords>
+				<authors>
+					<author>
+						<name first="Ρ. C." last="Vaidya">Ρ. C. Vaidya</name>
+						<affiliation>Department of Mathematics, Gujarat University, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ramesh" last="Tikekar">Ramesh Tikekar</name>
+						<affiliation>Department of Mathematics, Sardar Patel University, Vallabh Vidyanagar 388120</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-05-26</date>
+					<date type="A">1982-07-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Further Observations of Radio Sources from the BG Survey. II. Mainly Extragalactic</title>
+				<feature></feature>
+				<page>0335-0350</page>
+				<abstract />
+				<keywords>extragalactic radio sources;pulsar-radio source association</keywords>
+				<authors>
+					<author>
+						<name first="F." last="Mantovani">F. Mantovani</name>
+						<affiliation>Istituto di Radioastronomia del C. Ν. R., Istituto di Fisica ‘A. Righi’, via Irnerio 46, 40126 Bologna, Italy</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="Nanni">M. Nanni</name>
+						<affiliation>Istituto di Radioastronomia del C. Ν. R., Istituto di Fisica ‘A. Righi’, via Irnerio 46, 40126 Bologna, Italy</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C. J." last="Salter">C. J. Salter</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Indian Institute of Science Campus, PO Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Tomasi">P. Tomasi</name>
+						<affiliation>Istituto di Radioastronomia del C.N.R., Istituto di Fisica ‘A. Right’, via Irnerio 46, 40126 Bologna, Italy</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-27</date>
+					<date type="A">1982-07-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A New Look at the Birthrate of Supernova Remnan</title>
+				<feature></feature>
+				<page>0351-0361</page>
+				<abstract />
+				<keywords>supernova remnants, birthrates</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ. S." last="Dwarakanath">Κ. S. Dwarakanath</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1981-08-12</date>
+					<date type="A">1982-07-29</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="" year="1982" info="">
+			<entry hassup="0">
+				<title>Posterior Probability of the Deceleration Parameter q0 from Quasars provided with a Luminosity Indicator</title>
+				<feature></feature>
+				<page>0363-0378</page>
+				<abstract />
+				<keywords>deceleration parameter;quasi-stellar objects (QSOs);luminosity indicators;Baldwin's relation</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Kiang">T. Kiang</name>
+						<affiliation>Dunsink Observatory, Castleknock, County Dublin, Ireland</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="F. -h." last="Cheng">F. -h. Cheng</name>
+						<affiliation>Dunsink Observatory, Castleknock, County Dublin, Ireland</affiliation>
+						<affiliation>Permanent Address: Astrophysics Research Division, University of Science and Technology of China, Hefei, Anhui Province, China</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-06-04</date>
+					<date type="A">1982-07-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Morphology of H-Alpha Filaments and Filament Channel Systems</title>
+				<feature></feature>
+				<page>0379-0382</page>
+				<abstract />
+				<keywords>Sun;magnetic fields;filaments;filament channel</keywords>
+				<authors>
+					<author>
+						<name first="V. I." last="Makarov">V. I. Makarov</name>
+						<affiliation>The Kislovodsk Station of the Pulkovo Observatory, 357741 Kislovodsk, USSR</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. N." last="Stoyanova">M. N. Stoyanova</name>
+						<affiliation>The Kislovodsk Station of the Pulkovo Observatory, 357741 Kislovodsk, USSR</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. R." last="Sivaraman">K. R. Sivaraman</name>
+						<affiliation>Indian Insitute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-03-08</date>
+					<date type="A">1982-08-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 6: BD 33° 2206</title>
+				<feature></feature>
+				<page>0383-0392</page>
+				<abstract />
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-07-27</date>
+					<date type="A">1982-08-18</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On a Nonlinear and Lorentz-Invariant Verson of Newtonian Gravitation</title>
+				<feature></feature>
+				<page>0393-0398</page>
+				<abstract />
+				<keywords>Newtonian gravitation;Lorentz-invariant generalization</keywords>
+				<authors>
+					<author>
+						<name first="J. J." last="Rawal">J. J. Rawal</name>
+						<affiliation>Nehru Planetarium, Nehru Centre, Dr. Annie Besant Road, Bombay 400018</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-08-02</date>
+					<date type="A">1982-08-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Interstellar Electron Density</title>
+				<feature></feature>
+				<page>0399-0412</page>
+				<abstract />
+				<keywords>pulsars, dispersion measure;interstellar electron density;Η II regions</keywords>
+				<authors>
+					<author>
+						<name first="Μ." last="Vivekanand">Μ. Vivekanand</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Narayan">R. Narayan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-06-21</date>
+					<date type="A">1982-09-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Role of Proton Cyclotron Emission near Acereting Magnetic Neutron Stars</title>
+				<feature></feature>
+				<page>0413-0418</page>
+				<abstract />
+				<keywords>neutron stars;X-ray bursts;y-ray bursts</keywords>
+				<authors>
+					<author>
+						<name first="K. M. V." last="Apparao">K. M. V. Apparao</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. M." last="Chitre">S. M. Chitre</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Μ. J." last="Rees">Μ. J. Rees</name>
+						<affiliation>Institute of Astronomy, Cambridge, England</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-08-13</date>
+					<date type="A">1982-09-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Maximum Entropy Image Recpmstruction-A Practical Non-Information-Theoretic Approach</title>
+				<feature></feature>
+				<page>0419-0450</page>
+				<abstract />
+				<keywords>image reconstruction;maximum entropy method</keywords>
+				<authors>
+					<author>
+						<name first="Rajaram" last="Nityananda">Rajaram Nityananda</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ramesh" last="Narayan">Ramesh Narayan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-28</date>
+					<date type="A">1982-09-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Near Infrared Observations of some of the IRC Sources</title>
+				<feature></feature>
+				<page>0451-0463</page>
+				<abstract />
+				<keywords>IRCCIT sources-broadband infrared photomety-infrared excess</keywords>
+				<authors>
+					<author>
+						<name first="K. V. K." last="Iyengar">K. V. K. Iyengar</name>
+						<affiliation>Tata Institute of Fundamental Research, HomiBhabha Road, Bombay 400005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="F.</name>" last="Strafella">F. Strafella</name>
+						<affiliation>Istituto di Fisica, Universita, I-73100, Lecce, Italy</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Lorenzetti">D. Lorenzetti</name>
+						<affiliation>Istituto Plasma Spazio, CNR, 00044, Frascati, Italy</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C. B." last="Cosmovici">C. B. Cosmovici</name>
+						<affiliation>Space Research Group (AWF), DFVLR D-8031, Wessling, F.R. Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-12</date>
+					<date type="A">1982-09-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Relativistic Beaming in the Central Components of Double Radio Quasars</title>
+				<feature></feature>
+				<page>0465-0483</page>
+				<abstract />
+				<keywords>quasars;relativistic beaming;active galactic nuclei;extragalactic radio sources</keywords>
+				<authors>
+					<author>
+						<name first="V. K." last="Kapahi">V. K. Kapahi</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, PO Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. J." last="Saikia">D. J. Saikia</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, PO Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-07-22</date>
+					<date type="A">1982-10-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reflection Effect in Close Binaries. I. Distribution of Radiation from a Point Source</title>
+				<feature></feature>
+				<page>0485-0497</page>
+				<abstract />
+				<keywords>radiative transfer;rod model;close binaries</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-06-04</date>
+					<date type="A">1982-10-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0499-0503</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0505-0510</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="004">
+		<issue inum="01" month="" year="1995" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>	
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	<volume vnum="005">
 		<issue inum="01" month="" year="1984" info="">
 			<entry hassup="0">
@@ -13020,9 +15458,7 @@
 				<title>Subject Index</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0469-0475</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
