@@ -65,7 +65,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<abstract>
-					<p></p>
+					<p>We use the recently introduced concept of a ‘window’ of magnetic field strengths in which pulsars can be active to explain the variation in morphology of supernova remnants. The striking difference between shell-type and filled-type remnants is attributed to differences in he magnetic field strengths of the neutron stars left by the respective Supernovae. Field strengths of a value permitting pulsar activity result in particle production and Crab-like centrally concentrated remnants. Other field values lead to strong magnetic dipole radiation and conesquent shell formation (<i>e.g.</i> Cas A). Several apparent inconsistencies concerning pulsar-supernova associations appear to find a logical explanation on the basis of this hypothesis.</p>
 				</abstract>
 				<keywords>pulsars;supernova remnants;magnetic window</keywords>
 				<authors>
@@ -89,9 +89,7 @@
 				<title>The Role of General Relativity in Astronomy: Retrospect and Prospect</title>
 				<feature></feature>
 				<page>0033-0045</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -107,7 +105,7 @@
 				<feature></feature>
 				<page>0047-0066</page>
 				<abstract>
-					<p></p>
+					<p>A 21 cm absorption measurement over a long path length  free of the effects of differential galactic rotation indicates the existence of two distinct cloud populations in the plane. One of them consisting of cold, dense clouds has been well studied before. The newly found hot clouds appear to be at least five times more numerous. They have a spin temperature of ~ 300 K, an rms velocity of ~ 35 km s<sup>-1</sup>, twice the total mass, and hundred times the kinetic energy of the cold clouds. Over long path lengths, the hot clouds have 𝑁<sub>𝐻</sub>/kpc ~ 2 × 10<sup>21</sup> cm<sup>-2</sup>kpc<sup>-1</sup>, and are estimated to have individual column densities ≤ 10<sup>20</sup> cm<sup>-2</sup>.We propose that they are shocked clouds found only within supernova bubbles and that the cold clouds are found in the regions in-between old remnants, immersed in an intercloud medium. We conclude that the solar neighbourhood must be located between old supernova remnants rather than within one.</p>
 				</abstract>
 				<keywords>21 cm absorption;shocked clouds;spin temperature;high velocities</keywords>
 				<authors>
@@ -132,7 +130,7 @@
 				<feature></feature>
 				<page>0067-0070</page>
 				<abstract>
-					<p></p>
+					<p>A massive binary, in which the primary becomes a supernova, should leave a luminous secondary near the centre of its remnant. Contrary to expectation no statistically significant excess of OB stars is, however, found near the centres of optically visible galactic supernova remnants.</p>
 				</abstract>
 				<keywords>Supernovae;supernova remnants;binaries</keywords>
 				<authors>
@@ -152,7 +150,7 @@
 				<feature></feature>
 				<page>0071-0078</page>
 				<abstract>
-					<p></p>
+					<p>Infrared observations obtained six years apart of the R CrB type star XX Cam do not show any infrared excess, unlike all the other members of the class. The observed colours match a 7000 Κ black body energy distribution quite well. From the year 1898 till todate, apparently XX Cam has undergone only one visual light minimum in 1940. The lack of infrared excess, the abundance peculiarities and further lack of small amplitude light variations with periods of few tens of days, which are characteristic of R CrB type stars, are discussed in terms of theoretical pulsation models of helium stars. </p>
 				</abstract>
 				<keywords>R CrB star;infrared excess</keywords>
 				<authors>
@@ -182,7 +180,7 @@
 				<feature></feature>
 				<page>0079-0095</page>
 				<abstract>
-					<p></p>
+					<p>The Lin-Shu dispersion relation is applicable in the (asymptotic) case of tight spirals (large weve number 𝑘<sub>𝑅</sub>). Here we reconsider the various steps leading to the Lin-Shu dispersion relation in higher approximation under the 	assumption that the wave number 𝑘<sub>𝑅</sub> is not large [(𝑘<sub>𝑅</sub>𝑟)=𝑂(1)], and derive a new dispersion relation. This is valid for open spiral waves and bars. We prove that this dispersion relation is the appropriate limit of the nonlinear self-consistency condition in the case where the linear theory is applicable.</p>
 				</abstract>
 				<keywords>galaxies;density waves;dispersion relation</keywords>
 				<authors>
@@ -204,7 +202,7 @@
 				<feature></feature>
 				<page>0097-0100</page>
 				<abstract>
-					<p></p>
+					<p>The conditions for eht source functions of a multiplet to be equal are studied for plasmas with and without magnetic fields. It is found that source function equality holds-in addition to the case of collisional predominance-only when the redistribution functions are all identical and no interlocking with other lines occurs. When magnetic fields are present, the assumption of source function equality leads to a violation of the invariance conditions of the scattering matrix and should therefore not be made.</p>
 				</abstract>
 				<keywords>radiative transfer;non-LTE;Zeeman effect;polarization</keywords>
 				<authors>
@@ -229,7 +227,7 @@
 				<feature></feature>
 				<page>0101-0111</page>
 				<abstract>
-					<p></p>
+					<p>A direct iteration has been performed to obtain a simultaneous solution of the equations of line transfer in an expanding spherically symmetric atmosphere in the comoving frame with statistical equilibrium for a non-LTE, two-level atom. The solution converges in three or four iterations to an accuracy of 1 per cent of the ratio of the population densities of the two levels. As initial values, the upper level population was set equal to zero or to the LTE densities. The final solution on convergence indicates enhanced population of these levels over the initial values assumed, Large velocity gradients enhance this effect whereas large geometrical sizes of the atmospheres tend to reduce it.</p>
 				</abstract>
 				<keywords>statistical equilibrium equation;radiative transfer;co-moving frame;iterative solution;velocity gradients</keywords>
 				<authors>
@@ -249,7 +247,7 @@
 				<feature></feature>
 				<page>0113-0117</page>
 				<abstract>
-					<p></p>
+					<p>We have treated formation of spectral lines in a commoving frame where photoionization is predominant over collisional processes. We have assumed that the radiation field for causing photoionization is a function of Planck function. We have also considered the situation in which the continuum contributes to the radiation in the line. In all the models the quantity 𝐵/𝐴 (ratio of outer to inner radii) is kept equal to 10 and the total optical depth is taken to be 10<sup>3</sup>. The velocity is assumed to be varying according to the law 𝑑𝑉/𝑑𝜏 ~ — 1/𝜏 where 𝜏 is the optical depth (𝜏 > 0) in the given shell. The velocities at the inner most radius (𝑟 = 𝐴) are set equal to 0 and at the outermost radius (𝑟 = 𝐵), the maximum velocities are taken to be 0, 1, 3 and 10 Doppler units. The calculated line profiles are those seen by an observer at infinity. 𝑃 Cygni-type profiles are observed in the case of a medium with no continuum absorption. For a medium with continuum absorption double peaked asymmetric profiles are noticed when the velocities are small; the two emission peaks merge into a single asymmetric peak for larger velocities.</p>
 				</abstract>
 				<keywords>photoionization lines;comoving frame;radiative transfer equation</keywords>
 				<authors>
@@ -274,7 +272,9 @@
 				<feature></feature>
 				<page>0119-0128</page>
 				<abstract>
-					<p></p>
+					<p>We offer two possible explanations to account for the characteristics of integrated pulse proviles, in particular their degree of complexity, their variation from pulsar to pulsar, their stability, and the tendency of complex profiles to be associated with older pulsars.</p>
+					<p>It is proposed that the pulse structure could be a reflection of surface irregularities at the polar caps, and it is shown how the surface relief can affect the number of positrons released into the magnetosphere which are subsequently responsible for the observed radio radiation. The electrons produced in the vacuum break-down in the gap carry enough energy to allow creating such a surface relief in ~ 10<sup>6</sup> years, and one way in which this could be achieved is discussed.</p>
+					<p>Alternatively, the presence of multipole components in the magnetic fields of older pulsars could lead to significant variations in the curvature of the field lines across the gap, and hence to structure in the integrated pulse profiles. An assessment of the two hypotheses from observed pulse profiles seems to favour the polar cap relief picture.</p>
 				</abstract>
 				<keywords>pulsars;integrated pulse profiles;polar cap model</keywords>
 				<authors>
@@ -299,7 +299,15 @@
 				<feature></feature>
 				<page>0129-0154</page>
 				<abstract>
-					<p></p>
+					<p>A classification scheme is proposed for the central regions of Sérsic-Pastoriza galaxies based on high resolution photographs of 50 objects in the integrated light (4000 Å–8700 Å). Structures of two different linear scales are recognized: (1) nucleus( $\lesssim$ 1 kpc) and (2) perinuclear formation (∼1·5 kpc).  The perinuclear formation is weak in class 𝐾 while the nucleus is too faint to detect in class 𝑙. In the intermediate classes 𝜖 and 𝜎 both the components are bright. Class 𝜖  has an elliptical perinuclear formation with little gas while the class 𝜎 consists of bright Η II complexes and dust. Observations of a few galaxies in the infrared and the blue ends of the image tube response show that the nucleus is generally redder than its surroundings. Equal intensity contours and the luminosity profiles are presented for the central regions of 27 galaxies. A comparison of their axial ratios with those of the parent galaxies indicates that the perinuclear formations are prolate or barlike. The dependence of the peak surface brightness of the central formation on the size of the bar is investigated as also the dependence of the central surface brightness of the bar on the size of the bar. The following major conclusions are drawn:</p>
+					<p>
+						<ol>
+							<li>The peak central surface brightness of the perinuclear formation varies as the square of the bar length. This relation implies that the bar induces the infall of gas from the bar-disk region.</li>
+							<li>The formations of class 𝜎 move towards class as star formation ceases and the massive stars die.</li>
+							<li>The class 𝑙 differs from class 𝜎  in the intensity of the burst of star formation. Low luminosity of the parent galaxies in class 𝑙  implies less infall of gas and higher domination of the bas potential on the perinuclear formation. Thus the class 𝑙 structures are more prolate than those of class 𝜎.</li>
+							<li>The central brightness of the bars varies directly as the length of the bar.</li>
+						</ol>
+					</p>
 				</abstract>
 				<keywords>galaxies;central regions;bursts of star formation;surface photometry</keywords>
 				<authors>
@@ -319,7 +327,8 @@
 				<feature></feature>
 				<page>0155-0164</page>
 				<abstract>
-					<p></p>
+					<p>We put forward evidence that relates the phenomenon of the chemically peculiar stars of the upper main sequence to Supernovae explosions in young clusters. In the Upper Scorpius region we find that a supernova shell has interacted with dense clouds and that the peculiar stars lie close to or along the edges of interaction.</p>
+					<p>We argue that the stars at or near the cloud faces are capable of acquiring this enriched material which is sufficiently slowed down. The magnetic accretion process of Havnes and Conti provides the mechanism of acquisition. This process with the associated magnetic braking accounts for the build-up in abundance anomalies and the slowing down of rotation with age.</p>
 				</abstract>
 				<keywords>Supernovae;clusters;peculiar stars</keywords>
 				<authors>
@@ -344,7 +353,7 @@
 				<feature></feature>
 				<page>0165-0175</page>
 				<abstract>
-					<p></p>
+					<p>The characteristics of the most unstable fundamental mode and the first harmonic excited in the convection zone of a variety of solar envelope models are shown to be in reasonable agreement with the observed features of granulation and supergranulation.</p>
 				</abstract>
 				<keywords>sun;granulation;supergranulation;convective instability</keywords>
 				<authors>
@@ -374,7 +383,7 @@
 				<feature></feature>
 				<page>0177-0187</page>
 				<abstract>
-					<p></p>
+					<p>The peculiar galaxy NGC 4650 A (𝛼 =12<sup>h</sup> 42<sup>m</sup>. 1; = 𝛿—40° 26'; 1950·0) has been studied by means of direct and spectral observations with the ESO 3·6-m telescope. It is interpreted as a prolate, elliptical galaxy surrounded by a warped ring of Η II regions, dust and stars. The distance is 47 Mpc (𝐻<sub>0</sub>=55 km s<sup>-1</sup> Mpc<sup>-1</sup>). The ring is seen nearly edge-on (inclination 85°) and it rotates. It has a diameter of about 21 kpc and is bluer than the elliptical galaxy for which the (𝑀/𝐿<sub>𝑉</sub>) ratio is ~12 in solar units. The observed configuration may be the result of interaction with the nearby galaxy, NGC 4650</p>
 				</abstract>
 				<keywords>elliptical galaxy;prolate galaxy;ring galaxy;Η II regions</keywords>
 				<authors>
@@ -399,7 +408,7 @@
 				<feature></feature>
 				<page>0189-0192</page>
 				<abstract>
-					<p></p>
+					<p>No supernova remnant has been found near the third youngest pulsar PSR 1930+22 down to a –limiting brightness temperature of 1·4 Κ at 610 MHz. This is 6–8 times less than expected of a typical remnant whose age is that of the pulsar (3·6 0× 10<sup>4</sup> years).</p>
 				</abstract>
 				<keywords>pulsar;supernova remnant</keywords>
 				<authors>
@@ -425,7 +434,7 @@
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0193-0196</page>
 				<abstract>
-					<p></p>
+					<p>A new millimeter-wave facility is in operation at the Bordeaux Observatory for spectroscopic observations of interstellar and stratospheric molecules. A cooled reveiver has been installed on a 2.5m radio telescope. The overall system temperature is in the range 400 to 600 Κ (single side band) in the operating frequency range 75 to 115 GHz. The relatively broad beam of the telescope ( ~ 5 arcmin) combined with a sensitive receiver will permit studies of extended molecular cloud complexes.</p>
 				</abstract>
 				<keywords>instruments;millimeter-wave astronomy</keywords>
 				<authors>
@@ -499,9 +508,7 @@
 				<title>Author Index</title>
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0197-0199</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -510,9 +517,7 @@
 				<title>Subject Index</title>
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0201-0202</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -526,7 +531,7 @@
 				<feature></feature>
 				<page>0001-0027</page>
 				<abstract>
-					<p></p>
+					<p>In this paper we give a detailed general relativistic formulation of the study of structure and stability of charged fluid disks around compact objects like black holes neglecting the self-gravitation of the disk itself. Having presented the general equations for equilibrium as well as for perturbations we solve explicitly the cases of rigidly and differentially rotating thin disks, with constant charge density and zero pressure, confined to the equatorial plane of the black hole. By using normal mode analysis we have analysed the stability of such disks under purely radial perturbations and find that the disks are generally stable.</p>
 				</abstract>
 				<keywords>general relativity;black holes;accretion disks;stability</keywords>
 				<authors>
@@ -551,7 +556,7 @@
 				<feature></feature>
 				<page>0029-0041</page>
 				<abstract>
-					<p></p>
+					<p>An analysis of the available photoelectric times of minima of KO Aql, TV Cas and Z Her, which are suspected to be in pre-main sequence phase of evolution, reveals that KO Aql shows a secular increase in its orbital period at the rate of 4.34 × 10<sup>-8</sup> day per cycle while the period of TV Cas has been decreasing at the rate of 4.08 × 10<sup>-9</sup> day per cycle. Z Her does not show any period change at all. The orbital period of any binary system which is in the pre-main sequence phase will be systematically affected because of `shrinking' dimensions of the components. A simple formula for the characteristic period change, defined by (𝑃/𝑃), is derived from a consideration of the conservation of total energy and total angular momentum for a binary system whose components are still in process of contraction or expansion. The derived formula is applied to the above systems to see whether throretical characteristic period changes agree with the observed values. The systems are assumed to evolve independently in the pre-main sequence phase in accordance with the model calculations of Iben (1965). It is found that there is no agreement between theoretical and observed characteristic period changes. This suggests that KO Aql and TV Cas may not be in the pre-main sequence phase. We do not have sufficient data for Ζ Her to judge its evolutionary status by the present procedure; this is also true of TT Hya. We suspect that the period changes observed in KO Aql and TV Cas may be due to light-time effect.</p>
 				</abstract>
 				<keywords>eclipsing binaries;period changes;pre-main sequence evolution</keywords>
 				<authors>
@@ -576,7 +581,7 @@
 				<feature></feature>
 				<page>0043-0058</page>
 				<abstract>
-					<p></p>
+					<p>A list has been compiled of 49 extragalactic sources, most of them identified with quasars, that appear to have a one-sided (D<sub>2</sub> type) radio structure characterized by a single outer component displaced from a compact central (nuclear) component coincident with the optical object. The observed properties of a subsample of 28 D<sub>2</sub> quasars that have an overall angular size larger than 5 arcsec are briefly discussed and compared with those of normal (D<sub>1</sub> type) double quasars. It is found that the central components in most D<sub>2</sub> sources account for more than half the total flux density at high frequencies in contrast to the D<sub>1</sub> quasars which generally have less than 20 per cent of their total flux density in a central component. This makes it very unlikely that D<sub>2</sub> sources are just those D<sub>1</sub>s in which there is a large intrinsic difference in the flux densities or separations of the two outer components. The observed properties of D<sub>2</sub> sources are easier to understand in the relativistic beaming interpretation in which their axes are inclined at smaller angles with the line of sight compared to D<sub>1</sub> sources.</p>
 				</abstract>
 				<keywords>quasars and radio galaxies;double radio sources;asymmetric structure;relativistic beaming</keywords>
 				<authors>
@@ -596,7 +601,7 @@
 				<feature></feature>
 				<page>0059-0065</page>
 				<abstract>
-					<p></p>
+					<p>Observations on the pulsation pattern in the time profile of short duration solar radio bursts at decametre wavelengths are presented. The pulsations are found to be present predominantly in the saturation phase of the burst. A tentative physical model based on the non-linear development of the waves interacting in a turbulent medium is invoked to explain the origin of the pulsations.</p>
 				</abstract>
 				<keywords>explosive instability;pulsating burst</keywords>
 				<authors>
@@ -626,7 +631,9 @@
 				<feature></feature>
 				<page>0067-0079</page>
 				<abstract>
-					<p></p>
+					<p>Multicolour and multiaperture photometry of 22 late-type Virgo cluster galaxies in a new 𝑉 (5500 Å), 𝑟 (6738 Å), 𝐼𝑉 (10500 Å) system confirm the previously known correlations between the luminosity and 𝐻<sub>I</sub> velocity width, and show them to be strongly wavelength dependent with the slope of the relation reaching a maximum value of ~ – 10 at 10500 Å and remaining constant at longer wavelengths. The scatter in the luminosity-H<sub>I</sub> width relation is nearly the same, wheather we use (𝑉)<sup>c</sup><sub>-0.5</sub>, (𝑟)<sup>c</sup><sub>-0.5</sub>, (𝐼𝑉)<sup>c</sup><sub>-0.5</sub>, or (𝐻)<sup>c</sup><sub>-0.5</sub> magnitudes. The error in the determination of the corrected magnitudes is much less than the scatter in the luminosity-H<sub>I</sub> width relations as evidenced by the fact that the residuals of individual galaxies in 𝑉, 𝑟, 𝐼𝑉 and 𝐻 are correlated with one another. An attempt to use a `kinematic magnitude' instead of an isophotal magnitude shows the slope of the luminosity-H<sub>I</sub> width relations to be reduced substantially.</p>
+					<p>Observations in the 𝑉, 𝑟 and 𝐼𝑉 system for fifteen field galaxies and three galaxies in the Cancer and Z<sub>W</sub> 74-23 clusters have been obtained and combined with the H<sub>I</sub> velocity width to derive their differences in distance modulus, between the galaxy and the Virgo cluster, through the luminosity-H<sub>I</sub> width relations of the Virgo cluster galaxies. The three independent differences in the distance modulus of each galaxy agree with one another indicating that the relations using 𝑉, 𝑟 and 𝐼𝑉  magnitudes have the same zero point in absolute magnitude, independent of the wavelength of observations. The distance modulus difference from the Virgo cluster to the three galaxies U 4334, U8942 and U 8944, which are outside the Local Supercluster, are +1.50, +3.45 and +2.81 mag respectively and are in agreement with those of +1.75, +3.23 and +2.46mag derived for the same galaxies by Aaronson <i>et. al.</i> (1980) through 𝐻 magnitudes.</p>
+					<p>The scatter in the velocity distance relation of the field galaxies compares well with the mean error derived in the luminosity-H<sub>I</sub> width relations and hence is intrinsic.</p>
 				</abstract>
 				<keywords>spiral galaxies;photometry;luminosity-ΗI velocity width relation</keywords>
 				<authors>
@@ -646,7 +653,8 @@
 				<feature></feature>
 				<page>0081-0086</page>
 				<abstract>
-					<p></p>
+					<p>A comparison of mean number of scatterings and escape probabilities has been made in isotropic scattering and dipole scattering by using the angle-averaged partial frequency redistribution function 𝑅<sub>𝐼</sub>. We have solved the equations of radiative transfer and statistical equilibrium simultaneously in a spherically symmetric expanding atmosphere. Two cases of atmospheric extension (<i>i.e.</i>) 𝐵/𝐴=3 and 10 (where 𝐵 and 𝐴 are the outer and inner radii of the atmosphere) have been treated.</p>
+					<p>We find that the partial frequency redistribution gives a larger mean number of scatterings compared to that given by complete redistribution. Velocities tend to reduce the mean number of scatterings and increase the mean escape probabilities.</p>
 				</abstract>
 				<keywords>mean number of scatterings;mean escape probability;partial redistribution function;isotropic scattering;dipole scattering</keywords>
 				<authors>
@@ -676,7 +684,7 @@
 				<feature></feature>
 				<page>0087-0093</page>
 				<abstract>
-					<p></p>
+					<p>We propose that single stars in the mass range 4–6·5𝑀<sub>⊙</sub>, that explode as Supernovae of Type I, are totally disrupted by the explosion and form shell-type remnants. More massive single stars which explode as Supernovae of Type II also give rise to shell-type remnants, but in this case a neutron star or a black hole is left behind. The first supernova explosion in a close binary also gives rise to a shell-type supernova remnant. The Crab-like filled-centre supernova remnants are formed by the second supernova explosion in a close binary. The hybrid supernova remnants, consisting of a filled centre surrounded by a shell, are formed if there is an active neutron star inside the shell.</p>
 				</abstract>
 				<keywords>pulsars;Supernovae;supernova remnants</keywords>
 				<authors>
@@ -696,7 +704,8 @@
 				<feature></feature>
 				<page>0095-0113</page>
 				<abstract>
-					<p></p>
+					<p>It is shown that the infrared flux method for determining stellar effective temperatures (Blackwell and Shallis 1977; Blackwell, Petford and Shallis 1980) can be applied to cool carbon stars. Although thespectra of cool carbon stars are highly line blanketed, the spectral region between 3 and 4 µm (L-band in the infrared photometry system) is found to be relatively free from strong line absorption. The ratio 𝑅<sub>𝐿</sub> of bolometric flux to 𝐿 flux can then be used as a measure of effective temperature. On the basis of the predicted line-blanketed flux based on model atmospheres, with an empirical correction for the effect of 3 𝜇m absorption due to polyatomic species (HCN, C<sub>2</sub> H<sub>2</sub>), it is shown that 𝑅<sub>𝐿</sub> is roughly proportional to 𝑇<sup>3</sup><sub>eff</sub> makes it a very good measure of effective temperature, and the usual difficulty due to differential line blanketingeffect in the analyses of photometric indices of cool carbon stars can be minimized.</p>
+					<p>It is found that the majority of N-type carbon stars with small variability (SRb and Lb variables) are confined to the effective temperature range between 2400 and 3200 K, in contrast to M-giant stars (M0 III-M6 III, including SRb and Lb variables) that are confined to the effective temperature range between 3200 and 3900 K. The effective temperatures based on the infrared flux method show good agreement with those derived directly from angular diameter measurements of 5 carbon stars. On the basis of the new effective temperature scale for carbon stars, it is shown that the well known C-classification does not represent a temperature sequence. On the other hand, colour temperatures based on various photometric indices all show good correlations with our derived effective temperatures.</p>
 				</abstract>
 				<keywords>carbon stars;effective temperatures;line blanketing;spectral classification;stellar atmospheres</keywords>
 				<authors>
@@ -716,7 +725,7 @@
 				<feature></feature>
 				<page>0115-0118</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that 26 Comae is a spectroscopic binary with a very eccentric orbit and a period of 972 days.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -738,7 +747,7 @@
 				<feature></feature>
 				<page>0119-0132</page>
 				<abstract>
-					<p></p>
+					<p>𝑈𝐵𝑉 photometric observations and elements of TT Hydrae obtained by Kulkarni and Abhyankar (1980) are combined with the radial velocity curve of Popper (1979, personal communication) to derive the absolute dimensions and. a model of this important Algol system. While the photometric ratios of radii in 𝑉 and 𝐵 are in agreement giving 𝑘 = 0·3812 for a limb darkening coefficient of 𝑥 =0.6, application of Irwin's (1947) method gives 𝑥=0.4 for 𝑈. The primary is found to be a main sequence A1 V star of mass 2.61 𝑀<sub>⊙</sub> and radius 2.01 𝑅<sub>⊙</sub>, and the secondary is classified as a K1 III star of mass 0.70 𝑀<sub>⊙</sub> and radius 5.33  𝑅<sub>⊙</sub>. The observed Fourier coefficients for the light outside the eclipse agree with those calculated from theory for the reflection and ellipticity effects. The system shows an untraviolet excess of 0.5 to 0.6 magnitudes during primary eclipse, which is attributed to an asymmetric circumstellar distribution of matter around the primary. The evolutionary status of the secondary, which does not appear to fill its Roche lobe completely, is discussed.</p>
 				</abstract>
 				<keywords>close binaries;absolute dimensions;ultraviolet excess in Algols</keywords>
 				<authors>
@@ -764,7 +773,7 @@
 				<feature></feature>
 				<page>0133-0139</page>
 				<abstract>
-					<p></p>
+					<p>The time-dependent interaction of the granulation velocity field with a magnetic flux tube is investigated here. It is seen that when a magnetic field line is displaced normal to itself so as to simulate the buffeting action of granules, a flow of gas is initiated along the field. By choosing a lateral velocity field which is consistent with observations of granules, it is found that the resulting gas motion is a downward flow with a velocity compatible with the observed downflow in isolated photospheric flux tubes. It is therefore proposed that the observed photospheric downflow is a manifestation of the interaction of granules with flux tubes.</p>
 				</abstract>
 				<keywords>Sun;small scale magnetic fields;granules;downdrafts;fluid dynamics;unsteady one-dimensional flow</keywords>
 				<authors>
@@ -789,7 +798,7 @@
 				<feature></feature>
 				<page>0141-0159</page>
 				<abstract>
-					<p></p>
+					<p>Coudé spectra taken in the red region of 49 bright Β and Be stars were examined for the behaviour of Hα and the He I 𝜆𝜆 5876 and 6678 line profiles. 51 per cent of the stars were found to show Hα  emission to some degree and 22 per cent showed helium emission. Evidence is presented for the existence of drastic changes in the line profile and the radial velocity in some of the stars on a time scale of fractions of a day.</p>
 				</abstract>
 				<keywords>Β stars;Be stars;photographic spectrophotometry</keywords>
 				<authors>
@@ -815,7 +824,7 @@
 				<feature></feature>
 				<page>0161-0164</page>
 				<abstract>
-					<p></p>
+					<p>Many of the populous intermediate-age star clusters (the blue globulars) of the Magellanic Clouds have a few stars that occupy a ‘forbidden zone’ in the colour-magnitude diagrams of the clusters, where stellar evolutionary theory does not predict that stars should lie. The properties of these stars in 13 clusters are gathered in Table 1, where it can be seen that the absolute magnitudes of the stars correlate with the cluster age, lying at a mean value of 2·7 mag above the tip of the main sequence. Several hypotheses regarding their nature are discussed, and it is concluded tentatively that they represent an unpredicted advanced stage of evolution from the giant branch, though no theoretical evidence supports such a conclusion. Considerably more observational data are needed before a more positive statement can be made.</p>
 				</abstract>
 				<keywords>anomalous giants;blue globular clusters;Magellanic Clouds</keywords>
 				<authors>
@@ -836,7 +845,7 @@
 				<feature></feature>
 				<page>0165-0169</page>
 				<abstract>
-					<p></p>
+					<p>The possible height of a mountain on a solid self-gravitating object such as a planet or a neutron star is limited by the strength of the rock. Estimates of the limiting height and conditions for their validity are discussed.</p>
 				</abstract>
 				<keywords>mountains;planets;neutron stars</keywords>
 				<authors>
@@ -856,7 +865,8 @@
 				<feature></feature>
 				<page>0171-0185</page>
 				<abstract>
-					<p></p>
+					<p>The current rate of nucleosynthesis in the solar neighbourhood is re-evaluated on the basis of Arnett’s (1978) stellar yields, the mass loss models of Chiosi, Nasi and Sreenivasan (1978) and the initial mass function determined by Lequeux (1978). If massive stars are held responsible for most of the metals we observe, a higher birthrate of these stars in the past is indicated in view of the low current rate of nucleosynthesis. The intermediate mass stars may not supply the bulk of the metals unless total disruption of their carbon core takes place.</p>
+					<p>While a declining birthrate is in conflict with the result obtained from the age-metallicity relation of stars, it is supported by some galactic evolution models which interpret successfully the white dwarf mass distribution data. If the constraint of a nearly time-invariant birthrate were strictly accepted, then models of the prompt initial enrichment type are required to explain the observed abundances in terms of nucleosynthesis in massive stars.</p>
 				</abstract>
 				<keywords>massive stars;nucleosynthesis;stellar birthrate</keywords>
 				<authors>
@@ -876,7 +886,8 @@
 				<feature></feature>
 				<page>0187-0199</page>
 				<abstract>
-					<p></p>
+					<p>The relation between the minimum and the maximum of the energy density of the microwave field is important in determining the internal physical conditions in a maser source and is directly connected  with the size of the emission spot. This relation is investigated for models of homogeneous maser clouds for three different geometries: a thin tube, a thin disk and a sphere.</p>
+					<p>For substantial degrees of saturation, an approximate analytical calculation scheme is presented. The radiation properties found satisfy the transfer and the rate equations well. As expected, the analysis supports the long standing view that the active medium is 10 to 100 times larger than the interferometer size. Here the real purpose is to provide some insight into the dependence of the radiation characteristics on the geometrical shape of the emission region. The luminosity is only slightly affected by the shape of the emitting region (for the same volume). How ever, the angular variation of the intensity and the peak intensity of the rays reflect sensitively on the geometrical shape.</p>
 				</abstract>
 				<keywords>cosmic masers;radiative transfer;influence of geometry</keywords>
 				<authors>
@@ -896,7 +907,7 @@
 				<feature></feature>
 				<page>0201-0212</page>
 				<abstract>
-					<p></p>
+					<p>A statistical analysis of the contemporary (1954-1975) solar flare particle events has been made for the parameters 𝐹 (integrated, proton fluence in cm<sup>-2</sup> in an event with kinetic energy above 10 MeV) and 𝑅<sub>0</sub> (the characterisitc rigidity). These data are compared with the longterm averaged values determined from stable- and radio-nuclide measurements of lunar samples. The analysis shows that the ancient solar flare proton spectrum was harder (higher 𝑅<sub>0</sub> values) compared to that observed in contemporary flares. A  similar analysis can not be made for the mean long-term averaged flux ($\overline{J}$, cm<sup>-2</sup> S<sup>-1</sup>), since the contemporary averages suffer from an uncertainty due to the statistics of a single event. However, the average flux estimates for time durations 〈T〉 exceeding 10<sup>3</sup> yr, are free from such uncertainties. The long-term averaged J values obtained over different time scales (10<sup>4</sup> – 10<sup>6</sup> yr) suggest a possible periodic variation in solar flare activity, with enhanced flux level during the last 10<sup>5</sup> yr. The available data rule out the occurrence of giant flares, with proton fluence exceeding 10<sup>15</sup> cm<sup>-2</sup> during the last million years.</p>
 				</abstract>
 				<keywords>solar flares;solar activity;long term variations</keywords>
 				<authors>
@@ -925,9 +936,7 @@
 				<title>Corrigenda</title>
 				<feature></feature>
 				<page>0213-0213</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -939,7 +948,8 @@
 				<feature></feature>
 				<page>0215-0244</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric aperture-photometry of ω Cen in 𝑈, 𝐵, 𝑉, 𝑅 and 𝐼 bands has established that the cluster is bluer between 2 arcmin and 4 arcmin from the centre, than it is elsewhere. The difference in 𝐵-𝐼  colour between the centre and this blue zone is ≃ 0.45 mag. The core radius is found to be dependant on the wavelength band chosen for observation, the smallest core radius being for the 𝐼 band. Equidensitometry of ω Cen 𝐵, 𝑉 and infrared bands shows a wavelength dependence with the cluster being nearly spherical in the infrared bank. It shows a maximum ellipticity around 3 arcmin from the cluster centre. The blue contribution in this zone comes from both a diffuse background of unresolved stars and an increase in the relative abundance of horizontal branch (HB) stars. The similarity between the diffuse background and the HB stars has been demonstrated. A photographic subtraction technique is used to study the distribution of HB stars in the cluster.</p>
+					<p>Results of equidensitomety of the cluster 47 Tuc, obtained in the present study, are compared with the earlier results of photoelectric photometry. Here too an increase in ellipticity is associated with an increase in the blueness of the cluster. All globular clusters studied so far for ellipticity show a similarity in the dependence of the ellipticity on the distance from the centre. The ellipticity has small values near the centre and in the outer regions, with the maximum value in between. We suggest that the red stars in globular clusters have a nearly spherical distribution. The blue stars form a bulge around the core with a more elliptical distribution and a different orientation. A similarity between the ellipticity aspects of both the globular clusters and rotation in the nucleus of Μ 31 is pointed out; the Μ 31 nucleus may thus show a bluer colour and smaller UV excess around the region where the rotation curve shows a peak.</p>
 				</abstract>
 				<keywords>globular clusters;𝜔 Centauri;photoelectric photometry of globular clusters;equidensitometry;horizontal branch stars</keywords>
 				<authors>
@@ -964,7 +974,7 @@
 				<feature></feature>
 				<page>0245-0252</page>
 				<abstract>
-					<p></p>
+					<p>The partial frequency redistribution function for zero natural line width with dipole scattering (𝑅<sub>𝐼</sub>) has been considered in obtaining the simultaneous solution of the statistical equilibrium and line transfer equations in the comoving frame of the expanding gas. We have considered a non-LTE two level atom in an expanding spherical medium whose outer radii are 3, 10 and 20 times the stellar radius with a total optical depth 𝑇 ≃ 2 × 10<sup>3</sup>. In all the cases, we have calculated the population ratio of the two levels 𝑁<sub>2</sub>/𝑁<sub>1</sub> and compared these results with those obtainde by using different expansion belocities and geometrical extensions. Initially, the upper level population (𝑁<sub>2</sub>) is set equal to zero. The converged simultaneous solution shows that the upper level population is enhanced considerably from the initial value. Variation in velocity gradients seem to have little effect on the ratio 𝑁<sub>2</sub>/𝑁<sub>1</sub> when the geometrical thickness of the medium is 3 or 10 times the stellar radius. However, when the thickness is increased to 20 times the central radius, the velocity gradients change the ratio 𝑁<sub>2</sub>/𝑁<sub>1</sub> considerably in the region where log Ṭ ≤ 2. The effect of variation of geometrical thickness is to reduce the 𝑁<sub>2</sub>/𝑁<sub>1</sub> ratio at 𝜏 = 0.</p>
 				</abstract>
 				<keywords>partial frequency redistribution;dipole scattering;statistical equilibrium equation;line transfer equation in the comoving frame.</keywords>
 				<authors>
@@ -989,7 +999,8 @@
 				<feature></feature>
 				<page>0253-0276</page>
 				<abstract>
-					<p></p>
+					<p>On the basis of the effective temperature scale proposed previously for cool carbon stars (Paper I), other intrinsic properties of them are examined in detail. It is shown that the major spectroscopic  properties of cool carbon stars, including those of molecular bands due  to polyatomic species (SiC<sub>2</sub>, HCN, C<sub>2</sub>H<sub>2</sub> <i>etc.</i>), can most consistently be understood on the basis of our new effective temperature scale and the theoretical prediction of chemical equilibrium. Various photometric indices of cool carbon stars also appear to be well correlated with the new effective temperatures. Furthermore, as effective temperatures of some 30 carbon stars are now obtained, the calibration of any photometric index is straightforward, and some examples of such a calibration are given. In general, colour index-effective temperature calibrations for carbon stars are quite different from those for K–M giant stars. It is found that the intrinsic (𝑅 — 𝐼)<sub>0</sub> colour is nearly the same for N-irregular variables in spite of a considerable spread in effective temperatures, and this fact is used to estimate the interstellar reddening of carbon stars. </p>
+					<p>An observational HR diagram of red giant stars, including carbon stars as well as K-M giant stars, is obtained on the basis of our colour indexeffective temperature calibrations and the best estimations of luminosities. It is shown that carbon stars and M giant stars are sharply divided in the HR diagram by a nearly vertical line at about 𝑇<sub>eff</sub> = 3200 K (log 𝑇<sub>eff</sub>=3.50) and the carbon stars occupy the upper right region of M giant stars (except for some high luminosity, high temperature J-type stars in the Magellanic Clouds; also Mira variables are not considered). Such an observational HR diagram of red giant stars shows rather a poor agreement with the current stellar evolution models. Especially, a more efficient mixing process in red giant stars, as compared with those ever proposed, is required to explain the formation of carbon stars.</p>
 				</abstract>
 				<keywords>carbon stars;HR diagram;stellar evolution;molecular spectra;photometric indices</keywords>
 				<authors>
@@ -1009,7 +1020,7 @@
 				<feature></feature>
 				<page>0277-0284</page>
 				<abstract>
-					<p></p>
+					<p>We have investigated the effects of increasing optical depths on spectral lines formed in a rotating and expanding spherical shell. We have assumed a shell whose outer radius is 3 times the inner radius, with the radial optical depths equal to 10, 50, 100, 500. We have employed a constant velocity with no velocity gradients in the shell. The shell is assumed to be rotating with velocities varying as 1/ρ, where ρ is the perpendicular distance from the axis of rotation, implying the conservation of angular momentum. Two expansion (radial) velocities are treated: (1) 𝑉 = 0 (static case) and (2) 𝑉= 10 mean thermal units. The maximum rotational velocities are 𝑉<sub>rot</sub> =0 and 5 while for 𝑉<sub>rot</sub> ≥ 10 we obtain symmetric absorption lines. In the case of an expanding shell, we obtain lines with central emission.</p>
 				</abstract>
 				<keywords>spectral lines;rotating and expanding shells</keywords>
 				<authors>
@@ -1039,7 +1050,7 @@
 				<feature></feature>
 				<page>0285-0288</page>
 				<abstract>
-					<p></p>
+Vol2 issue 3					<p></p>
 				</abstract>
 				<keywords>oscillator strengths;photospheric spectrum;MgH molecules</keywords>
 				<authors>
