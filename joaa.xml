@@ -23,7 +23,9 @@
 				<title>Comoving Frame Calculations of Spectral Lines formed in Rapidly Expanding Media with the Partial Frequency Redistribution Function for Zero Natural Line Width</title>
 				<feature></feature>
 				<page>0003-0016</page>
-				<abstract />
+				<abstract>
+					<p>Comoving frame calculations have been used to compute the spectral lines formed in rapidly expanding spherical media. We have employed the angle-averaged partial frequency redistribution function 𝑅<sub>I</sub> with a two-level atom model in non-LTE atom approximation. A linear velocity law increasing with radius has been employed with maximum velocity at τ=0 being set equal to 30 mean thermal units. It is found that one obtains almost symmetric emission line profiles at large velocities similar to those found in quasars.</p>
+				</abstract>
 				<keywords>radiative transfer;partial redistribution function;comoving frame;spectral lines</keywords>
 				<authors>
 					<author>
@@ -41,7 +43,10 @@
 				<title>Lines formed in Rotating and Expanding Atmospheres</title>
 				<feature></feature>
 				<page>0017-0023</page>
-				<abstract />
+				<abstract>
+					<p>Spectral lines formed in a rotating and expanding atmosphere have been computed in the frame of the observer at infinity. Two kinds of velocity laws are employed: (i) a uniform radial velocity of the gas and (ii) velocity increasing with radius (<i>i.e.</i> velocity gradients). The atmosphere has been assumed to be rotating with constant velocity. We have considered maximum radial and rotational velocities to be 10 and 3 mean thermal units respectively in an atmosphere whose geometrical thickness is 10 times the stellar radius. The total radial optical depth at line centre is taken to be about 100. In all cases, Doppler profile and a source function which is varying as 1/𝑟<sup>2</sup> have been used</p>
+					<p>Generally, the lines are broadened when rotation is introduced. However, when radial motion is also present, broadening becomes asymmetric and the red emission and blue absorption are enhanced.</p>
+				</abstract>
 				<keywords>radiative transfer;partial redistribution function;comoving frame;spectral lines</keywords>
 				<authors>
 					<author>
@@ -59,7 +64,9 @@
 				<title>Pulsar Activity and the Morphology of Supernova Remnants</title>
 				<feature></feature>
 				<page>0025-0032</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsars;supernova remnants;magnetic window</keywords>
 				<authors>
 					<author>
@@ -82,7 +89,9 @@
 				<title>The Role of General Relativity in Astronomy: Retrospect and Prospect</title>
 				<feature></feature>
 				<page>0033-0045</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -97,7 +106,9 @@
 				<title>Evidence for a Large Population of Shocked Interstellar Clouds</title>
 				<feature></feature>
 				<page>0047-0066</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>21 cm absorption;shocked clouds;spin temperature;high velocities</keywords>
 				<authors>
 					<author>
@@ -120,7 +131,9 @@
 				<title>A Search for OB Stars in Supernova Remnants</title>
 				<feature></feature>
 				<page>0067-0070</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Supernovae;supernova remnants;binaries</keywords>
 				<authors>
 					<author>
@@ -138,7 +151,9 @@
 				<title>XX Cam—The Inactive R CrB Star</title>
 				<feature></feature>
 				<page>0071-0078</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>R CrB star;infrared excess</keywords>
 				<authors>
 					<author>
@@ -166,7 +181,9 @@
 				<title>Α Dispersion Relation for Open Spiral Galaxies</title>
 				<feature></feature>
 				<page>0079-0095</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>galaxies;density waves;dispersion relation</keywords>
 				<authors>
 					<author>
@@ -186,7 +203,9 @@
 				<title>Comments on the Source Function Equality in (Zeeman)-Multiplets</title>
 				<feature></feature>
 				<page>0097-0100</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radiative transfer;non-LTE;Zeeman effect;polarization</keywords>
 				<authors>
 					<author>
@@ -209,7 +228,9 @@
 				<title>An Iterative Simultaneous Solution of the Equations of Statistical Equilibrium and Radiative Transfer in the Comoving Frame</title>
 				<feature></feature>
 				<page>0101-0111</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>statistical equilibrium equation;radiative transfer;co-moving frame;iterative solution;velocity gradients</keywords>
 				<authors>
 					<author>
@@ -227,7 +248,9 @@
 				<title>Effects of High Velocities on Photoionization Lines</title>
 				<feature></feature>
 				<page>0113-0117</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>photoionization lines;comoving frame;radiative transfer equation</keywords>
 				<authors>
 					<author>
@@ -250,7 +273,9 @@
 				<title>The Structure of Integrated Pulse Profiles</title>
 				<feature></feature>
 				<page>0119-0128</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsars;integrated pulse profiles;polar cap model</keywords>
 				<authors>
 					<author>
@@ -273,7 +298,9 @@
 				<title>Central Regions of Sérsic-Pastoriza Galaxies: A Photographic Study</title>
 				<feature></feature>
 				<page>0129-0154</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>galaxies;central regions;bursts of star formation;surface photometry</keywords>
 				<authors>
 					<author>
@@ -291,7 +318,9 @@
 				<title>Supernovae and the Ap Phenomenon</title>
 				<feature></feature>
 				<page>0155-0164</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Supernovae;clusters;peculiar stars</keywords>
 				<authors>
 					<author>
@@ -314,7 +343,9 @@
 				<title>Convective Instability in the Solar Envelope</title>
 				<feature></feature>
 				<page>0165-0175</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>sun;granulation;supergranulation;convective instability</keywords>
 				<authors>
 					<author>
@@ -342,7 +373,9 @@
 				<title>NGC 4650 A: A Nearly Edge-on Ring Galaxy?</title>
 				<feature></feature>
 				<page>0177-0187</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>elliptical galaxy;prolate galaxy;ring galaxy;Η II regions</keywords>
 				<authors>
 					<author>
@@ -365,7 +398,9 @@
 				<title>No Detectable Supernova Remnant near the Pulsar PSR 1930 + 22</title>
 				<feature></feature>
 				<page>0189-0192</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsar;supernova remnant</keywords>
 				<authors>
 					<author>
@@ -389,7 +424,9 @@
 				<title>A New Spectroscopic Facility at Millimetre Wavelengths</title>
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0193-0196</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>instruments;millimeter-wave astronomy</keywords>
 				<authors>
 					<author>
@@ -462,7 +499,9 @@
 				<title>Author Index</title>
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0197-0199</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -471,7 +510,9 @@
 				<title>Subject Index</title>
 				<feature>Report on New Instrumentation Facilities</feature>
 				<page>0201-0202</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -484,7 +525,9 @@
 				<title>General Relativistic Analysis of Structure and Stability of Charged Fluid Disks Around Compact Objects</title>
 				<feature></feature>
 				<page>0001-0027</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>general relativity;black holes;accretion disks;stability</keywords>
 				<authors>
 					<author>
@@ -507,7 +550,9 @@
 				<title>An Analysis of the Orbital Periods of Some Eclipsing Binaries Suspected to be in the Pre-Main Sequence Contraction Phase of Evolution</title>
 				<feature></feature>
 				<page>0029-0041</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>eclipsing binaries;period changes;pre-main sequence evolution</keywords>
 				<authors>
 					<author>
@@ -530,7 +575,9 @@
 				<title>Extragalactic Sources with One-sided Radio Structure</title>
 				<feature></feature>
 				<page>0043-0058</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>quasars and radio galaxies;double radio sources;asymmetric structure;relativistic beaming</keywords>
 				<authors>
 					<author>
@@ -548,7 +595,9 @@
 				<title>Pulsating Radio Emission at Decametre Wavelengths from the Sun</title>
 				<feature></feature>
 				<page>0059-0065</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>explosive instability;pulsating burst</keywords>
 				<authors>
 					<author>
@@ -576,7 +625,9 @@
 				<title>Luminosity-H I Velocity Width Relation for Spirals</title>
 				<feature></feature>
 				<page>0067-0079</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>spiral galaxies;photometry;luminosity-ΗI velocity width relation</keywords>
 				<authors>
 					<author>
@@ -594,7 +645,9 @@
 				<title>Photon Escape Probabilities in Expanding Atmospheres</title>
 				<feature></feature>
 				<page>0081-0086</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>mean number of scatterings;mean escape probability;partial redistribution function;isotropic scattering;dipole scattering</keywords>
 				<authors>
 					<author>
@@ -622,7 +675,9 @@
 				<title>On the Relationship Between Pulsars and Supernova Remnants</title>
 				<feature></feature>
 				<page>0087-0093</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsars;Supernovae;supernova remnants</keywords>
 				<authors>
 					<author>
@@ -640,7 +695,9 @@
 				<title>Intrinsic Properties of Carbon Stars. I. Effective Temperature Scale of N-type Carbon Stars</title>
 				<feature></feature>
 				<page>0095-0113</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>carbon stars;effective temperatures;line blanketing;spectral classification;stellar atmospheres</keywords>
 				<authors>
 					<author>
@@ -658,7 +715,9 @@
 				<title>A Spectroscopic Orbit for 26 Comae</title>
 				<feature></feature>
 				<page>0115-0118</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -678,7 +737,9 @@
 				<title>A Model of the Algol Type Close Binary TT Hydrae</title>
 				<feature></feature>
 				<page>0119-0132</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>close binaries;absolute dimensions;ultraviolet excess in Algols</keywords>
 				<authors>
 					<author>
@@ -702,7 +763,9 @@
 				<title>Time-Dependent Interaction of Granules with Magnetic Flux Tubes</title>
 				<feature></feature>
 				<page>0133-0139</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun;small scale magnetic fields;granules;downdrafts;fluid dynamics;unsteady one-dimensional flow</keywords>
 				<authors>
 					<author>
@@ -725,7 +788,9 @@
 				<title>Photographic Spectrophotometry of Selected Bright B and Be Stars</title>
 				<feature></feature>
 				<page>0141-0159</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Β stars;Be stars;photographic spectrophotometry</keywords>
 				<authors>
 					<author>
@@ -749,7 +814,9 @@
 				<title>Anomalous Giants in Magellanic Cloud Clusters</title>
 				<feature></feature>
 				<page>0161-0164</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>anomalous giants;blue globular clusters;Magellanic Clouds</keywords>
 				<authors>
 					<author>
@@ -768,7 +835,9 @@
 				<title>How High Can A Mountain Be ?</title>
 				<feature></feature>
 				<page>0165-0169</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>mountains;planets;neutron stars</keywords>
 				<authors>
 					<author>
@@ -786,7 +855,9 @@
 				<title>Current Rate of Nucleosynthesis and its Implications</title>
 				<feature></feature>
 				<page>0171-0185</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>massive stars;nucleosynthesis;stellar birthrate</keywords>
 				<authors>
 					<author>
@@ -804,7 +875,9 @@
 				<title>Intersteller Masers: The Influence of the Geometrical Shape on the Radiation Properties</title>
 				<feature></feature>
 				<page>0187-0199</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>cosmic masers;radiative transfer;influence of geometry</keywords>
 				<authors>
 					<author>
@@ -822,7 +895,9 @@
 				<title>Long Term Variations in Solar Flare Activity</title>
 				<feature></feature>
 				<page>0201-0212</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>solar flares;solar activity;long term variations</keywords>
 				<authors>
 					<author>
@@ -850,7 +925,9 @@
 				<title>Corrigenda</title>
 				<feature></feature>
 				<page>0213-0213</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -861,7 +938,9 @@
 				<title>Mass Segregation in Globular Clusters</title>
 				<feature></feature>
 				<page>0215-0244</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>globular clusters;𝜔 Centauri;photoelectric photometry of globular clusters;equidensitometry;horizontal branch stars</keywords>
 				<authors>
 					<author>
@@ -884,7 +963,9 @@
 				<title>Effects of Redistribution with Dipole Scattering on Line Source Functions</title>
 				<feature></feature>
 				<page>0245-0252</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>partial frequency redistribution;dipole scattering;statistical equilibrium equation;line transfer equation in the comoving frame.</keywords>
 				<authors>
 					<author>
@@ -907,7 +988,9 @@
 				<title>Intrinsic Properties of Carbon Stars. II. Spectra, Colours, and HR Diagram of Cool Carbon Stars</title>
 				<feature></feature>
 				<page>0253-0276</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>carbon stars;HR diagram;stellar evolution;molecular spectra;photometric indices</keywords>
 				<authors>
 					<author>
@@ -925,7 +1008,9 @@
 				<title>Optical Depth Effects on the Formation of Spectral Lines in Rotating and Expanding Spherical Atmospheres</title>
 				<feature></feature>
 				<page>0277-0284</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>spectral lines;rotating and expanding shells</keywords>
 				<authors>
 					<author>
@@ -953,7 +1038,9 @@
 				<title>On the MgH Oscillator Strengths</title>
 				<feature></feature>
 				<page>0285-0288</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>oscillator strengths;photospheric spectrum;MgH molecules</keywords>
 				<authors>
 					<author>
@@ -971,7 +1058,9 @@
 				<title>A Doppler Theory of Quasars</title>
 				<feature></feature>
 				<page>0289-0307</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>quasar alignments;non cosmological redshifts of quasars</keywords>
 				<authors>
 					<author>
@@ -994,7 +1083,9 @@
 				<title>A Spectroscopic Orbit for HD 115968</title>
 				<feature></feature>
 				<page>0309-0313</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -1012,7 +1103,9 @@
 				<title>A New Look at Pulsar Statistics—Birthrate and Evidence for Injection</title>
 				<feature></feature>
 				<page>0315-0337</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsar statistics;birthrate;injection</keywords>
 				<authors>
 					<author>
@@ -1035,7 +1128,9 @@
 				<title>The Structure of the Cygnus Loop at 34.5 MHz</title>
 				<feature></feature>
 				<page>0339-0347</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>supernova remnants, individual;radio continuum</keywords>
 				<authors>
 					<author>
@@ -1065,7 +1160,9 @@
 				<title>Changes in Sizes and Shapes of Spherical Galaxies in Head-on Collisions</title>
 				<feature></feature>
 				<page>0349-0363</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>stellar dynamics;galaxy collisions;tidal interaction</keywords>
 				<authors>
 					<author>
@@ -1089,7 +1186,9 @@
 				<title>The Two Components in the Distribution of Sunspot Groups with Respect to their Maximum Areas</title>
 				<feature></feature>
 				<page>0365-0377</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>sunspots, distribution of areas;solar activity;solar cycle;solar magnetic field</keywords>
 				<authors>
 					<author>
@@ -1112,7 +1211,9 @@
 				<title>Plasma Heating in a Sheared Magnetic Field</title>
 				<feature></feature>
 				<page>0379-0385</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Alfven waves;plasma heating;solar corona</keywords>
 				<authors>
 					<author>
@@ -1130,7 +1231,9 @@
 				<title>Rotation and Luminosity Variations in Post-Main Sequence Stars</title>
 				<feature></feature>
 				<page>0387-0403</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>rotating stars;post-main sequence evolution;neutrino emission;gravitational radiation</keywords>
 				<authors>
 					<author>
@@ -1149,7 +1252,9 @@
 				<title>Equilibrium Configuration of the Magnetosphere of a Star Loaded with Accreted Magnetized Mass</title>
 				<feature></feature>
 				<page>0405-0419</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>stellar magnetospheres;accretion of magnetized mass;X-ray binaries</keywords>
 				<authors>
 					<author>
@@ -1173,7 +1278,9 @@
 				<title>Structure and Stability of Rotating Fluid Disks Around Massive Objects. I. Newtonian Formulation</title>
 				<feature></feature>
 				<page>0421-0437</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Fluid disks;stability</keywords>
 				<authors>
 					<author>
@@ -1196,7 +1303,9 @@
 				<title>Corrigendum</title>
 				<feature></feature>
 				<page>0439-0439</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -1205,7 +1314,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0441-0443</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -1214,7 +1325,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0444-0447</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -1227,7 +1340,9 @@
 				<title>Spectroscopic Binaries near the North Galactic Pole Paper 3: HD 105341</title>
 				<feature></feature>
 				<page>0001-0004</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -1245,7 +1360,9 @@
 				<title>Braided Rings of Saturn—its Topology</title>
 				<feature></feature>
 				<page>0005-0011</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>braided F rings;topology of braiding;plasma helicoids;self-consistent fields</keywords>
 				<authors>
 					<author>
@@ -1263,7 +1380,9 @@
 				<title>On Franck-Condon Factors and Intensity Distributions in some Band Systems of I2, NS and PS Molecules</title>
 				<feature></feature>
 				<page>0013-0025</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Franck-Condon factors;intensity variations in band systems</keywords>
 				<authors>
 					<author>
@@ -1286,7 +1405,9 @@
 				<title>Spot Activity in the RS CVn Binary HR 1099</title>
 				<feature></feature>
 				<page>0027-0038</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>UBV photometry;RS CVn variables;spot activity</keywords>
 				<authors>
 					<author>
@@ -1314,7 +1435,9 @@
 				<title>A Study of the H-AIpha Line in Late G and Κ Supergiants</title>
 				<feature></feature>
 				<page>0039-0061</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>late-type stars;chromospheres;mass loss</keywords>
 				<authors>
 					<author>
@@ -1332,7 +1455,9 @@
 				<title>Kerr – Newman Metric in Cosmological Background</title>
 				<feature></feature>
 				<page>0063-0067</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Kerr-Newman metric;cosmology;Einstein universe;Robertson-Walker universe</keywords>
 				<authors>
 					<author>
@@ -1355,7 +1480,9 @@
 				<title>Doppler Shift Measurements on the Green Coronal Line—Evidence for Largescale Macroscopic Mass Motion</title>
 				<feature></feature>
 				<page>0069-0077</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>total solar eclipse;green coronal line;Doppler shifts</keywords>
 				<authors>
 					<author>
@@ -1383,7 +1510,9 @@
 				<title>Ultraviolet Observations of the Hydrogen-Deficient Variable Star MV Sagittarii</title>
 				<feature></feature>
 				<page>0079-0092</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>variable stars;ultraviolet spectra;circumstellar dust</keywords>
 				<authors>
 					<author>
@@ -1408,7 +1537,9 @@
 				<title>Analysis of the U B V Light Curves of TT Hydrae by Kopal’s Frequency Domain Method</title>
 				<feature></feature>
 				<page>0093-0099</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>close binaries;absolute dimensions</keywords>
 				<authors>
 					<author>
@@ -1431,7 +1562,9 @@
 				<title>Spectroscopic Binaries near the North Galactic Pole Paper 4: HD120803</title>
 				<feature></feature>
 				<page>0101-0105</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -1449,7 +1582,9 @@
 				<title>Spectroscopic Binaries near the North Galactic Pole Paper 5: HD 117064</title>
 				<feature></feature>
 				<page>0107-0109</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -1467,7 +1602,9 @@
 				<title>The Jeans Problem for a Thin Galaxy in Steady State</title>
 				<feature></feature>
 				<page>0111-0123</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Jeans problem;disk galaxies;local mass density</keywords>
 				<authors>
 					<author>
@@ -1485,7 +1622,9 @@
 				<title>Global Stability of Disk-Bulge Systems: Spiral Structure of Disk Galaxies</title>
 				<feature></feature>
 				<page>0125-0144</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>global density waves;spiral galaxies;disk-bulge systems</keywords>
 				<authors>
 					<author>
@@ -1508,7 +1647,9 @@
 				<title>Spectrophotometric Observations of a Peculiar Nitrogen Rich Planetary Nebula NGC 2440</title>
 				<feature></feature>
 				<page>0145-0150</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>planetary nebulae;line intensities</keywords>
 				<authors>
 					<author>
@@ -1526,7 +1667,9 @@
 				<title>Time Structure of Solar Decametre Type III Radio Bursts</title>
 				<feature></feature>
 				<page>0151-0159</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun;Type III bursts;time profiles</keywords>
 				<authors>
 					<author>
@@ -1549,7 +1692,9 @@
 				<title>Compact Radio Cores and the Relation between the Radio and Optical Axes of Elliptical Galaxies</title>
 				<feature></feature>
 				<page>0161-0171</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radio galaxies;elliptical galaxies;extended radio sources</keywords>
 				<authors>
 					<author>
@@ -1572,7 +1717,9 @@
 				<title>VLA Observations of Hot Spots in High Luminosity Radio Sources</title>
 				<feature></feature>
 				<page>0173-0187</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>hot spots;radio galaxies;quasars</keywords>
 				<authors>
 					<author>
@@ -1601,7 +1748,9 @@
 				<title>The Identification of CTA 21</title>
 				<feature></feature>
 				<page>0189-0192</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radio sources;infrared sources</keywords>
 				<authors>
 					<author>
@@ -1629,7 +1778,9 @@
 				<title>Structure and Stability of Rotating Fluid Disks around Massive Objects. II. General Relativistic Formulation</title>
 				<feature></feature>
 				<page>0193-0206</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>fluid disks;general relativity;stability</keywords>
 				<authors>
 					<author>
@@ -1653,7 +1804,9 @@
 				<title>Observations of the Supernova Remnants HB 9 and 1C 443 at 34·5MHz</title>
 				<feature></feature>
 				<page>0207-0216</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>supernova remnants;spectral break;free-free absorption</keywords>
 				<authors>
 					<author>
@@ -1683,7 +1836,9 @@
 				<title>M.K. Vainu Bappu (1927–1982)</title>
 				<feature></feature>
 				<page>0217-0218</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -1698,7 +1853,9 @@
 				<title>The Eclipsing Binary V 836 Cygni: Photometric Evidence for an Early Evolutionary Status</title>
 				<feature></feature>
 				<page>0219-0231</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>eclipsing binaries;period variations;mass exchange</keywords>
 				<authors>
 					<author>
@@ -1722,7 +1879,9 @@
 				<title>The Spectroscopic Orbit of the Short Period Eclipsing Binary V 836 Cygni</title>
 				<feature></feature>
 				<page>0233-0235</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -1745,7 +1904,9 @@
 				<title>On Selection Effects in Pulsar Searches</title>
 				<feature></feature>
 				<page>0237-0247</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsar searches;selection effects</keywords>
 				<authors>
 					<author>
@@ -1773,7 +1934,9 @@
 				<title>Eclipse Observations of Coronal Emission Lines. I. [Fex] 6374Å Profiles at the Eclipse of 16 February 1980</title>
 				<feature></feature>
 				<page>0249-0266</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Solar corona;red coronal line;turbulent velocities;rotation of solar corona</keywords>
 				<authors>
 					<author>
@@ -1802,7 +1965,9 @@
 				<title>HD 147010: The Ap Star in the Reflection Nebula vdB 102 in Upper Scorpius Region</title>
 				<feature></feature>
 				<page>0267-0276</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>peculiar stars;spectrum variables</keywords>
 				<authors>
 					<author>
@@ -1825,7 +1990,9 @@
 				<title>Chromospheric Activity of Late-type Giants and Supergiants: Reappearance of Dynamo Activity in the Interior due to the Spin-up of the Core in Evolution</title>
 				<feature></feature>
 				<page>0277-0296</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>stellar evolution;chromospheric activity;dynamo activity;red giants</keywords>
 				<authors>
 					<author>
@@ -1848,7 +2015,9 @@
 				<title>On the Balmer Progression in the Expanding Shell of Pleione</title>
 				<feature></feature>
 				<page>0297-0302</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Balmer progression;velocity gradients;shell stars</keywords>
 				<authors>
 					<author>
@@ -1866,7 +2035,9 @@
 				<title>Intensity and Polarization Line Profiles in a Semi-Infinite Rayleigh-Scattering Planetary Atmosphere. I. Integrated Flux</title>
 				<feature></feature>
 				<page>0303-0324</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Rayleigh scattering—line profiles—atmosphere of Venus</keywords>
 				<authors>
 					<author>
@@ -1889,7 +2060,9 @@
 				<title>Exact Relativistic Model for a Superdense Star</title>
 				<feature></feature>
 				<page>0325-0334</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>neutron stars;general relativity</keywords>
 				<authors>
 					<author>
@@ -1912,7 +2085,9 @@
 				<title>Further Observations of Radio Sources from the BG Survey. II. Mainly Extragalactic</title>
 				<feature></feature>
 				<page>0335-0350</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>extragalactic radio sources;pulsar-radio source association</keywords>
 				<authors>
 					<author>
@@ -1945,7 +2120,9 @@
 				<title>A New Look at the Birthrate of Supernova Remnan</title>
 				<feature></feature>
 				<page>0351-0361</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>supernova remnants, birthrates</keywords>
 				<authors>
 					<author>
@@ -1970,7 +2147,9 @@
 				<title>Posterior Probability of the Deceleration Parameter q0 from Quasars provided with a Luminosity Indicator</title>
 				<feature></feature>
 				<page>0363-0378</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>deceleration parameter;quasi-stellar objects (QSOs);luminosity indicators;Baldwin's relation</keywords>
 				<authors>
 					<author>
@@ -1994,7 +2173,9 @@
 				<title>Morphology of H-Alpha Filaments and Filament Channel Systems</title>
 				<feature></feature>
 				<page>0379-0382</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun;magnetic fields;filaments;filament channel</keywords>
 				<authors>
 					<author>
@@ -2022,7 +2203,9 @@
 				<title>Spectroscopic Binaries near the North Galactic Pole Paper 6: BD 33° 2206</title>
 				<feature></feature>
 				<page>0383-0392</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
@@ -2040,7 +2223,9 @@
 				<title>On a Nonlinear and Lorentz-Invariant Verson of Newtonian Gravitation</title>
 				<feature></feature>
 				<page>0393-0398</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Newtonian gravitation;Lorentz-invariant generalization</keywords>
 				<authors>
 					<author>
@@ -2063,7 +2248,9 @@
 				<title>Interstellar Electron Density</title>
 				<feature></feature>
 				<page>0399-0412</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>pulsars, dispersion measure;interstellar electron density;Η II regions</keywords>
 				<authors>
 					<author>
@@ -2086,7 +2273,9 @@
 				<title>The Role of Proton Cyclotron Emission near Acereting Magnetic Neutron Stars</title>
 				<feature></feature>
 				<page>0413-0418</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>neutron stars;X-ray bursts;y-ray bursts</keywords>
 				<authors>
 					<author>
@@ -2114,7 +2303,9 @@
 				<title>Maximum Entropy Image Recpmstruction-A Practical Non-Information-Theoretic Approach</title>
 				<feature></feature>
 				<page>0419-0450</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>image reconstruction;maximum entropy method</keywords>
 				<authors>
 					<author>
@@ -2137,7 +2328,9 @@
 				<title>Near Infrared Observations of some of the IRC Sources</title>
 				<feature></feature>
 				<page>0451-0463</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>IRCCIT sources-broadband infrared photomety-infrared excess</keywords>
 				<authors>
 					<author>
@@ -2146,7 +2339,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="F.</name>" last="Strafella">F. Strafella</name>
+						<name first="F." last="Strafella">F. Strafella</name>
 						<affiliation>Istituto di Fisica, Universita, I-73100, Lecce, Italy</affiliation>
 						<email />
 					</author>
@@ -2170,7 +2363,9 @@
 				<title>Relativistic Beaming in the Central Components of Double Radio Quasars</title>
 				<feature></feature>
 				<page>0465-0483</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>quasars;relativistic beaming;active galactic nuclei;extragalactic radio sources</keywords>
 				<authors>
 					<author>
@@ -2193,7 +2388,9 @@
 				<title>Reflection Effect in Close Binaries. I. Distribution of Radiation from a Point Source</title>
 				<feature></feature>
 				<page>0485-0497</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>radiative transfer;rod model;close binaries</keywords>
 				<authors>
 					<author>
@@ -2211,7 +2408,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0499-0503</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -2220,7 +2419,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0505-0510</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -2228,215 +2429,776 @@
 		</issue>
 	</volume>
 	<volume vnum="004">
-		<issue inum="01" month="" year="1995" info="">
+		<issue inum="01" month="" year="1983" info="">
 			<entry hassup="0">
-				<title></title>
+				<title>Scanner Observations of the Classical Cepheids RT Aur and Τ Vul</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0001-0009</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>classical Cepheids;effective temperatures;mass discrepancy</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B. S." last="Rautela">B. S. Rautela</name>
+						<affiliation>Uttar Pradesh State Observatory, Manora Peak, Naini Tal 263129</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. C." last="Joshi">S. C. Joshi</name>
+						<affiliation>Uttar Pradesh State Observatory, Manora Peak, Naini Tal 263129</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-08-13</date>
+					<date type="A">1982-10-25</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Reflection Effect in Close Binaries. II. Distribution of Emergent Radiation from the Irradiated Component along the Line of Sight</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0011-0017</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>reflection effect;irradiation;spherical symmetry</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-06-22</date>
+					<date type="A">1982-10-28</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 7: HD 107742</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0019-0021</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England, CB3 0HA</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-10-25</date>
+					<date type="A">1982-11-12</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 8: HD 121844</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0023-0026</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England CB3 0HA</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1983-01-22</date>
+					<date type="A">1983-02-09</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Intensity and Polarization Line Profiles in a Semi-Infinite Rayleigh-Scattering Planetary Atmosphere. II. Variations of Equivalent Width over the Disk</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0027-0033</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Rayleigh scattering;line profiles;planetary atmospheres</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. K." last="Bhatia">R. K. Bhatia</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K. D." last="Abhyankar">K. D. Abhyankar</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-19-06</date>
+					<date type="A">1983-01-03</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Intensity and Polarization Line Profiles in a Semi-Infinite Rayleigh-Scattering Planetary Atmosphere. III. Variation of Polarization Profiles and the Stokes Parameter Q over the Disk</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0035-0046</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Rayleigh scattering;polarization profiles;planetary atmospheres</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. K." last="Bhatia">R. K. Bhatia</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K. D." last="Abhyankar">K. D. Abhyankar</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-09-06</date>
+					<date type="A">1983-01-03</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Diffuse Radio Emission from the Coma Cluster of Galaxies at Decametre Wavelengths</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0047-0051</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>cluster of galaxies;intracluster medium;radio spectra</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. K." last="Shevgaonkar">R. K. Shevgaonkar</name>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-09-17</date>
+					<date type="A">1983-02-14</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Astrophysical Molecules of AlH and CaH: RKR Potential and Dissociation Energies</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0053-0058</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>AlH and CaH molecules;dissociation energies;curve-fitting method</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B." last="Narasimhamurthy">Β. Narasimhamurthy</name>
+						<affiliation>Department of Post-graduate Studies and Research in Physics, University of Mysore, Mysore 570006</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ν." last="Rajamanickam">Ν. Rajamanickam</name>
+						<affiliation>Department of Post-graduate Studies and Research in Physics, University of Mysore, Mysore 570006</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-12-10</date>
+					<date type="A">1983-02-28</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Ultraviolet Variability of HD 62001 – The Central Star of the Missing Nebula V-V 1-7</title>
 				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
+				<page>0059-0063</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>variable stars;photometry;ultraviolet spectroscopy</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N. Kameswara" last="Rao">N. Kameswara Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D. P." last="Gilra">D. P. Gilra</name>
+						<affiliation>Kapteyn Astronomical Laboratory, Groningen, The Netherlands</affiliation>
 						<email />
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
+					<date type="M">1982-12-30</date>
+					<date type="A">1983-03-08</date>
 				</dates>
 			</entry>
 		</issue>
+		<issue inum="02" month="" year="1983" info="">
+			<entry hassup="0">
+				<title>Temperature Distribution in the Corona from 𝜆 5303 Å Line-width Observations: Eclipse of 1980 February 16 – Tentative Evidence for a Temperature Maximum</title>
+				<feature></feature>
+				<page>0065-0074</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>solar corona;1 5303 Å line widths;solar eclipse</keywords>
+				<authors>
+					<author>
+						<name first="J. Ν." last="Desai">J. Ν. Desai</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="T." last="Chandrasekhar">Τ. Chandrasekhar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-12-10</date>
+					<date type="A">1983-03-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Abundance Analysis of Selected Cepheids and the Galactic Distribution of Metallicity</title>
+				<feature></feature>
+				<page>0075-0107</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Cepheids, abundances;Galaxy, radial abundance gradient;spectrum synthesis</keywords>
+				<authors>
+					<author>
+						<name first="Sunetra" last="Giridhar">Sunetra Giridhar</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-01-18</date>
+					<date type="A">1983-04-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Large-scale Distribution of Quasars Identified with Strong Radio Sources at 5 GHz</title>
+				<feature></feature>
+				<page>0109-0115</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>quasars, radio-bright;quasars, distribution of</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Shastri">P. Shastri</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, ΡΟ Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last="Gopal-Krishna">Gopal-Krishna</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, ΡΟ Box 1234, Bangalore 560012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-11-30</date>
+					<date type="A">1983-05-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Astrophysical Properties of Red Giants in Three Open Clusters Older than the Hyades</title>
+				<feature></feature>
+				<page>0117-0134</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>clusters, open;photometry, 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub>/DDO;stars, abundances;stars, late-type</keywords>
+				<authors>
+					<author>
+						<name first="J. J." last="Clariá">J. J. Clariá</name>
+						<affiliation>Observatorio Astronómico, Universidad Nacional de Córdoba, Laprida 854, 5000 Córdoba, Argentina</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="E." last="Lapasset">Ε. Lapasset</name>
+						<affiliation>Observatorio Astronómico, Universidad Nacional de Córdoba, Laprida 854, 5000 Córdoba, Argentina</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-03-31</date>
+					<date type="A">1983-05-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nonlinear Development of Convective Instability within Slender Flux Tubes. I. Adiabatic Flow</title>
+				<feature></feature>
+				<page>0135-0149</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Sun, magnetic field Sun, convection fluid dynamics, unsteady flow</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-02-23</date>
+					<date type="A">1983-06-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reflection Effect in Close Binaries. III. Distribution of Radiation Incident from an Extended Source</title>
+				<feature></feature>
+				<page>0151-0159</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>reflection effect;radiative transfer;density distribution</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-01-17</date>
+					<date type="A">1983-06-17</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="" year="1983" info="">
+			<entry hassup="0">
+				<title>The Distortion Wave on the Light Curve of the RS CVn Binary UV Piscium</title>
+				<feature></feature>
+				<page>0161-0169</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>𝑈𝐵𝑉 photometry;RS CVn variables;stars, individual.</keywords>
+				<authors>
+					<author>
+						<name first="P. Vivekananda" last="Rao">P. Vivekananda Rao</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. B. K." last="Sarma">M. B. K. Sarma</name>
+						<affiliation>Centre of Advanced Study in Astronomy, Osmania University, Hyderabad 500007</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-03-07</date>
+					<date type="A">1983-07-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 9: HD 116378</title>
+				<feature></feature>
+				<page>0171-0173</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge, England CB3 OHA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-06-22</date>
+					<date type="A">1983-07-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reflection Effect in Close Binaries. IV. Limb Darkening of the Reflected Radiation Incident from an Extended Surface of the Secondary</title>
+				<feature></feature>
+				<page>0175-0182</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>reflection effect;limb darkening</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. Srinivasa" last="Rao">M. Srinivasa Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-01-24</date>
+					<date type="A">1983-07-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reflection Effect in Close Binaries. V. Effects of Reflection on Spectral Line Formation</title>
+				<feature></feature>
+				<page>0183-0189</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>reflection effect;spectral line formation</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Peraiah">A. Peraiah</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. Srinivasa" last="Rao">M. Srinivasa Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-02-09</date>
+					<date type="A">1983-07-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Are Pulsars Externally Triggered?</title>
+				<feature></feature>
+				<page>0191-0196</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>pulsars, magnetospheres</keywords>
+				<authors>
+					<author>
+						<name first="Jonathan" last="Arons">Jonathan Arons</name>
+						<affiliation>Astronomy Department and Space Sciences Laboratory, University of California, Berkeley, U.S.A</affiliation>
+						<affiliation>also Physics Department</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="John J." last="Barnard">John J. Barnard</name>
+						<affiliation>Astronomy Department and Space Sciences Laboratory, University of California, Berkeley, U.S.A</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-05-03</date>
+					<date type="A">1983-08-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Relative Abundances of Cosmic Ray Nuclei from Neon to Iron over Fort Churchill</title>
+				<feature></feature>
+				<page>0197-0204</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>cosmic rays;elemental abundances</keywords>
+				<authors>
+					<author>
+						<name first="Projit K." last="Das">Projit K. Das</name>
+						<affiliation>Pandu College, Gauhati 781012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="T. D." last="GoSWami">T. D. GoSWami</name>
+						<affiliation>Department of Physics, Gauhati University, Gauhati 781014</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-11-19</date>
+					<date type="A">1983-08-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Dependence of Brightness Distribution on the Inclination of Galaxies</title>
+				<feature></feature>
+				<page>0205-0213</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>galaxies, brightness distribution</keywords>
+				<authors>
+					<author>
+						<name first="V. Μ." last="Arreguine">V. Μ. Arreguine</name>
+						<affiliation>Observatorw Astwnomico, 5000 Cordoba, Argentina</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. L." last="Sersic">J. L. Sersic</name>
+						<affiliation>Observatorw Astwnomico, 5000 Cordoba, Argentina</affiliation>
+						<affiliation>CONICET, Buenos Aires, Argentina</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-07-17</date>
+					<date type="A">1983-08-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Observations and Interpretation of Solar Decametric Absorption Bursts</title>
+				<feature></feature>
+				<page>0215-0224</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Sun, decametric absorption bursts;ionsound turbulence</keywords>
+				<authors>
+					<author>
+						<name first="Ν." last="Gopalswamy">Ν. Gopalswamy</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Thejappa">G. Thejappa</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Raman Research Institute, Bangalore 560080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-05-04</date>
+					<date type="A">1983-09-02</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="" year="1983" info="">
+			<entry hassup="0">
+				<title>On the Shape of Elliptical Galaxies</title>
+				<feature></feature>
+				<page>0225-0233</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>elliptical galaxies, structure;elliptical galaxies, surface photometry</keywords>
+				<authors>
+					<author>
+						<name first="J. L." last="Sérsic">J. L. Sérsic</name>
+						<affiliation>Observatorio Astronomico, 5000 Córdoba, Argentina.</affiliation>
+						<affiliation>CONICET, Buenos Aires, Argentina</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. M." last="Arreguine">V. M. Arreguine</name>
+						<affiliation>Observatorio Astronomico, 5000 Córdoba, Argentina.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-07-19</date>
+					<date type="A">1983-10-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Membership of Stars in Faint Galactic Open Clusters</title>
+				<feature></feature>
+				<page>0235-0252</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>open clusters;HR diagram;objective-grating technique</keywords>
+				<authors>
+					<author>
+						<name first="G. S. D." last="Babu">G. S. D. Babu</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-07-01</date>
+					<date type="A">1983-10-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>VLA Observations of ‘Compact’ Sources in CTB 80</title>
+				<feature></feature>
+				<page>0253-0260</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>supernova remnants;radio jets</keywords>
+				<authors>
+					<author>
+						<name first="Τ." last="Velusamy">Τ. Velusamy</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research Ootacamund 643001</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Μ. R." last="Kundu">Μ. R. Kundu</name>
+						<affiliation>Astronomy Program, University of Maryland, College Park, MD 20742, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-05-16</date>
+					<date type="A">1983-10-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Production of Dayside Ionosphere of Mars</title>
+				<feature></feature>
+				<page>0261-0269</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Mars, ionosphere</keywords>
+				<authors>
+					<author>
+						<name first="R. N." last="Singh">R. N. Singh</name>
+						<affiliation>Applied Physics Section, Institute of Technology, Banaras Hindu University, Varanasi 221005</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Prasad">R. Prasad</name>
+						<affiliation>Applied Physics Section, Institute of Technology, Banaras Hindu University, Varanasi 221005</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-07-06</date>
+					<date type="A">1983-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Modelling of Seeing Effects in Extragalactic Astronomy and Cosmology</title>
+				<feature></feature>
+				<page>0271-0288</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>galaxies: elliptical;cosmology;Earth’s atmosphere: seeing</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Djorgovski">S. Djorgovski</name>
+						<affiliation>Department of Astronomy, University of California, Berkeley, CA 94720, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-09-01</date>
+					<date type="A">1983-12-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multifrequency Spectra of Solar Brightness Temperature derived from Eclipse Observations</title>
+				<feature></feature>
+				<page>0289-0293</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Sun, radio brightness temperature;maximum entropy method</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Alurkar">S. K. Alurkar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. V." last="Bhonsle">R. V. Bhonsle</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. S." last="Degaonkar">S. S. Degaonkar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380009</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="O. P. N." last="Calla">O. P. N. Calla</name>
+						<affiliation>Space Application Centre, Ahmedabad 380053</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Raju">G. Raju</name>
+						<affiliation>Space Application Centre, Ahmedabad 380053</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-08-03</date>
+					<date type="A">1983-11-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Bianchi Type I Tilted Universe</title>
+				<feature></feature>
+				<page>0295-0300</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>cosmology, Bianchi models;universe, homogeneous and tilted;universe, shear-free velocity field</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Mukherjee">G. Mukherjee</name>
+						<affiliation>Physics Department, Presidency College, Calcutta 700073</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-09-06</date>
+					<date type="A">1983-12-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Neutrino Degeneracy and the Primordial Abundance of Helium and Deuterium</title>
+				<feature></feature>
+				<page>0301-0306</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Neutrino Degeneracy and the Primordial Abundance of Helium and Deuterium</keywords>
+				<authors>
+					<author>
+						<name first="Pushpa" last="Khare">Pushpa Khare</name>
+						<affiliation>Physics Department, Utkal University, Vani Vihar, Bhubaneswar 751004</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Β. Β." last="Deo">Β. Β. Deo</name>
+						<affiliation>Physics Department, Utkal University, Vani Vihar, Bhubaneswar 751004</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-09-22</date>
+					<date type="A">1983-12-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index  &amp; Subject Index</title>
+				<feature></feature>
+				<page>0307-0313</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>		
 	</volume>	
 	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2861,7 +3623,9 @@
 				<title>Searches for Proton Decay and Superheavy Magnetic Monopoles</title>
 				<feature></feature>
 				<page>0251-0271</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -3021,7 +3785,9 @@
 				<title>Identifications and Spectra of Extragalactic Radio Sources</title>
 				<feature></feature>
 				<page>0349-0368</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -3262,7 +4028,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0507-0509</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3271,7 +4039,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0510-0513</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3463,7 +4233,9 @@
 				<title>Corrigendum: Nonconservation of Baryons in Cosmology—Revisited</title>
 				<feature></feature>
 				<page>0075-0075</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -3911,7 +4683,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0279-0280</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -3920,7 +4694,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0281-0283</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -4621,7 +5397,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0317-0319</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -4630,7 +5408,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0320-0322</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -4810,7 +5590,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0079-0079</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -5017,7 +5799,9 @@
 				<title>Concluding Remarks</title>
 				<feature></feature>
 				<page>0161-0163</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -5032,7 +5816,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0165-0167</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -5614,7 +6400,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0397-0401</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -5623,7 +6411,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0402-0407</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -5636,7 +6426,9 @@
 				<title>Editorial</title>
 				<feature></feature>
 				<page>i</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -5981,7 +6773,9 @@
 				<title>Corrigenda</title>
 				<feature></feature>
 				<page>0125-0125</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -6291,7 +7085,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0249-0251</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -6300,7 +7096,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0251-0254</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7149,7 +7947,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0445-0448</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -7158,7 +7958,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0449-0452</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8158,7 +8960,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0541-0543</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8167,7 +8971,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0545-0549</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8176,7 +8982,9 @@
 				<title>Erratum</title>
 				<feature></feature>
 				<page>0551-0551</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates>
@@ -8192,7 +9000,9 @@
 				<title>Guidelines for Authors</title>
 				<feature></feature>
 				<page>0001-0006</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8357,7 +9167,9 @@
 				<title>Erratum</title>
 				<feature></feature>
 				<page>0089-0089</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates>
@@ -8907,7 +9719,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0333-0334</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -8916,7 +9730,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0335-0337</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9091,7 +9907,9 @@
 				<title>Obituary Harlan J. Smith 1924–1991</title>
 				<feature></feature>
 				<page>0145-0149</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9514,7 +10332,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0349-0350</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9523,7 +10343,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0351-0352</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -9536,7 +10358,9 @@
 				<title>Obituary</title>
 				<feature>Jan Hendrik Oort 1900–1992</feature>
 				<page></page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -9804,7 +10628,9 @@
 				<title>Obituary</title>
 				<feature>JOHN BOLTON – Astronomer Extraordinary</feature>
 				<page>0115-0120</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10009,7 +10835,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0181-0181</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10018,7 +10846,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0183-0184</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10031,7 +10861,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0001-0001</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10040,7 +10872,9 @@
 				<title>Planck's Law and the Light Quantum Hypothesis</title>
 				<feature></feature>
 				<page>0003-0007</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10059,7 +10893,9 @@
 				<title>Correlation between Photons in Two Coherent Beams of Light</title>
 				<feature></feature>
 				<page>0013-0025</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10079,7 +10915,9 @@
 				<title>Letter to the Editor</title>
 				<feature>Nature (1956)</feature>
 				<page>0027-0032</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10255,7 +11093,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0103-0103</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10264,7 +11104,9 @@
 				<title>The Density of White Dwarf Stars</title>
 				<feature></feature>
 				<page>0105-0109</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10296,7 +11138,9 @@
 				<title>Some Remarks on the State of Matter in the Interior of Stars.</title>
 				<feature></feature>
 				<page>0119-0125</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10320,7 +11164,9 @@
 				<title>Stellar Configurations with degenerate Cores.</title>
 				<feature></feature>
 				<page>0133-0137</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10522,7 +11368,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0201-0202</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10531,7 +11379,9 @@
 				<title>On a Physical Theory of Stellar Spectra</title>
 				<feature></feature>
 				<page>0203-0239</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10549,7 +11399,9 @@
 				<title>The Maxima of Absorption Lines in Stellar Spectra</title>
 				<feature></feature>
 				<page>0241-0239</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10716,7 +11568,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0355-0355</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Indian Academy of Sciences in 1943.</keywords>
 				<authors>
 					<author>
@@ -10731,7 +11585,9 @@
 				<title>Fluctuations of light intensity in coron æ formed by diffraction</title>
 				<feature></feature>
 				<page>0357-0371</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10797,7 +11653,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0445-0446</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10806,7 +11664,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0447-0448</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -10936,7 +11796,9 @@
 				<title>The Progenitors of Pulsars</title>
 				<feature></feature>
 				<page>0069-0088</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -10964,7 +11826,9 @@
 				<title>New Pulsar/Supernova Remnant Associations</title>
 				<feature></feature>
 				<page>0089-0095</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11293,7 +12157,9 @@
 				<title>Binary Pulsars and Relativistic Gravity</title>
 				<feature></feature>
 				<page>0307-0325</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11313,7 +12179,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page></page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11509,7 +12377,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0425-0426</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11518,7 +12388,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0427-0428</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11666,7 +12538,9 @@
 				<title>Stars: Their Structure and Evolution</title>
 				<feature></feature>
 				<page>0053-0076</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11681,7 +12555,9 @@
 				<title>Neutron Stars Before 1967 and my debt to Chandra</title>
 				<feature></feature>
 				<page>0077-0079</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11696,7 +12572,9 @@
 				<title>The Stellar-Dynamical Oeuvre</title>
 				<feature></feature>
 				<page>0081-0093</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11745,7 +12623,9 @@
 				<title>S. Chandrasekhar and Magnetohydrodynamics</title>
 				<feature></feature>
 				<page>0147-0166</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11760,7 +12640,9 @@
 				<title>The Virial Method and the Classical Ellipsoids</title>
 				<feature></feature>
 				<page>0167-0182</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11775,7 +12657,9 @@
 				<title>Making the Transition from Newton to Einstein: Chandrasekhar’s Work on the Post-Newtonian Approximation and Radiation Reaction</title>
 				<feature></feature>
 				<page>0183-0197</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11790,7 +12674,9 @@
 				<title>Stability Theory of Relativistic Stars</title>
 				<feature></feature>
 				<page>0199-0211</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11805,7 +12691,9 @@
 				<title>Chandrasekhar, Black Holes, and Singularities</title>
 				<feature></feature>
 				<page>0213-0231</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11820,7 +12708,9 @@
 				<title>Chandra and his students at Yerkes Observatory</title>
 				<feature></feature>
 				<page>0233-0268</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11835,7 +12725,9 @@
 				<title>Publications</title>
 				<feature></feature>
 				<page>269-0298</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -11850,7 +12742,9 @@
 				<title>Author Index </title>
 				<feature></feature>
 				<page>0299-0299</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11859,7 +12753,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0301-0302</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -11892,7 +12788,9 @@
 				<title>To Victor Ambartsumian on His 80th Birthday</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -12278,7 +13176,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0229-0229</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -12750,7 +13650,9 @@
 				<title>Panel Discussion</title>
 				<feature></feature>
 				<page>0465-0475</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -12765,7 +13667,9 @@
 				<title>Questions and Comments that followed the Panel Discussion</title>
 				<feature></feature>
 				<page>0477-0489</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -12780,7 +13684,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0491-0492</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -12789,7 +13695,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0493-0495</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -12940,7 +13848,9 @@
 				<title>Vijay Κ. Kapahi</title>
 				<feature></feature>
 				<page>0063a</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -13120,7 +14030,9 @@
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0147-0147</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -13129,7 +14041,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0149-0149</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -13269,7 +14183,9 @@
 				<title>Formation of Giant Molecular Clouds by Aggregation in a Galactic Disc with Rigid Rotation</title>
 				<feature></feature>
 				<page>0079-0088</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Aggregation of clouds;rigid rotation.</keywords>
 				<authors>
 					<author>
@@ -13294,7 +14210,9 @@
 				<title>Preface</title>
 				<feature></feature>
 				<page>0089-0089</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -13309,7 +14227,9 @@
 				<title>New Light on the Einstein-Hilbert Priority Question</title>
 				<feature></feature>
 				<page>0091-0101</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -13587,7 +14507,9 @@
 				<title>Author Index </title>
 				<feature></feature>
 				<page>0291-0291</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -13596,7 +14518,9 @@
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0293-0294</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -13856,7 +14780,9 @@
 				<title>The Kodaikanal Observatory–A Historical Account</title>
 				<feature></feature>
 				<page>0103-0106</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -13871,7 +14797,9 @@
 				<title>Foreword</title>
 				<feature></feature>
 				<page>0111-0111</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -14020,7 +14948,9 @@
 				<title>The Large-Scale Magnetic Field and Sunspot Cycles</title>
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0161-0162</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun: magnetic field;sunspots;solar cycle.</keywords>
 				<authors>
 					<author>
@@ -14089,7 +15019,9 @@
 				<title>Is a Sunspot in Static or Dynamic Equilibrium?</title>
 				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
 				<page>0171-0172</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun;sunspot;structure.</keywords>
 				<authors>
 					<author>
@@ -14407,7 +15339,9 @@
 				<title>Twist of Magnetic Fields in Solar Active Regions</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0245-0247</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Solar active regions;solar magnetic fields.</keywords>
 				<authors>
 					<author>
@@ -14437,7 +15371,9 @@
 				<title>The Photospheric Flow near the Flare Locations of Active Regions</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0249-0250</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Active regions;magnetic field;velocity field;flare locations;shear.</keywords>
 				<authors>
 					<author>
@@ -14530,7 +15466,9 @@
 				<title>Emergence of Twisted Magnetic Flux Related Sigmoidal Brightening</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0263-0264</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun: Sigmoid;filament;sunspots.</keywords>
 				<authors>
 					<author>
@@ -14587,7 +15525,9 @@
 				<title>Parametric Study of Molecular Line Polarization in the Solar Atmosphere</title>
 				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
 				<page>0269-0269</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Molecular polarization;scattering;radiative transfer.</keywords>
 				<authors>
 					<author>
@@ -15063,7 +16003,9 @@
 				<title>Solar Internal Rotation and Dynamo Waves: A Two-Dimensional Asymptotic Solution in the Convection Zone</title>
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0379-0380</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun: magnetic fields, rotation, activity.</keywords>
 				<authors>
 					<author>
@@ -15110,7 +16052,9 @@
 				<title>Alpha-Effect, Current and Kinetic Helicities for Magnetically Driven Turbulence, and Solar Dynamo</title>
 				<feature>Session IX – Dynamo Mechanisms</feature>
 				<page>0387-0388</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun—dynamo, helicity, turbulent convection.</keywords>
 				<authors>
 					<author>
@@ -15274,7 +16218,9 @@
 				<title>The Enhanced Coronal Green Line Intensity and the Magnetic Field Gradients</title>
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0419-0420</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Sun: Corona;emergence of magnetic flux.</keywords>
 				<authors>
 					<author>
@@ -15299,7 +16245,9 @@
 				<title>Multibaseline Observations of the Occultation of Crab Nebula by the Solar Corona at Decameter Wavelengths</title>
 				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
 				<page>0421-0422</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Occultation;solar corona;density fluctuations.</keywords>
 				<authors>
 					<author>
@@ -15380,7 +16328,9 @@
 				<title>Tomography of the Solar Wind using Interplanetary Scintillation</title>
 				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
 				<page>0445-0446</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords>Tomography;solar wind;interplanetary scintillation.</keywords>
 				<authors>
 					<author>
@@ -15440,7 +16390,9 @@
 				<title>List of Participants</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0459-0461</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -15449,7 +16401,9 @@
 				<title>Author Index</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0463-0467</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
@@ -15458,7 +16412,9 @@
 				<title>Subject Index</title>
 				<feature>Session XII – Conclusion</feature>
 				<page>0469-0475</page>
-				<abstract />
+				<abstract>
+					<p></p>
+				</abstract>
 				<keywords></keywords>
 				<authors />
 				<dates />
