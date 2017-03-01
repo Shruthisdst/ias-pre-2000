@@ -605,26 +605,36 @@
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
+				</authors>
+				<authors>
 					<author>
 						<name first="N. G." last="Nanadikar">N. G. Nanadikar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
+				</authors>
+				<authors>
 					<author>
 						<name first="V. R." last="Palkar">V. R. Palkar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
+				</authors>
+				<authors>
 					<author>
 						<name first="A. K." last="Pansare">A. K. Pansare</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
+				</authors>
+				<authors>
 					<author>
 						<name first="A." last="Gurjar">A. Gurjar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
+				</authors>
+				<authors>
 					<author>
 						<name first="R." last="Vijayaraghavan">R. Vijayaraghavan</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
@@ -5496,6 +5506,323 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
+				<title>ZnS:Sm and ZnS:Cu, Sm electroluminescent phosphors</title>
+				<feature></feature>
+				<page>0405-0415</page>
+				<abstract>
+					<p>Electroluminescent ZnS:Sm and ZnS:Cu, Sm phosphors have been prepared and their electroluminescent (EL) characteristics have been studied. The time-averaged EL brightness follows the Alfrey-Taylor relation over a wide range of frequencies. The constants of this relation have been determined. The EL emission shows one main and one auxiliary peak during each half cycle of the applied voltage. Variation of current with applied voltage has also been investigated.</p>
+				</abstract>
+				<keywords>Electroluminescence;brightness-waves;ZnS:Sm and ZnS:Cu, Sm electroluminors;Alfrey-Taylor relationship.</keywords>
+				<authors>
+					<author>
+						<name first="R. C." last="Maheshwari">R. C. Maheshwari</name>
+						<affiliation>Department of Physics, University of Gorakhpur, Gorakhpur 273 001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. K." last="Tripathi">R. K. Tripathi</name>
+						<affiliation>Department of Physics, University of Gorakhpur, Gorakhpur 273 001, India</affiliation>
+						<affiliation>Permanent address: Department of Physics, S.D.J. Postgraduate College Chandesar, Azamgarh, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-04-15</date>
+					<date type="R">1983-06-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Electrical properties of CdSxSe1-x single crystals</title>
+				<feature></feature>
+				<page>0417-0424</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="D. Raju" last="Reddy">D. Raju Reddy</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. K." last="Reddy">B. K. Reddy</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. J." last="Reddy">P. J. Reddy</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Electrical conductivity, crystallinity and glass transition in vulcanised rubber</title>
+				<feature></feature>
+				<page>0425-0431</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Electrical conductivity;glass transition;x-ray powder photograph;vulcanised rubber;crystallinity.</keywords>
+				<authors>
+					<author>
+						<name first="N. P." last="Daw">N. P. Daw</name>
+						<affiliation>Department of Chemistry</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. C." last="Bhuniya">R. C. Bhuniya</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-05-08</date>
+					<date type="R">1983-01-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of zinc composition on properties of PEC cells based on sprayed Cd<sub>1-𝑥</sub>Zn<sub>𝑥</sub>S films</title>
+				<feature></feature>
+				<page>0433-0440</page>
+				<abstract>
+					<p>Polycrystalline Cd<sub>1-𝑥</sub>Zn<sub>𝑥</sub>S films were prepared by spray pyrolysis technique, both on conducting and non-conducting glasses. These films were used as photoanodes in photoelectrochemical cells. The optical and electrical properties of these cells are studied and the effect of zinc composition on these properties is revealed.</p>
+				</abstract>
+				<keywords>Spray pyrolysis technique;PEC cells;spectral responce;photovoltaic characteristics;Cd<sub>1-𝑥</sub>Zn<sub>𝑥</sub>S films</keywords>
+				<authors>
+					<author>
+						<name first="M. D." last="Uplane">M. D. Uplane</name>
+						<affiliation>Department of Physics, shivaji University. Kolhapur 416 004, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. H." last="Pawar">S. H. Pawar</name>
+						<affiliation>Department of Physics, shivaji University. Kolhapur 416 004, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-07-19</date>
+					<date type="R">1982-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Time measurement technique for internal friction studies with a torsion pendulum</title>
+				<feature></feature>
+				<page>0441-0447</page>
+				<abstract>
+					<p>A new technique for measuring internal friction by the free decay method using time measurements with a torsion pendulum is described. It has been applied for the automation of measurements with a K$\hat{e}$ type pendulum. The method enables rapid and precise measurement of internal friction. Results of the grain boundary peak for aluminium are presented for illustration.</p>
+				</abstract>
+				<keywords>Internal friction;torsion pendulum;automation of measurement;K$\hat{e}$ type pendulum.</keywords>
+				<authors>
+					<author>
+						<name first="C. N." last="Rao">C. N. Rao</name>
+						<affiliation>Metallurgy Division, Bhabha Atomic Research Centre, Bombay 400 085, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. K." last="Asundi">M. K. Asundi</name>
+						<affiliation>Metallurgy Division, Bhabha Atomic Research Centre, Bombay 400 085, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-12-10</date>
+					<date type="R">1983-01-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Microhardness and interatomic binding in some cubic-crystals</title>
+				<feature></feature>
+				<page>0449-0452</page>
+				<abstract>
+					<p>Vicker's microhardness measurements have been carried out on single crystals of CaF<sub>2</sub>, SrF<sub>2</sub>, BaF<sub>2</sub>, CdF<sub>2</sub>, PbF<sub>2</sub>, EuF<sub>2</sub>, ThO<sub>2</sub>, NaBrO<sub>3</sub>, Bi<sub>4</sub> (GeO<sub>4</sub>)<sub>3</sub>, Bi<sub>4</sub>(SiO<sub>4</sub>)<sub>3</sub>, Bi<sub>12</sub>GeO<sub>20</sub> and Bi<sub>12</sub>SiO<sub>20</sub>. The hardness values are discussed <i>vis-a-vis</i> the interatomic binding in these crystals. While most of the fluorite-type crystals are highly ionic, covalency is indicated in the bismuth compounds studied.</p>
+				</abstract>
+				<keywords>Cubic crystals;microhardness;fluorite-type crystals;interatomic binding.</keywords>
+				<authors>
+					<author>
+						<name first="K. Kishan" last="Rao">K. Kishan Rao</name>
+						<affiliation>Physics Department, Kakatiya University, Warangal 506 009, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. B." last="Sirdeshmukh">D. B. Sirdeshmukh</name>
+						<affiliation>Physics Department, Kakatiya University, Warangal 506 009, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-10-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Microhardness studies of SnI<sub>2</sub> and SnI<sub>4</sub> single crystals</title>
+				<feature></feature>
+				<page>0453-0457</page>
+				<abstract>
+					<p>The variation in the microhardness of tin-di-iodide (SnI<sub>2</sub>) and tin-tetra-iodide (SnI<sub>4</sub>) crystals has been determined using Vicker's microhardness indentor. It is observed that the microhardness of the crystals depends on the applied load and is independent of the duration of loading. Vickers Hardness Numerals (VHN) for SnI<sub>2</sub> is found to be greater than that of SnI<sub>4</sub> crystals. Mayer's equation and implications have been discussed.</p>
+				</abstract>
+				<keywords>Single crystals;indentation;microhardness;Vickers hardness;tin-di-iodide;tin-tetra-iodide.</keywords>
+				<authors>
+					<author>
+						<name first="C. C." last="Desai">C. C. Desai</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. L." last="Rai">J. L. Rai</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1982-08-16</date>
+					<date type="R">1982-11-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Changes in texture and grain size in hot rolled magnetisum and effect on yield strength</title>
+				<feature></feature>
+				<page>0459-0464</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Texture;grain size;hot-rolling;Hall-Petch relation.</keywords>
+				<authors>
+					<author>
+						<name first="G. Sambasiva" last="Rao">G. Sambasiva Rao</name>
+						<affiliation>Department of Metallurgy, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Permanent address: Department of Metallurgy, Regional Engineering College, Warangal 506 004, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Y. V. R. K." last="Prasad">Y. V. R. K. Prasad</name>
+						<affiliation>Department of Metallurgy, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Present address: AFWAL/MLLM Bl'dg. 450, Area B, Wright-Patterson Air Force Base, Dayton Ohio 45433, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1983-02-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Stroboscopic studies of the elastic behaviour of some Indian Timbers</title>
+				<feature></feature>
+				<page>0465-0468</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="M. A." last="Kareem">M. A. Kareem</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. B." last="Sirdeshmukh">D. B. Sirdeshmukh</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="006">
+		<issue inum="01" month="02" year="1984" info="">
+			<entry hassup="0">
+				<title>Ferromagnetic resonance in metallic glasses: study of fracture, stress and thermal stability</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<abstract>
+					<p>Effects of fracture, stress and isothermal annealing of Fe-Ni based metallic glasses have been investigated using the ferromagnetic resonance technique. 𝐹𝑀𝑅 linewidth is quite sensitive to changes in the magnetic and structural order in metallic glasses, and 𝐹𝑀𝑅 lineshape seems to provide useful qualitative information on the mechanical state of these systems. Our observations are compared with recent work of Baianu and co-workers. </p>
+				</abstract>
+				<keywords>Ferromagnetic resonance;metallic glasses;fracture;stress;thermal stability.</keywords>
+				<authors>
+					<author>
+						<name first="R. S." last="Parashar">R. S. Parashar</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C. S." last="Sunandana">C. S. Sunandana</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Anil K." last="Bhatnagar">Anil K. Bhatnagar</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Influence of the presence of Fe<sup>2+</sup>sup> ion in nickel-zinc ferrite</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Electron exchange;exchange constants;Jahn-Teller ion spinels;sublattices;nickel-zinc ferrite.</keywords>
+				<authors>
+					<author>
+						<name first="C. M." last="Srivastava">C. M. Srivastava</name>
+						<affiliation>Department of Physics, School of Materials Science, Indian Instiute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. N." last="Shringi">S. N. Shringi</name>
+						<affiliation>Department of Physics, School of Materials Science, Indian Instiute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. J." last="Patni">M. J. Patni</name>
+						<affiliation>Department of Physics, School of Materials Science, Indian Instiute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. M." last="Joglekar">S. M. Joglekar</name>
+						<affiliation>Department of Physics, School of Materials Science, Indian Instiute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Metal-to-ceramic bonding in (Al<sub>2</sub>O<sub>3</sub>+Fe) cermet studies by Mössbauer spectroscopy</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<abstract>
+					<p>Although a strong thermo-compression bond is formed between some metals and ceramics, the bonding mechanism is not clearly understood. In the present work <sup>57</sup>Fe Mössbauer spectroscopic study of (AL<sub>2</sub>O<sub>3</sub>) cermet is carried out to investigate the reason of adherence at the metal-ceramic interface. The isomer shift, quadrupole splitting and linewidths of Mössbauer spectra indicate that a compound of the spinel type FeO·AL<sub>2</sub>O<sub>3</sub> is formed but the site symmetry around Fe may be locally distorted by a small amount as compared to that for stoichiometric FeAL<sub>2</sub>O<sub>4</sub>.</p>
+				</abstract>
+				<keywords>Cermet;thermo-compression bonds;Mössbauer spectroscopy;spinel.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Bansal">C. Bansal</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page></page>
@@ -5623,6 +5950,1721 @@
 			</entry>
 		</issue>
 		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="" month="" year="" info="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">yyyy-mm-dd</date>
+					<date type="R"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
