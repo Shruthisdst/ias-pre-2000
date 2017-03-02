@@ -7981,7 +7981,7 @@
 		</issue>		
 	</volume>
 	<volume vnum="011">
-			<issue inum="01" month="" year="1990" info="">
+		<issue inum="01" month="03" year="1990" info="">
 			<entry hassup="0">
 				<title>The in-Plane Motion of a Geosynchronous Satellite under the Gravitational Attraction of the Sun, the Moon and the Oblate Earth</title>
 				<feature></feature>
@@ -9008,7 +9008,7 @@
 		</issue>
 	</volume>
 	<volume vnum="012">
-		<issue inum="01" month="" year="1991" info="">
+		<issue inum="01" month="03" year="1991" info="">
 			<entry hassup="0">
 				<title>Guidelines for Authors</title>
 				<feature></feature>
@@ -9753,7 +9753,7 @@
 		</issue>
 	</volume>
 	<volume vnum="013">
-		<issue inum="01" month="" year="1992" info="">
+		<issue inum="01" month="03" year="1992" info="">
 			<entry hassup="0">
 				<title>Editorial</title>
 				<feature></feature>
@@ -10366,7 +10366,7 @@
 		</issue>
 	</volume>
 	<volume vnum="014">
-		<issue inum="01" month="" year="1993" info="">
+		<issue inum="01" month="03" year="1993" info="">
 			<entry hassup="0">
 				<title>Obituary</title>
 				<feature>Jan Hendrik Oort 1900–1992</feature>
@@ -10869,7 +10869,7 @@
 		</issue>
 	</volume>
 	<volume vnum="015">
-		<issue inum="01" month="" year="1994" info="">
+		<issue inum="01" month="03" year="1994" info="">
 			<entry hassup="0">
 				<title>Preface</title>
 				<feature></feature>
@@ -12187,7 +12187,7 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="03 &amp; 04 " month="" year="1995" info="">
+		<issue inum="03-04" month="" year="1995" info="">
 			<entry hassup="0">
 				<title>Preface</title>
 				<feature></feature>
@@ -12411,7 +12411,7 @@
 		</issue>
 	</volume>
 	<volume vnum="017">
-		<issue inum="01 &amp; 02" month="" year="1996" info="">
+		<issue inum="01-02" month="06" year="1996" info="">
 			<entry hassup="0">
 				<title>The Chemical Compositions and Ages of Globular Clusters</title>
 				<feature></feature>
@@ -12546,7 +12546,7 @@
 				</dates>
 			</entry>
 		</issue>	
-		<issue inum="03 &amp; 04" month="" year="1995" info="">
+		<issue inum="03-04" month="12" year="1995" info="">
 			<entry hassup="0">
 				<title>Stars: Their Structure and Evolution</title>
 				<feature></feature>
@@ -12776,7 +12776,7 @@
 		</issue>
 	</volume>
 	<volume vnum="018">
-		<issue inum="01" month="" year="1997" info="">
+		<issue inum="01" month="06" year="1997" info="">
 			<entry hassup="0">
 				<title>In Memoriam</title>
 				<feature></feature>
@@ -13042,7 +13042,7 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="02 &amp; 03" month="" year="1997" info="">
+		<issue inum="02-03" month="" year="1997" info="">
 			<entry hassup="0">
 				<title>On the Polarisation and Emission Geometry of Pulsar 1929+10: Does Its Emission Come from a Single Pole or Two Poles?</title>
 				<feature></feature>
@@ -13717,7 +13717,7 @@
 		</issue>
 	</volume>
 	<volume vnum="019">
-		<issue inum="01-02" month="" year="1998" info="">
+		<issue inum="01-02" month="06" year="1998" info="">
 			<entry hassup="0">
 				<title>Individual and Integrated Pulse Properties of PSR B0943+10 Involved in the Mode-Changing Phenomenon</title>
 				<feature></feature>
@@ -13855,7 +13855,7 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="03-04" month="" year="1998" info="">
+		<issue inum="03-04" month="12" year="1998" info="">
 			<entry hassup="0">
 				<title>Vijay Κ. Kapahi</title>
 				<feature></feature>
@@ -14063,7 +14063,7 @@
 		</issue>
 	</volume>
 	<volume vnum="020">
-		<issue inum="01-02" month="" year="1999" info="">
+		<issue inum="01-02" month="06" year="1999" info="">
 			<entry hassup="0">
 				<title>Understanding the Spectral Energy Distributions of the Galactic Star Forming Regions IRAS 18314-0720, 18355-0532 and 18316-0602</title>
 				<feature></feature>
@@ -14217,7 +14217,7 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="03-04" month="" year="1999" info="Special issue on 'The Physics of Black holes' ">
+		<issue inum="03-04" month="12" year="1999" info="Special issue on 'The Physics of Black holes' ">
 			<entry hassup="0">
 				<title>Preface</title>
 				<feature></feature>
@@ -14540,7 +14540,7 @@
 		</issue>
 	</volume>
 	<volume vnum="021">
-		<issue inum="01-02" month="June" year="2000" info="">
+		<issue inum="01-02" month="06" year="2000" info="">
 			<entry hassup="0">
 				<title>A Measurement ofthe Cosmic Microwave Background Temperature at 1280MHz</title>
 				<feature></feature>
