@@ -2444,7 +2444,14 @@
 				<feature></feature>
 				<page>0001-0009</page>
 				<abstract>
-					<p></p>
+					<p>The effective temperatures of the classical Cepheids RT Aur and Τ Vul have been determined by a comparison of their spectral scans with appropriate model atmospheres. The radii of the stars have been determined through the Wesselink method. Using these temperatures and the Wesselink radii, the luminosities of the stars have been determined. These radii estimates, including the radii of SU Cas (Joshi &amp; Rautela 1980) and 𝜁  Gem (unpublished) fit better in the theoretical period-radius relationship given by Cogan (1978), as compared to earlier determinations of Wesselink radii. The pulsation masses and evolutionary masses of the stars have been calculated. The pulsation to evolutionary mass ratio is derived to be 0.85.</p>
+					<p>Based on the effective temperatures obtained by us at different phases of the stars a 𝜃<sub>𝑐</sub>= (𝐵-𝑉)<sub>0</sub> relationship is found of the form,</p>
+					<p>
+						\begin{align*}
+						\theta_c &amp; = 0.274 (B- V)_0 &amp; + 0.637\\
+							&amp; \pm 0.011 &amp; 0.007
+						\end{align*}
+					</p>
 				</abstract>
 				<keywords>classical Cepheids;effective temperatures;mass discrepancy</keywords>
 				<authors>
@@ -2469,7 +2476,7 @@
 				<feature></feature>
 				<page>0011-0017</page>
 				<abstract>
-					<p></p>
+					<p>We have calcualted the effects of irradiation from a point soruce observed at infinity. Plane-parallel approximation and spherically symmetric approximations are employed in calculating the self-radiation field for the sake of comparison. It is found that there are considerable changes in the radiation received at infinity between the approximation of plane-parallel stratification and spherical symmetry.</p>
 				</abstract>
 				<keywords>reflection effect;irradiation;spherical symmetry</keywords>
 				<authors>
@@ -2489,7 +2496,7 @@
 				<feature></feature>
 				<page>0019-0021</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 107742 is a spectroscopic binary with a period of 875 days and a small (but definitely non-zero) eccentricity. The star is not a member of the Coma Cluster, against which it is seen projected.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -2509,7 +2516,7 @@
 				<feature></feature>
 				<page>0023-0026</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 121844 is a spectroscopic binary with a period of 303 days, a high eccentricity (0.49) and a high negative 𝛾-velocity (– 61 km s<sup>-1</sup>).</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -2529,7 +2536,7 @@
 				<feature></feature>
 				<page>0027-0033</page>
 				<abstract>
-					<p></p>
+					<p>The study of the variation of equivalent width in a Rayleigh-scattering planetary atmosphere along the intensity equator and along the mirror meridian on which µ = µ<sub>0</sub> shows that the equivalent widths decrease monotonically towards the poles, the limb and the terminator with the following characteristics: (i) the weakest lines exhibit the maximum change; (ii) the 𝐼<sup>𝑒</sup><sub>𝑟</sub> component shows more change than the 𝐼<sup>𝑒</sup><sub>𝑙</sub> component; (iii) the decrease towards the limb or the terminator is not as sharp as that towards the poles; (iv) 𝐼<sup>𝑒</sup><sub>𝑙</sub> component shows more decrease towards the limb while 𝐼<sup>𝑒</sup><sub>𝑟</sub> component shows more decrease towards the terminator; and (v) the relation W (µ, φ; µ0, φ0) = W (µ0, φ0; µ, φ) holds for the total intensity. These results are qualitatively in agreement with the observations of absorption bands in the spectra of Venus, Jupiter and Saturn.</p>
 				</abstract>
 				<keywords>Rayleigh scattering;line profiles;planetary atmospheres</keywords>
 				<authors>
@@ -2554,7 +2561,7 @@
 				<feature></feature>
 				<page>0035-0046</page>
 				<abstract>
-					<p></p>
+					<p>The variation of the polarization profiles, the Stokes parameters Q and 𝑈, and the angle defining the plane of polarization along the intensity equator and along the mirror meridian, on which  µ = µ0, in a Rayleighscattering atmosphere is studied. It is found that these variations are more complex than thought hitherto, particularly at large phase angles.</p>
 				</abstract>
 				<keywords>Rayleigh scattering;polarization profiles;planetary atmospheres</keywords>
 				<authors>
@@ -2579,7 +2586,8 @@
 				<feature></feature>
 				<page>0047-0051</page>
 				<abstract>
-					<p></p>
+					<p>We have observed the region of the Coma cluster at 34.5 MHz with a resolution of 26 arcmin × 40 arcmin. A map of the diffuse halo (Coma C) is presented. The size of the halo is found to be 54 arcmin × 30 arcmin. The position angle is 50° ± 10° and the integrated flux is 60 ± 11 Jy.</p>
+					<p>We have also found an extended source to the south of Coma A. The measured half-power widths of this source are 30 arcmin × 40 arcmin. The position angle is 135° and the integrated flux is ~ 15 Jy at 34.5 MHz. The spectral index in the frequency range 408 to 34.5 MHz is - 1.0. It is suggested that this source also belongs to the Coma cluster.</p>
 				</abstract>
 				<keywords>cluster of galaxies;intracluster medium;radio spectra</keywords>
 				<authors>
@@ -2604,7 +2612,7 @@
 				<feature></feature>
 				<page>0053-0058</page>
 				<abstract>
-					<p></p>
+					<p>The true potential energy curves for the electronic ground states of astrophysically important AlH and CaH molecules are constructed by the Rydberg-Klein-Rees method. Empirical potential functions, of three-parameters by Lippincott, of five-parameters by Hulburt and Hirsch felder and, of electronegativity by Szöke and Baitz, are examined for the adequacy to represent the true curve. From the best-fitting function, the dissociation energies 𝐷<sup>0</sup><sub>0</sub> of AlH and CaH molecules are estimated to be 2.99 ± 0.08 and 2.72 ± 0.06 eV respectively. The force constants indicate that these values are of correct magnitude.</p>
 				</abstract>
 				<keywords>AlH and CaH molecules;dissociation energies;curve-fitting method</keywords>
 				<authors>
@@ -2629,7 +2637,7 @@
 				<feature></feature>
 				<page>0059-0063</page>
 				<abstract>
-					<p></p>
+					<p>IUE observations of HD 62001 do not confirm the ultraviolet variability of 0.15 mag seen from the ANS observations. These intriguing variations in ANS observations seem to be caused by a nearby (~ 70 arcsec away) Β star getting in and out of the field of view of the telescope, which had a jitter of 20 arcsec. There seems to be no evidence for the presence of a hot companion, either from the energy distribution or from UV variability. However, visual light variations are present. This, coupled with the radial velocity variations, indicates a binary nature probably of Algol type.</p>
 				</abstract>
 				<keywords>variable stars;photometry;ultraviolet spectroscopy</keywords>
 				<authors>
@@ -2656,7 +2664,7 @@
 				<feature></feature>
 				<page>0065-0074</page>
 				<abstract>
-					<p></p>
+					<p> Fabry-Perot interferometfic observations in the green coronal line during the total eclipse of 1980 February 16, have yielded line-width temperatures up to 1.5 𝑅<sub>⊙</sub> over a wide range of position angles. Least square analysis of the data indicates a tentative temperature maximum near 1.2 𝑅<sub>⊙</sub> from the centre of the Sun. The ratio of peak line intensity to square of the continuum intensity 𝐸<sub>line</sub>/𝐸<sub>cont<sup>2</sup></sub> appears to be inversely correlated to the temperature. Turbulent velocities calculated using this ratio and the observed line-width temperatures show a peak at ~ 10 km s<sup>-1</sup>.</p>
 				</abstract>
 				<keywords>solar corona;1 5303 Å line widths;solar eclipse</keywords>
 				<authors>
@@ -2681,7 +2689,8 @@
 				<feature></feature>
 				<page>0075-0107</page>
 				<abstract>
-					<p></p>
+					<p>We have determined the atmospheric abundances of selected Cepheids in order to study the large-scale chemical inhomogeneities across the galactic disk. The classical Cepheids were selected as probes to study the variation of metallicity in the galactic disk, because of their high intrinsic luminosity, small age and the existence of period-luminosity and period-age relationships. High dispersion spectra of programme stars WZ Sgr, X Sgr, ζ Gem, Τ Mon and SV Mon were obtained using the 102-cm reflector of Kavalur Observatory. The atmospheric abundances were determined by theoretically synthesizing the selected protions of the stellar spectrum and comparing with the observed spectra. In order to compute the theoretical spectrum, the formal solution of the equation of radiative transfer was numerically evaluated with the simplifying assumptions of local themodynamical equilibrium, plane-parallel geometry and hydrostatic equilibrium. These assumptions are reasonably good for the metallic lines of F-G supergiants and hence the observations were confined to the phases where Cepheids behave like nonvariable F-G supergiants.</p>
+					<p>The atmospheric abundances of iron-peak elements, Fe, Cr, Ti, Ca and heavier s-process elements Y, Ba, La, Ce, Sm were obtained by synthesizing a selected spectral region in the range 4330 Å – 4650 Å. We derive a radial abundance gradient for iron $$\frac{d[Fe/H]}{dr_{gc}}=- 0.056 \pm 0.08$$ for the region of galactic disk between 6.7 and 10.9 kpc from the galactic centre (assuming 𝑟<sub>gc</sub> = 8.5 kpc for the Sun). This value agrees with the one obtained from the general sample of Cepheids for which spectroscopic abundances are available, and also with the existing photometric determinations, but is shallower than the one derived by Luck (1982).</p>
 				</abstract>
 				<keywords>Cepheids, abundances;Galaxy, radial abundance gradient;spectrum synthesis</keywords>
 				<authors>
@@ -2701,7 +2710,7 @@
 				<feature></feature>
 				<page>0109-0115</page>
 				<abstract>
-					<p></p>
+					<p>The large-scale angular distribution of quasars from a complete sample of extragalactic radio sources is examined at different redshifts. The sample contains 264 quasars which have been found so far among the complete sample of 518 radio sources stronger than. 1 Jy at 5 GHz. Of these, 19 quasars have redshift 𝑧  &gt; 2. Dividing the entire sky into three separate declination zones of equal area, the counts of quasars seem to indicate a deficit of high redshift quasars in the northernmost declination zone. On the other hand, the Iow-redshift quasars $(z \lesssim 1)$ appear fairly uniformly distributed. We discuss some possible selection effects that might have led to the apparent anomaly at high redshifts and estimate the expected number of high-redshift quasars amongst the radio sources in the sample for which redshifts are presently not available.</p>
 				</abstract>
 				<keywords>quasars, radio-bright;quasars, distribution of</keywords>
 				<authors>
@@ -2726,7 +2735,7 @@
 				<feature></feature>
 				<page>0117-0134</page>
 				<abstract>
-					<p></p>
+					<p>Results from 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub> 1𝑇2 broad-band and DDO intermediate-band photometry are presented for G and Κ giants in the old open clusters NGC. 2482, NGC 3680, and IC 4651. Two independent photometric criteria have been used to separate red field stars from the physical members of the clusters. Recent calibrations of the DDO and 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub> systems have been used to derive reddening, distance moduli, metallicities, effective temperatures, and surface gravities. Rough estimates of masses have also been made. The giants of NGC 2482 and IC 4651 have CN strengths nearly identical to the Hyades giants, while those of NGC 3680 are slightly richer in CN than the nearby K giants. 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub> abundance analysis in NGC 2482 and NGC 3680 yield [Fe/H]<sub>𝑀𝑇</sub>=-0.1 ± 0.1 as derived fromthe iron lines, while abundances derived from the CNO – contaminated (𝐶 – 𝑀) index are 0.4 dex higher. Both 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub> and DDO data support the conclusion that 1C 4651, with [Fe/H]= + 0.2 ± 0.1, is on the metal rich side of the distribution of intermediate and old open clusters. Finally, the mass results suggest that the clump stars in NGC 3680 and IC 4651 could have undergone mass loss before reaching their helium core burning phase of evolution.</p>
 				</abstract>
 				<keywords>clusters, open;photometry, 𝐶𝑀𝑇<sub>1</sub>𝑇<sub>2</sub>/DDO;stars, abundances;stars, late-type</keywords>
 				<authors>
@@ -2751,7 +2760,7 @@
 				<feature></feature>
 				<page>0135-0149</page>
 				<abstract>
-					<p></p>
+					<p>The nonlinear development of convective instability within slender flux tubes is studied using the method of characteristics. It is seen that the initial magnetic field influences the development of ht einstability. The asymptotic state of the unstable tube depends on the boundary conditions. Flux tubes subjected to `open' boundary conditions show a better evidence for field amplification than those subjected to `closed' boundaryu conditions. In either case, convective instability results in the generation of significant gas flow within slender flux tubes.</p>
 				</abstract>
 				<keywords>Sun, magnetic field Sun, convection fluid dynamics, unsteady flow</keywords>
 				<authors>
@@ -2771,7 +2780,7 @@
 				<feature></feature>
 				<page>0151-0159</page>
 				<abstract>
-					<p></p>
+					<p>We have studied the effects of irradiation from an extended surface of the secondary component on the atmosphere of the primary. We have considered and isothermal and purely scattering medium. The resultant radiation field due to irradiation from an extended surface and self-radiation is different from that due to irradiation from a point source and self-radiation. In the case of the point source the middle layers of the exposed part of the atmosphere show maximum reflection while in the former case the reflection gradually decreases from the centre of the component towards the surface of the outermost layers of the atmosphere. The reflection effect appears to be strongly dependent on the density distribution of the electrons.</p>
 				</abstract>
 				<keywords>reflection effect;radiative transfer;density distribution</keywords>
 				<authors>
@@ -2793,7 +2802,7 @@
 				<feature></feature>
 				<page>0161-0169</page>
 				<abstract>
-					<p></p>
+					<p>The eclipsing binary UV Piscium was observed with the standard 𝑈𝐵𝑉 filters during 1976–77, 1977–78 and 1978–79 observing seasons with the 1.22-m reflecting telescope of the Japal-Rangapur Observatory. A wave-like distortion on the light curve noticed by Carr (1969), Oliver (1974), Sadik (1979) and Zeilik <i>et al</i>. (1982a) is confirmed by the present observations. Combining our observations with those of Carr, Oliver and Sadik, it is found that the distortion wave is moving towards decreasing orbital phase with a period of about 1200 days. The source of the observed distortion wave is found to be the hotter component.</p>
 				</abstract>
 				<keywords>𝑈𝐵𝑉 photometry;RS CVn variables;stars, individual.</keywords>
 				<authors>
@@ -2818,7 +2827,7 @@
 				<feature></feature>
 				<page>0171-0173</page>
 				<abstract>
-					<p></p>
+					<p>Photoelectric radial-velocity measurements show that HD 116378 is a spectroscopic binary with a period of 17.76 days. The visual companion star is not physically related to it.</p>
 				</abstract>
 				<keywords>radial velocities;spectroscopic binaries;stars, individual</keywords>
 				<authors>
@@ -2838,7 +2847,7 @@
 				<feature></feature>
 				<page>0175-0182</page>
 				<abstract>
-					<p></p>
+					<p>The law of limb darkening has been calculated when the atmosphere of the primary component is illuminated by the extemded surface of the secondary component in a binary system. The specific intensities calculated at infinity show marked changes when the planeparallel approximation is replaced by the assumption of spherical symmetry. The middle portions of the illuminated surface reflect maximum radiation while the innermost and outermost layers show lesser amount of reflected radiation.</p>
 				</abstract>
 				<keywords>reflection effect;limb darkening</keywords>
 				<authors>
@@ -2863,7 +2872,7 @@
 				<feature></feature>
 				<page>0183-0189</page>
 				<abstract>
-					<p></p>
+					<p>The effects of reflection on the formation of spectral lines is investigated. We have assumed a purely scattering atmosphere and studied  how the equivalent widths change due to irradiation from the secondary. Generally, the flux in the lines is increased at all frequency points, the cores of the lines receiving more flux than the wings. Moreover, the proximity of the secondary component changes the equivalent widths considerably. The further away the secondary is from the primary the higher are the equivalent widths.</p>
 				</abstract>
 				<keywords>reflection effect;spectral line formation</keywords>
 				<authors>
@@ -2888,7 +2897,7 @@
 				<feature></feature>
 				<page>0191-0196</page>
 				<abstract>
-					<p></p>
+					<p>We show that inverse Compton losses of ultrarelativistic electrons travelling upstream through the outflowing fields of a radio pulsar prevent the entry of <i>all</i> cosmic ray electrons into most pulsars' magnetospheres. We also argue that gamma ray triggering is probably not relevant, and conclude that the external triggering of electron-positron casecades proposed by Ruderman &amp; Sutherland and by Radhakrishnan is not likely to be a major contributor to the plasma dynamics of pulsars.</p>
 				</abstract>
 				<keywords>pulsars, magnetospheres</keywords>
 				<authors>
@@ -2914,7 +2923,7 @@
 				<feature></feature>
 				<page>0197-0204</page>
 				<abstract>
-					<p></p>
+					<p>The relative abundances of the nuclei from neon to iron in the energy interval 150–400 MeV/n have been estimated by using a balloon borne cellulose-nitrate plastic detector. The source abundances are obtained by extrapolating the near-earth abundances using leaky box model of cosmic ray propagation in the interstellar space. The results are compared with those of other investigators and a general agreement is obtained. However, a discrepancy arises especially in the case of A1 which is not detected in the present investigation.</p>
 				</abstract>
 				<keywords>cosmic rays;elemental abundances</keywords>
 				<authors>
@@ -2939,7 +2948,7 @@
 				<feature></feature>
 				<page>0205-0213</page>
 				<abstract>
-					<p></p>
+					<p>Α sample of 92 galaxies with published surface photometric data in 𝐵 band and inclined randomly to the line of sight is selected and used to compute the photometric parameter 𝑄<sub>𝑁</sub>. The dependence of 𝑄<sub>𝑁</sub> on the apparent flattening 𝑞 is found and discussed for different morphological groups. 𝑄<sub>𝑁</sub> is more sensitive to 𝑞 in earlier-type galaxies.</p>
 				</abstract>
 				<keywords>galaxies, brightness distribution</keywords>
 				<authors>
@@ -2965,7 +2974,7 @@
 				<feature></feature>
 				<page>0215-0224</page>
 				<abstract>
-					<p></p>
+					<p>The observations of intensity reductions or absorption bursts in the solar decametric radio-continuum are reported. The reductions are interpreted as the absorption of continuum radiation by a shock-generated ion-sound turbulence present in the layer above the continuum level. The duration of the absorption is attributed to the lifetime of the ion-sound turbulence while the depth of absorption is determined by the level of Langmuir waves generated as a result of absorption.</p>
 				</abstract>
 				<keywords>Sun, decametric absorption bursts;ionsound turbulence</keywords>
 				<authors>
@@ -3000,7 +3009,7 @@
 				<feature></feature>
 				<page>0225-0233</page>
 				<abstract>
-					<p></p>
+					<p>We propose a test for the existence of prolate elliptical galaxies based on the properties of the photometric parameters introduced in the Córdoba surface photometry.</p>
 				</abstract>
 				<keywords>elliptical galaxies, structure;elliptical galaxies, surface photometry</keywords>
 				<authors>
@@ -3026,7 +3035,7 @@
 				<feature></feature>
 				<page>0235-0252</page>
 				<abstract>
-					<p></p>
+					<p>Low-dispersion spectra of the order of 1000 Å mm<sup>-1</sup> have been obtained for stars in several faint galactic clusters with a transmission  grating placed in front of the photographic plate at the Cassegrain focus of the Kavalur 102-cm telescope. The intensity distribution in the shorter wavelengths has been taken as the principal criterion for the spectral classification of the individual stars in the area covered by the photographic plate. The uncertainty in this procedure has been found to be about two spectral subclasses. A combination of these spectral classes with the visual magnitudes derived from the image diameters on the POSS charts provide the HR diagrams for each cluster area. These diagrams are adequate to establish the cluster membership of any star to a first approximation. This technique has been tested on six galactic open clusters, four of which are well-studied. We find good agreement both in terms of the ages of the clusters and individual stellar membership.</p>
 				</abstract>
 				<keywords>open clusters;HR diagram;objective-grating technique</keywords>
 				<authors>
@@ -3046,7 +3055,7 @@
 				<feature></feature>
 				<page>0253-0260</page>
 				<abstract>
-					<p></p>
+					<p>High resolution (3 arcsec–4 arcsec) maps of three compact sources in CTB 80, observed with the Very Large Array at 6 and 20 cm wavelengths are presented. The central core consists of a limb-brightened shell (of diameter 30 arcsec) superimposed on a diffuse emission of size 75 arcsec × 45 arcsec. The compact sources 1949 + 324 and 1952 + 332 located near the tips of the southwest and northeast ridges are rather remarkable and possibilities for these to be fragments ejected by the SN are examined. 1949 + 324 is fully resolved by the 4 arcsec beam and shows structure with multiple components oriented perpendicular to the ridge. 1950 + 326 is a background radio source</p>
 				</abstract>
 				<keywords>supernova remnants;radio jets</keywords>
 				<authors>
@@ -3071,7 +3080,7 @@
 				<feature></feature>
 				<page>0261-0269</page>
 				<abstract>
-					<p></p>
+					<p>hoosing an appropriate neutral-density model of martian atmosphere, the photoionization processes have been studied. Using relevant charge transfer and recombination reactions, the equilibrium electron-ion production rates have been computed for all species. The resultant electron-density profiles are compared with the ones measured experimentally by Viking 1 and 2. The theoretical electron-density profile compares well with the measured profiles at low altitudes, but shows rather large values at higher altitudes. The observed oscillation in the electrondensity profile at high altitudes is attributed to the variable nature of impact ionization produced by suprathermal charged particles of solar wind origin.</p>
 				</abstract>
 				<keywords>Mars, ionosphere</keywords>
 				<authors>
@@ -3096,7 +3105,7 @@
 				<feature></feature>
 				<page>0271-0288</page>
 				<abstract>
-					<p></p>
+					<p>Convolution methods for modelling of astronomical seeing effects have been investigated. The advantages and disadvantages of several techniques are discussed, and particular attention is given to the fast Fourier transform (FFT) method. This method is then applied to two classes of problems, the structure of cores of elliptical galaxies, appearance of distant galaxies and the consequences of seeing effects in some cosmological tests. Estimates are presented for dimming of the central surface brightness and changes in the apparent core radius for elliptical galaxies, as well as seeing-induced changes in ellipticity. Modelling of galaxies with stellar nuclei has also been performed. Some consequences of these effects in investigations of dynamics of elliptical galaxies are addressed briefly. The influence of seeing in observational cosmology is discussed in the context of Hubble diagram (𝑚–𝑧) tests. It is shown that inadequate compensation for seeing effects can seriously distort the conclusions in such tests. Some suggestions for future work in this direction are offered.</p>
 				</abstract>
 				<keywords>galaxies: elliptical;cosmology;Earth’s atmosphere: seeing</keywords>
 				<authors>
@@ -3116,7 +3125,7 @@
 				<feature></feature>
 				<page>0289-0293</page>
 				<abstract>
-					<p></p>
+					<p>Changes in solar radio-brightness temperature were derived at 2.8,19.3 and 22.2 GHz from the observations of radio flux during the total eclipse of 1980 February 16. High-resolution MEM spectra of the brightness temperature fluctuations at the three frequencies showed periodicities ranging from 3.5 min to 128 min. Between 3.5 min and 14.6 min there are several periodicities of comparable significance common to the three operating frequencies. If the corresponding variations in brightness temperature are assumed to result from spatial variations in the solar radio emission, the observed periodicities imply scale sizes in the range 76000 km to 320000 km.</p>
 				</abstract>
 				<keywords>Sun, radio brightness temperature;maximum entropy method</keywords>
 				<authors>
@@ -3156,7 +3165,7 @@
 				<feature></feature>
 				<page>0295-0300</page>
 				<abstract>
-					<p></p>
+					<p>The Bianchi type I cosmological models have been extensively studied in the past especially as examples of the homogeneous shearing universe. This paper presents a tilted universe solution admitting this group of motion where the velocity field is shear-free but there is an energy flux term.</p>
 				</abstract>
 				<keywords>cosmology, Bianchi models;universe, homogeneous and tilted;universe, shear-free velocity field</keywords>
 				<authors>
@@ -3176,7 +3185,7 @@
 				<feature></feature>
 				<page>0301-0306</page>
 				<abstract>
-					<p></p>
+					<p>Recent observations indicate that the primordial abundance of <sup>4</sup>He could be smaller than 0.24. It may then be necessary to invoke neutrino degeneracy in the early universe to explain the primordial abundances of helium and deuterium. It is shown here that the necessary degeneracy, though small, gives rise to a large asymmetry between the present number densities of neutrinos and antineutrinos. The effect of degeneracy on the upper limit to the neutrino masses is also considered.</p>
 				</abstract>
 				<keywords>Neutrino Degeneracy and the Primordial Abundance of Helium and Deuterium</keywords>
 				<authors>
@@ -3200,17 +3209,13 @@
 				<title>Author Index  &amp; Subject Index</title>
 				<feature></feature>
 				<page>0307-0313</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors />
 				<dates />
 			</entry>
 		</issue>		
 	</volume>	
-	
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	<volume vnum="005">
 		<issue inum="01" month="" year="1984" info="">
 			<entry hassup="0">
