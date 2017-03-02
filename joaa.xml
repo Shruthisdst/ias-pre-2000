@@ -791,7 +791,7 @@
 					<date type="M">1981-01-01</date>
 					<date type="A">1981-04-20</date>
 				</dates>
-			</entry>			
+			</entry>
 			<entry hassup="0">
 				<title>Photographic Spectrophotometry of Selected Bright B and Be Stars</title>
 				<feature></feature>
@@ -1273,7 +1273,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
+						<name first="B. C." last="Low">B. C. Low</name>
 						<affiliation>Tokyo Astronomical Observatory, University of Tokyo, Mitaka, Tokyo, 181 Japan</affiliation>
 						<affiliation>Present address: High Altitude Observatory, Boulder, Colorado 80307, USA.</affiliation>
 						<email />
@@ -5929,7 +5929,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="N. Kameswara" last="Rao"></name>
+						<name first="N. Kameswara" last="Rao">N. Kameswara Rao</name>
 						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
@@ -7831,7 +7831,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
+						<name first="S. K." last="Jain">S. K. Jain</name>
 						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
@@ -9607,7 +9607,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="" last="">Samuel Slote</name>
+						<name first="Samuel" last="Slote">Samuel Slote</name>
 						<affiliation>50 East 72nd Street, New York 10021, USA</affiliation>
 						<email />
 					</author>
@@ -11158,11 +11158,6 @@
 				<authors>
 					<author>
 						<name first="S." last="Chandrasekhar">S. Chandrasekhar</name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
 						<affiliation></affiliation>
 						<email />
 					</author>
@@ -15370,7 +15365,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
+						<name first="Mei" last="Zhang">Mei Zhang</name>
 						<affiliation>Astronomical Observatory, NationalAstronomical Observatories, ChineseAcademy of Sciences, Beijing 100 012, Chin.</affiliation>
 						<email />
 					</author>
@@ -15783,7 +15778,7 @@
 						<email />
 					</author>
 					<author>
-						<name first="" last="">COROT Team</name>
+						<name first="" last="COROT Team">COROT Team</name>
 						<affiliation></affiliation>
 						<email />
 					</author>
