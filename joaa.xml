@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE journal SYSTEM "journal.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
 	<volume vnum="001">
@@ -300,14 +301,12 @@
 				<page>0129-0154</page>
 				<abstract>
 					<p>A classification scheme is proposed for the central regions of Sérsic-Pastoriza galaxies based on high resolution photographs of 50 objects in the integrated light (4000 Å–8700 Å). Structures of two different linear scales are recognized: (1) nucleus( $\lesssim$ 1 kpc) and (2) perinuclear formation (∼1·5 kpc).  The perinuclear formation is weak in class 𝐾 while the nucleus is too faint to detect in class 𝑙. In the intermediate classes 𝜖 and 𝜎 both the components are bright. Class 𝜖  has an elliptical perinuclear formation with little gas while the class 𝜎 consists of bright Η II complexes and dust. Observations of a few galaxies in the infrared and the blue ends of the image tube response show that the nucleus is generally redder than its surroundings. Equal intensity contours and the luminosity profiles are presented for the central regions of 27 galaxies. A comparison of their axial ratios with those of the parent galaxies indicates that the perinuclear formations are prolate or barlike. The dependence of the peak surface brightness of the central formation on the size of the bar is investigated as also the dependence of the central surface brightness of the bar on the size of the bar. The following major conclusions are drawn:</p>
-					<p>
-						<ol>
-							<li>The peak central surface brightness of the perinuclear formation varies as the square of the bar length. This relation implies that the bar induces the infall of gas from the bar-disk region.</li>
-							<li>The formations of class 𝜎 move towards class as star formation ceases and the massive stars die.</li>
-							<li>The class 𝑙 differs from class 𝜎  in the intensity of the burst of star formation. Low luminosity of the parent galaxies in class 𝑙  implies less infall of gas and higher domination of the bas potential on the perinuclear formation. Thus the class 𝑙 structures are more prolate than those of class 𝜎.</li>
-							<li>The central brightness of the bars varies directly as the length of the bar.</li>
-						</ol>
-					</p>
+					<ol>
+						<li>The peak central surface brightness of the perinuclear formation varies as the square of the bar length. This relation implies that the bar induces the infall of gas from the bar-disk region.</li>
+						<li>The formations of class 𝜎 move towards class as star formation ceases and the massive stars die.</li>
+						<li>The class 𝑙 differs from class 𝜎  in the intensity of the burst of star formation. Low luminosity of the parent galaxies in class 𝑙  implies less infall of gas and higher domination of the bas potential on the perinuclear formation. Thus the class 𝑙 structures are more prolate than those of class 𝜎.</li>
+						<li>The central brightness of the bars varies directly as the length of the bar.</li>
+					</ol>
 				</abstract>
 				<keywords>galaxies;central regions;bursts of star formation;surface photometry</keywords>
 				<authors>
@@ -2664,7 +2663,7 @@
 				<feature></feature>
 				<page>0065-0074</page>
 				<abstract>
-					<p> Fabry-Perot interferometfic observations in the green coronal line during the total eclipse of 1980 February 16, have yielded line-width temperatures up to 1.5 𝑅<sub>⊙</sub> over a wide range of position angles. Least square analysis of the data indicates a tentative temperature maximum near 1.2 𝑅<sub>⊙</sub> from the centre of the Sun. The ratio of peak line intensity to square of the continuum intensity 𝐸<sub>line</sub>/𝐸<sub>cont<sup>2</sup></sub> appears to be inversely correlated to the temperature. Turbulent velocities calculated using this ratio and the observed line-width temperatures show a peak at ~ 10 km s<sup>-1</sup>.</p>
+					<p>Fabry-Perot interferometfic observations in the green coronal line during the total eclipse of 1980 February 16, have yielded line-width temperatures up to 1.5 𝑅<sub>⊙</sub> over a wide range of position angles. Least square analysis of the data indicates a tentative temperature maximum near 1.2 𝑅<sub>⊙</sub> from the centre of the Sun. The ratio of peak line intensity to square of the continuum intensity 𝐸<sub>line</sub>/𝐸<sup>2</sup><sub>cont</sub> appears to be inversely correlated to the temperature. Turbulent velocities calculated using this ratio and the observed line-width temperatures show a peak at ~ 10 km s<sup>-1</sup>.</p>
 				</abstract>
 				<keywords>solar corona;1 5303 Å line widths;solar eclipse</keywords>
 				<authors>
@@ -6051,7 +6050,7 @@
 				<feature></feature>
 				<page>0241-0255</page>
 				<abstract>
-					<p>Galaxies of redshift 𝑧 \lesssim 1000$ km s<sup>-1</sup> are investigated. In the South Galactic Hemisphere there are two large concentrations of these  galaxies. One is in the direction of the centre of the Local Group, roughly aligned with Μ 31 and Μ 33. The other concentration is centred almost 80 degrees away on the sky and involves the next nearest galaxies to the Local Group, NGC 55, NGC 300 and NGC 253.</p>
+					<p>Galaxies of redshift 𝑧 $\lesssim 1000$ km s<sup>-1</sup> are investigated. In the South Galactic Hemisphere there are two large concentrations of these  galaxies. One is in the direction of the centre of the Local Group, roughly aligned with Μ 31 and Μ 33. The other concentration is centred almost 80 degrees away on the sky and involves the next nearest galaxies to the Local Group, NGC 55, NGC 300 and NGC 253.</p>
 					<p>The large scale and isolation of these concentrations, and the continuity of their redshifts require that they are all galaxies at the same, relatively close distance of the brightest group members. The fainter members of the group have higher redshifts, mimicking to some extent a Hubble relation. But if they are all at the same average distance the higher redshifts must be due to a cause other than velocity.</p>
 					<p>The redshifts of the galaxies in the central areas of these groups all obey a quantization interval of $\Delta cz_0 = 72.4$ kms<sup>-1</sup>. This is the same quantization found by William Tifft, and later by others, in all physical groups and pairs which have been tested. The quantization discovered here, however, extends over a larger interval in redshift than heretofore encountered.</p>
 					<p>The majority of redshifts used in the present analysis are accurate to ± 8 km s<sup>-1</sup>. The deviation of those redshifts from multiples of 72.4 km s<sup>-1</sup> averages ± 8.2 km s<sup>-1</sup>. The astonishing result, however, is that for those redshifts which are known more accurately, the deviation from modulo 72.4 drops to a value between 3 and 4 km s<sup>-1</sup>! The amount of relative velocity allowed these galaxies is therefore implied to be less than this extremely small value.</p>
@@ -7445,7 +7444,7 @@
 				<abstract>
 					<p>The bond dissociation energies for astrophysically important diatomic molecules have been estimated based on the derived relation </p>
 					<p>
-						<center>$S_{AB} = \bar{B}_{AB}+ 32.058 \Delta \chi$</center>
+						$S_{AB} = \bar{B}_{AB}+ 32.058 \Delta \chi$
 					</p>
 					<p>where $\bar{D}_{AB}= (D_{AA}\cdot D_{BB})\frac{1}{2}$, $\Delta \chi$ represents Pauling electronegativity difference (𝜒<sub>𝐴</sub>-𝜒<sub>𝐵</sub>). Based on the formula suggested by Reddy <i>et al.,</i> bond orders are estimated. The ambiguity arising from Parr &amp; Borkman relation is discussed. The present study supports the view of Politzer that 𝑞/(0.5𝑟<sub>𝑒</sub>)<sup>2</sup> is the correct definition of bond order. The estimated bond energies are in reasonably good agreement with the values in the literature. The bond energies estimated with the relation we suggested, for the molecules in the present study, give an error of 8.0 per cent. The corresponding error associated with Pauling’s equation is 26.8 per cent.</p>
 				</abstract>	
@@ -13493,8 +13492,7 @@
 						<name first="Sanjay" last="Jain">Sanjay Jain</name>
 						<affiliation>Centre for Theoretical Studies, Indian Institute of Science, Bangalore 560012, India</affiliation>
 						<affiliation>Also at Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560064, and Associate Member of ICTP, Trieste.</affiliation>
-						<email>jain@cts.iisc.ernet.in</email>
-						<email>jain@cts.iisc.ernet.in</email>
+						<email>jain@cts.iisc.ernet.in, jain@cts.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates />
@@ -14549,12 +14547,10 @@
 				<page>0001-0017</page>
 				<abstract>
 					<p>The absolute temperature of the cosmic microwave background (CMB) has been measured at a frequency of 1280 MHz. The observation was made with a modified version of the L-band receiver used in the Giant Metre wavelength Radio Telescope (GMRT): the feed horn was replaced by a corrugated plate and the receiver was placed on the ground, directed at zenith, and shielded from ground radiation by an aluminium screen with corrugated edges. Novel techniques have been adopted for</p>
-					<p>
-						<ul>
-							<li>reducing and cancelling unwanted contributions to the system temperature of the reveiver and</li>
-							<li>calibrating the contributions from the feed assembly and reveiver.</li>
-						</ul>
-					</p>
+					<ul>
+						<li>reducing and cancelling unwanted contributions to the system temperature of the reveiver and</li>
+						<li>calibrating the contributions from the feed assembly and reveiver.</li>
+					</ul>
 					<p>The thermodynamic temperature of the CMB is estimated to be 3.45 ± 0.78 K.</p>
 				</abstract>
 				<keywords>Cosmic microwave background;cosmology: observations.</keywords>
@@ -15860,7 +15856,7 @@
 				<title>Helioseismic Search for Magnetic Field in the Solar Interior</title>
 				<feature>Session VIII – Helioseismology</feature>
 				<page>0343-0347</page>
-<!--				<abstract />  missing the this page --> 
+				<abstract />  <!--missing the this page --> 
 				<keywords></keywords>
 				<authors>
 					<author>
