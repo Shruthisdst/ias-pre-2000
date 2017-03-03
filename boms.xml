@@ -605,36 +605,26 @@
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
-				</authors>
-				<authors>
 					<author>
 						<name first="N. G." last="Nanadikar">N. G. Nanadikar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
-				</authors>
-				<authors>
 					<author>
 						<name first="V. R." last="Palkar">V. R. Palkar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
-				</authors>
-				<authors>
 					<author>
 						<name first="A. K." last="Pansare">A. K. Pansare</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
-				</authors>
-				<authors>
 					<author>
 						<name first="A." last="Gurjar">A. Gurjar</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
 						<email />
 					</author>
-				</authors>
-				<authors>
 					<author>
 						<name first="R." last="Vijayaraghavan">R. Vijayaraghavan</name>
 						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005</affiliation>
@@ -6691,201 +6681,399 @@
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<authors>
-					<author />
-				</authors>
+				<authors />
 				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="07" year="1984" info="">
 			<entry hassup="0">
-				<title></title>
+				<title>High resolution electron microscopy of long range ordered alloys</title>
 				<feature></feature>
-				<page></page>
+				<page>0417-0452</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>High resolution electron microscopy;long range order;superstructure;modulated structure;antiphase boundries;domain structures.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Amelinkx">S. Amelinkx</name>
+						<affiliation>Rijksuniversitair Centrum Antwerpen, Groenenborgerlaan 171, B 2000-Antwerpen, Belgaum</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Van Tendeloo">G. Van Tendeloo</name>
+						<affiliation>Rijksuniversitair Centrum Antwerpen, Groenenborgerlaan 171, B 2000-Antwerpen, Belgaum</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J." last="Van Landuyt">J. Van Landuyt</name>
+						<affiliation>Rijksuniversitair Centrum Antwerpen, Groenenborgerlaan 171, B 2000-Antwerpen, Belgaum</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>High resolution electron microscopy of superconductors</title>
 				<feature></feature>
-				<page></page>
+				<page>0453-0458</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Electron microscopy;super conducting materials;radiation damage;defect structure.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="C. S." last="Pande">C. S. Pande</name>
+						<affiliation>Naval Research Laboratory, Washington D. C. 20375, USA</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>High resolution electron microscopy as a tool for structural investigations</title>
 				<feature></feature>
-				<page></page>
+				<page>0459-0475</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>High resolution electron microscopy;silicon carbide;lattice imaging;structural investigation;C-periodicity;stacking sequence;polytype in SiC.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G." last="Singh">G. Singh</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. S." last="Rai">R. S. Rai</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Scanning transmission electron microscopy and microdiffraction techniques</title>
 				<feature></feature>
-				<page></page>
+				<page>0477-0490</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Convergent beam electron diffraction;microdiffraction;surface studies.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="J. M." last="Cowley">J. M. Cowley</name>
+						<affiliation>Department of Physics, Arizona State University, Temple, Arizona 85287 USA</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Applications of scanning transmission electron microscope microanalysis in the study of materials</title>
 				<feature></feature>
-				<page></page>
+				<page>0491-0501</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Gary R." last="Purdy">Gary R. Purdy</name>
+						<affiliation>Department of Metallurgy and Materials Science, McMaster University, Hamilton, Ontario, Canada</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>X-ray microanalysis in the transmission electron microscope</title>
 				<feature></feature>
-				<page></page>
+				<page>0503-0512</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>X-ray microanalysis;transmission electron microscopy;uuantitative model;fluorescence and absorption corrections;intensity ratio;beam broadening.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G. W." last="Lorimer">G. W. Lorimer</name>
+						<affiliation>Joint University of Manchester/UMIST, Department of Metallurgy, Grosvenor Street, Manchester, M1 7HS, England.</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Analytical electron microscopy of aluminium alloys</title>
 				<feature></feature>
-				<page></page>
+				<page>0513-0535</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>High resolution analysis;x-ray microanalysis;aluminium alloy;phase identification;metastable phases.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="T. R." last="Ramachandran">T. R. Ramachandran</name>
+						<affiliation>Department of Metallurgical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. C." last="Houghton">D. C. Houghton</name>
+						<affiliation>Department of Metallurgical and Materials Science, McMaster University, Hamilton, Ontario, Canada</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. D." last="Embury">J. D. Embury</name>
+						<affiliation>Department of Metallurgical and Materials Science, McMaster University, Hamilton, Ontario, Canada</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electron microscopy of defect clusters produced by radiation damage</title>
 				<feature></feature>
-				<page></page>
+				<page>0537-0547</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Radiation damage;electron microscopy;point defect clusters;disordered zones.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Banerjee">S. Banerjee</name>
+						<affiliation>Physical Metallurggy Division, Bhabha Atomic Research Centre, Bombay 400 085, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electron microscopy of layered single crystals grown by direct vapour transport method</title>
 				<feature></feature>
-				<page></page>
+				<page>0549-0567</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Electron microscopy;transition metal dichalcogenides;growth technique;x-ray diffraction;stacking fault energy;phase transformations.</keywords>
+				<authors>
+					<author>
+						<name first="M. K." last="Agarwal">M. K. Agarwal</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. D." last="Patel">P. D. Patel</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. V." last="Patel">J. V. Patel</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. D." last="Kshatriya">J. D. Kshatriya</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Details of an imaging atom probe</title>
+				<feature></feature>
+				<page>0569-0572</page>
+				<abstract>
+					<p>An imaging atom probe has been incorporated in a conventional field ion microscope in our laboratory. The principle and instrumentation of the probe has been discussed.</p>
+				</abstract>
+				<keywords>Field ion microscope;imaging atom probe;high voltage pulser.</keywords>
+				<authors>
+					<author>
+						<name first="V. R." last="Seshadri">V. R. Seshadri</name>
+						<affiliation>Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K." last="Neelakantan">K. Neelakantan</name>
+						<affiliation>Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="E." last="Mohandas">E. Mohandas</name>
+						<affiliation>Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. S." last="Raghunathan">V. S. Raghunathan</name>
+						<affiliation>Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Field ion microscopic observations of LaB<sub>6</sub> on tungsten</title>
+				<feature></feature>
+				<page>0573-0577</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Field ion microscopy;lanthanum hexaboride;tungsten field evaporation;atomistic behaviour.</keywords>
+				<authors>
+					<author>
+						<name first="D. B." last="Joag">D. B. Joag</name>
+						<affiliation>Department of Physics, University of Poona, Pune, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. L." last="Kanitkar">P. L. Kanitkar</name>
+						<affiliation>Department of Physics, University of Poona, Pune, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. M." last="Kanitkar">M. M. Kanitkar</name>
+						<affiliation>Department of Physics, University of Poona, Pune, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. M." last="Shukla">V. M. Shukla</name>
+						<affiliation>Department of Physics, University of Poona, Pune, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Metallic glasses</title>
+				<feature></feature>
+				<page>0579-0594</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Metallic Glasses;glass-forming ability;melt quenching;rapid solidification techniques;crystallization behaviour;high-resolution microscopy;analytical microscopy.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Suryanarayana">C. Suryanarayana</name>
+						<affiliation>Centre of Advanced Study in Metallurgy, Departmnet of Metallurgical Engineering, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>High voltage electron microscope irradiation and observations in metallic glasses</title>
+				<feature></feature>
+				<page>0595-0602</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Accelerator irradiation;metallic glass;defect characteristics;high voltage electron microscopy;crystallization temperature.</keywords>
+				<authors>
+					<author>
+						<name first="R. V." last="Nandedkar">R. V. Nandedkar</name>
+						<affiliation>Materials Science Laboratory, Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. K." last="Tyagi">A. K. Tyagi</name>
+						<affiliation>Materials Science Laboratory, Reactor Research Centre, Kalpakkam 603 102, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>High resolution electron microscopic studies of HoAl<sub>3</sub>, Er<sub>0.5</sub>Gd<sub>0.5</sub>Al<sub>3</sub> and Y<sub>0.91</sub>Er<sub>0.09</sub>Al<sub>3</sub> in thin film form</title>
+				<feature></feature>
+				<page>0603-0609</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>High resolution electron microscopy;strutural characterisation;modulated phases;Al-rare system;lattice imaging.</keywords>
+				<authors>
+					<author>
+						<name first="Anand Kumar" last="Singh">Anand Kumar Singh</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ajay Kumar" last="Singh">Ajay Kumar Singh</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. S." last="Gupta">M. S. Gupta</name>
+						<affiliation>Philips India Limited, Bombay 400 018</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="O. N." last="Srivastava">O. N. Srivastava</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Electron diffraction analysis of antimony films</title>
+				<feature></feature>
+				<page>0611-0616</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Electron diffraction;antimony film;metastable crystalline states;phase change.</keywords>
+				<authors>
+					<author>
+						<name first="P. D." last="Prabhawalker">P. D. Prabhawalker</name>
+						<affiliation>Regional Sophisticated Instrumentation Centre Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Amarjit" last="Singh">Amarjit Singh</name>
+						<affiliation>Department of Physics, University of Bombay, Vidyanagari, Bombay 400 098, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Formation of lamellar M<sub>23</sub>C<sub>6</sub> on and near twin boundaries in austenitic stainless steels</title>
+				<feature></feature>
+				<page>0617-0623</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Electron diffraction;lamellar M<sub>23</sub>C<sub>6</sub>;precipitation morphology;twin boundaries.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Sasmal">B. Sasmal</name>
+						<affiliation>Department of Metallurgical Engineering, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Foreword</title>
+				<feature></feature>
+				<page>0625-0626</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="V." last="Balakrishnan">V. Balakrishnan</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Venkataraman">G. Venkataraman</name>
 						<affiliation></affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="" month="" year="" info="">
