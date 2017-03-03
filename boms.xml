@@ -5816,331 +5816,888 @@
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Mössbauer spectroscopy of titanium-substituted iron garnets</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Garnet;hyperfine field;quadrupole aplitting;iron garnet;Mössbauer spectra.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="C. M." last="Srivastava">C. M. Srivastava</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. N." last="Shringi">S. N. Shringi</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. Uma Maheshwar" last="Rao">B. Uma Maheshwar Rao</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Bahadur">D. Bahadur</name>
+						<affiliation>Advanced Centre for Materials Science, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Om" last="Prakash">Om Prakash</name>
+						<affiliation>School of Materials Science and Technology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Magnetic properties of metallic glass Fe<sub>39</sub>Ni<sub>39</sub>Mo<sub>4</sub>Si<sub>6</sub>B<sub>12</sub></title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0025</page>
+				<abstract>
+					<p>Magnetic metallic glass Fe<sub>39</sub>Ni<sub>39</sub>Mo<sub>4</sub>Si<sub>6</sub>B<sub>12</sub> has been studied by the <sup>57</sup>Fe Mössbauer spectroscopy. Mössbauer spectra consist of broad and overlapping six-line pattern below the Curie temperature. The Curie and Crystallization temperatures of this metallic glass have been determind to be 575±3 K and 725±3 K, respectively. The hyperfine magnetic field at room temperature is approximately 225 kOe. The reduced hyperfine fields of this sample decrease much faster than that observed for other iron-rich metallic glasses like Fe<sub>40</sub>Ni<sub>40</sub>B<sub>20</sub>Fe<sub>80</sub>B<sub>20</sub> etc. This behaviour is attributed to the presence of molybdenum atoms in the sample.</p>
+				</abstract>
+				<keywords>Metallic glasses;Mössbauer spectroscopy;magnetic properties.</keywords>
+				<authors>
+					<author>
+						<name first="B. Bhanu" last="Prasad">B. Bhanu Prasad</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Anil K." last="Bhatnagar">Anil K. Bhatnagar</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Venkataraman">S. Venkataraman</name>
+						<affiliation>School of Physics, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. N." last="Chandrasekharaiah">M. N. Chandrasekharaiah</name>
+						<affiliation>Bharat Heavy Electricals Limited (R &amp; D), Hyderabad 500 539, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Magnetic structure of zinc ferrite</title>
+				<feature></feature>
+				<page>0027-0031</page>
+				<abstract>
+					<p>A detailed analysis of the available experimental data has been made for the ordered phase of ZnFe<sub>2</sub>O<sub>4</sub>. The abnormally low 𝑇<sub>𝑁</sub> and observed spin arrangement have been explained on the basis of the hybridization of orbitals on the oxygen ions which gives rise to an anisotropic exchange interaction. The variation of hyperfine field and susceptibility with temperature along with the zero point reduction of the magnetic moment indicate that the ZnFe<sub>2</sub>O<sub>4</sub> is a two-dimensional antiferromagnet.</p>
+				</abstract>
+				<keywords>Critical exponents;hyperfine;magnetic structure;overlap integrals;zinc ferrite.</keywords>
+				<authors>
+					<author>
+						<name first="C. M." last="Srivastava">C. M. Srivastava</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. N." last="Shringi">S. N. Shringi</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="Vijaybabu">M. Vijaybabu</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>A Mössbauer study of hyperfine interactions in the boroferrite Fe<sub>3-𝑥</sub>Ga<sub>𝑥</sub>BO<sub>6</sub> (x=0,0·12)</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<abstract>
+					<p>Fe<sub>3</sub>BO<sub>6</sub> shows no thermal hysteresis around the phase transition temperature 𝑇<sub>𝑆𝑅</sub> = 418 K; Fe<sub>2·88</sub>Ga<sub>0·12</sub>BO<sub>6</sub> undergoes spin transition at 𝑇<sub>𝑆𝑅</sub> = 403 K resulting in a reduction of the 𝑇<sub>𝑆𝑅</sub>. Both these features are different from the reported observation on ∝-Fe<sub>2</sub>O<sub>3</sub>. The two Fe<sup>3+</sup> sites show difference in their magnetic interactions. Ga<sup>3+</sup> replaces Fe<sup>3+</sup> in random manner.</p>
+				</abstract>
+				<keywords>Spin-reorientation;thermal hysteresis;biquadratic exchange interaction;random distribution model;boroferrite;Mössbauer study;hyperfine interactions.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Vithal">M. Vithal</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Jagannathan">R. Jagannathan</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N." last="Ravi">N. Ravi</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 134, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Curie temperatures and 0<sup>𝑜</sup>K magnetic moments of zinc substituted lithium ferrites</title>
+				<feature></feature>
+				<page>0039-0045</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Ferrites;Curie temperature;magnetisation;localised spin canting;exchange parameter.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Pran" last="Kishan">Pran Kishan</name>
+						<affiliation>Solid State Physics Laboratory, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. R." last="Sagar">D. R. Sagar</name>
+						<affiliation>Solid State Physics Laboratory, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. N." last="Chatterjee">S. N. Chatterjee</name>
+						<affiliation>Solid State Physics Laboratory, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="L. K." last="Nagpaul">L. K. Nagpaul</name>
+						<affiliation>Solid State Physics Laboratory, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. K." last="Laroia">K. K. Laroia</name>
+						<affiliation>Solid State Physics Laboratory, Delhi 110 007, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Preparation of single crystal films of magnetic bubble materials - Rare earth yttrium iron gallium garnets by liquid phase epitaxy and their physical properties</title>
 				<feature></feature>
-				<page></page>
+				<page>0047-0052</page>
+				<abstract>
+					<p>The Liquid phase epitaxial growth of rare-substituted magnetic garnet films suitable for magnetic bubble domain application by both vertical and horizontal dipping using PbO and B<sub>2</sub>O<sub>3</sub> as flux reported. The dependence of various parameters on lead incorporation in the films present as inhomogeneity has been studied.</p>
+				</abstract>
+				<keywords>Liquid phase epitaxy;magnetic bubble materials;saturation temperature.</keywords>
+				<authors>
+					<author>
+						<name first="Pragati" last="Mukhopadhyay">Pragati Mukhopadhyay</name>
+						<affiliation>Advanced Centre for Research in Electronics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. Uma Maheshwar" last="Rao">B. Uma Maheshwar Rao</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Powai, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Electron transport in non-crystalline garnet films</title>
+				<feature></feature>
+				<page>0053-0057</page>
+				<abstract>
+					<p>Thin films of yttrium iron garnet (YIG) and Gd-substituted YIG of different thickness have been prepared by flash evaporation. The surface DC and AC electrical resistivity and thermopower in these films have been studied. The results are explained on the basis of Mott and Davis model in which narrow tails of localised states at the extreme valence and conduction bands and a band of localised levels near the middle of the gap. For the temperature range studied, the main condction mechanism is on account of excitation of carriers into localised states at the band edges and hopping at energies close to the band tails.</p>
+				</abstract>
+				<keywords>Thin films;non-crystalline garnet;electron transport;activation energy.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Bahadur">D. Bahadur</name>
+						<affiliation>Advanced Centre for Materials Science, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Roy">D. Roy</name>
+						<affiliation>Advanced Centre for Materials Science, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B." last="Singh">B. Singh</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Saran">D. Saran</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Development of pure and doped gamma ferric oxide</title>
+				<feature></feature>
+				<page>0059-0064</page>
+				<abstract>
+					<p>Optimum conditions and experimental details for the formation of 𝛾-Fe<sub>2</sub>O<sub>3</sub> from goethite have been worked out. In another method, a cheap complexing medium of starch was employed for precipitating acicular ferrous oxalate, which on decomposition in nitrogen and subsequent oxidation yielded acicular 𝛾-Fe<sub>2</sub>O<sub>3</sub>. On the basis of thermal decomposition in dry and moist nitrogen, DTA, XRD, GC and thermodynamic arguments, the mechanism of decomposition was elucidated. New materials obtained by doping 𝛾-Fe<sub>2</sub>O<sub>3</sub> with 1-16 atomic percent magnesium, cobalt, nickel and copper, were synthesised and characterized.</p>
+				</abstract>
+				<keywords>Magnetic recording Materials;gamma ferric oxide;thermal decomposition.</keywords>
+				<authors>
+					<author>
+						<name first="M. R." last="Anantharaman">M. R. Anantharaman</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Bombay 400 076, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K." last="Seshan">K. Seshan</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Bombay 400 076, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. N." last="Shringi">S. N. Shringi</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Bombay 400 076, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="H. V." last="Keer">H. V. Keer</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Bombay 400 076, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Dependence of microstructure on process variables in manganese zinc ferrites</title>
+				<feature></feature>
+				<page>0065-0070</page>
+				<abstract>
+					<p>The dependence of microstructure on sintering conditions during hot pressing have been investigated and the densification mechanisms have been used to explain the observed results. The effect of addition of excess ZnO content over stoichiometry on permeability has been studied in the normal sintered Mn-Zn ferrites.</p>
+				</abstract>
+				<keywords>Hot pressing;manganese zinc ferrites;densification mechanism;sintering.</keywords>
+				<authors>
+					<author>
+						<name first="N." last="Venkataramani">N. Venkataramani</name>
+						<affiliation>Advanced Centre for Research in Electronics, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Aiyar">R. Aiyar</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. S." last="Sekhar">P. S. Sekhar</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C. M." last="Srivastava">C. M. Srivastava</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>High temperature materials for magnetohydrodynamic channels</title>
+				<feature></feature>
+				<page>0071-0082</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Coal-fired MHD generator;high temperature electrode;insulator materials;metal-ceramic joint;slag ceramic interaction</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="V. K." last="Rohatgi">V. K. Rohatgi</name>
+						<affiliation>Plasma Physics Division, Bhabha Atomic Research Centre, Trombay, Bombay 400 085, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of compositional modifications on the piezoelectric properties of spray dried lead zirconate titanate ceramics</title>
 				<feature></feature>
-				<page></page>
+				<page>0083-0089</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lead zirconate titanate;piezoelectricity;ceramic materials;spray drying;sintering;amorphous character;morphotropic phase boundary.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ramji" last="Lal">Ramji Lal</name>
+						<affiliation>Department of Metallurgical Engineering, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Ramakrishnan">P. Ramakrishnan</name>
+						<affiliation>Department of Metallurgical Engineering, Indian Institute of Technology, Bombay 400 076, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Use of coal tar pitch for carbon-carbon composites</title>
 				<feature></feature>
-				<page></page>
+				<page>0091-0097</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Carbon-carbon composites;thermoplastic;carbon matrix.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. L." last="Seth">R. L. Seth</name>
+						<affiliation>Carbon Technology Unit, National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. K." last="Datta">K. K. Datta</name>
+						<affiliation>Carbon Technology Unit, National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C. L." last="Verma">C. L. Verma</name>
+						<affiliation>Carbon Technology Unit, National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C." last="Lal">C. Lal</name>
+						<affiliation>Carbon Technology Unit, National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. P." last="Mittal">V. P. Mittal</name>
+						<affiliation>Carbon Technology Unit, National Physical Laboratory, New Delhi 110 012, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Amine-cured epoxy/glass fibre composites</title>
 				<feature></feature>
-				<page></page>
+				<page>0099-0104</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Imide-amine hardness;epoxy resin.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D. S." last="Varma">D. S. Varma</name>
+						<affiliation>Department of Textile Technology, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. G." last="Raj">R. G. Raj</name>
+						<affiliation>Department of Textile Technology, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India.</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Dielectric and pyroelectric studies on triglycine sulphate-polymer composites</title>
+				<feature></feature>
+				<page>0105-0110</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Dielectric studies;pyroelectric studies;triglycine sulphate polymers.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Sreenivas">K. Sreenivas</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="T. Sudersena" last="Rao">T. Sudersena Rao</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ajay" last="Dhar">Ajay Dhar</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Abhai" last="Mansingh">Abhai Mansingh</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Elevated temperature low cycle fatigue studies on AISI 304 steel</title>
+				<feature></feature>
+				<page>0111-0118</page>
+				<abstract>
+					<p>Fully-reversed, total diametral strain-controlled low cycle fatigue tests were conducted in air at 650 and 800$^{\circ}$C, and different strain ranges on AISI type 304 stainless steel. Attempts were made to correlate Coffin-Monson relationship for elevated temperatures, Frequency modified law as proposed by Coffin was verified. The results were compared with the relationship proposed by Kanajawa and co-workers.</p>
+				</abstract>
+				<keywords>Diametral strain;low cycle fatigue;strain rates;cycle period;frequency-modified life.</keywords>
+				<authors>
+					<author>
+						<name first="N. K." last="Sinha">N. K. Sinha</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Vasudevan">P. Vasudevan</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Structure and properties of an investment-cast austenitic stainless steel</title>
+				<feature></feature>
+				<page>0119-0128</page>
+				<abstract>
+					<p>Test casting of a cast-austenitic stainless steel were made in low and high vacuum in different sizes. The effect of melting and casting environment as well as the cooling rate on delta ferrite features, mechanical properties and corrosion resistance of the casting have been discussed.</p>
+				</abstract>
+				<keywords>Microstructure;mechanical properties;corrosion resistance;vacuum casting;investment casting;austenite;delta ferrite;stainless steel.</keywords>
+				<authors>
+					<author>
+						<name first="P. M." last="Jebaraj">P. M. Jebaraj</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Malur N." last="Srinivasan">Malur N. Srinivasan</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. R." last="Seshadri">M. R. Seshadri</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
 			</entry>
 		</issue>
-		<issue inum="" month="" year="" info="">
+		<issue inum="02" month="05" year="1984" info="">
 			<entry hassup="0">
-				<title></title>
+				<title>Spophisticated equipment developed for growth and evaluation of perfection of nearly perfect crystals</title>
 				<feature></feature>
-				<page></page>
+				<page>0129-0149</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Crystal puller;microfocus x-ray generator;x-ray diffraction topography camera;x-ray diffractometer.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Krishan" last="Lal">Krishan Lal</name>
+						<affiliation>National Physical Laboratory, Hillside Road, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ajit Ram" last="Verma">Ajit Ram Verma</name>
+						<affiliation>National Physical Laboratory, Hillside Road, New Delhi 110 012, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Investigation of hydrogenous materials using neutrons</title>
 				<feature></feature>
-				<page></page>
+				<page>0151-0164</page>
 				<abstract>
-					<p></p>
+					<p>Slow neutrons have proved to be a very powerful probe for examining materials in general and hydrogenous materials in particular. In this article we review various neutron scattering techniques which have been utilised to investigate different aspects of a variety of hydrogenous materials. Translationally as well as orientationally disordered materials, ferroelectrics, superconductors, metal-hydrogen systems, Polymers and biological molecules have been chosen as illustrative examples.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Neutrons;hydrogenous materials;ferroelectrics;disordered materials;super-conductors;metal-hydrogen systems;polymers;biological molecules.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B. A." last="Dasannacharya">B. A. Dasannacharya</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Bombay 400 085, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. S." last="Goyal">P. S. Goyal</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Bombay 400 085, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electrochemical preparation of potassium gold-cyanide</title>
 				<feature></feature>
-				<page></page>
+				<page>0165-0175</page>
 				<abstract>
-					<p></p>
+					<p>The essential requirement for the industrial preparation of potassium gold cyanide (PGC) are: (a) high rate of dissolution and (b) smooth and uniform dissolution. Employing galvanostatic and potentiostatic polarisation data observations on the surface topography of anodes dissolved by both the techniques, it is shown that potentiostatic dissolution of gold in potassium cyanide at +0·345 V satisfies the above requirements.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Electrochemical preparation;anodic dissolution;gold plating salt;plating;potassium gold cyanide.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Indira" last="Rajagopal">Indira Rajagopal</name>
+						<affiliation>Materials Science Division, National Aeronautical Laboratory, Bangalore 560 017, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. R." last="Rajagopalan">S. R. Rajagopalan</name>
+						<affiliation>Materials Science Division, National Aeronautical Laboratory, Bangalore 560 017, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Hydrothermal growth of A<sup>II</sup>B<sup>VI</sup> semiconductors</title>
 				<feature></feature>
-				<page></page>
+				<page>0177-0192</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Semiconductors;hydrothermal growth;piezoelectric;electro-optic;laser devices.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="V. A." last="Kuznetsov">V. A. Kuznetsov</name>
+						<affiliation>Institute of Crystallography of USSR Academy of Sciences, Leninsky pr.59, Moscow 117 333, USSR</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="I. P." last="Kuzmina">I. P. Kuzmina</name>
+						<affiliation>Institute of Crystallography of USSR Academy of Sciences, Leninsky pr.59, Moscow 117 333, USSR</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="I. M." last="Sylvestrova">I. M. Sylvestrova</name>
+						<affiliation>Institute of Crystallography of USSR Academy of Sciences, Leninsky pr.59, Moscow 117 333, USSR</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Glass-metal particulate composites</title>
 				<feature></feature>
-				<page></page>
+				<page>0193-0200</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Glass-metal composites;oxide glasses;composites;electrical properties;optical properties;magnetic properties;mechanical properties.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D." last="Chakravorty">D. Chakravorty</name>
+						<affiliation>Central Glass and Ceramic Research Institute, Calcutta, 700 032, India</affiliation>
+						<affiliation>On leave of absence from Indian Institute of Technology, Kanpur</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Fast ion conducting lithium glasses-Review</title>
 				<feature></feature>
-				<page></page>
+				<page>0201-0221</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Glassy electrolytes;electrical conductivity;transport number;glass structure;solid state batteries.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A. R." last="Kulkarni">A. R. Kulkarni</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="H. S." last="Maiti">H. S. Maiti</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Paul">A. Paul</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Lithium solid electrolytes and their applications</title>
 				<feature></feature>
-				<page></page>
+				<page>0223-0230</page>
 				<abstract>
-					<p></p>
+					<p>The preparation, characterisation and applications of two systems of lithium ion conductors, lithium zinc germanate (Lisicon) and lithium germanate vanadate are described. Ionic conductivity studies include ac conductivity, thermopower and NMR which provide complementary information. High pressure studies and fabrication of a solid-state cell are also reported.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lithium ion conductors;NMR;high pressure;ionic conductivity studies;thermopower</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D. N." last="Bose">D. N. Bose</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Majumdar">D. Majumdar</name>
+						<affiliation>Materials Science Centre, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electronic conduction in bulk Se<sub>1-𝑥</sub>sub>Te<sub>𝑥</sub> glasses at high pressures and at low temperatures</title>
 				<feature></feature>
-				<page></page>
+				<page>0231-0242</page>
 				<abstract>
 					<p></p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Chalcogenide glasses;pressure-induced semiconductor-to-metal transitions;amorphous semiconductors.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G." last="Parthasarathy">G. Parthasarathy</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="E. S. R." last="Gopal">E. S. R. Gopal</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email />
 					</author>
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electrical properties of polycrystalline silicon and zinc oxide semiconductors</title>
 				<feature></feature>
-				<page></page>
+				<page>0243-0258</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Polycrystalline semiconductors;electrical properties;grain boundary effects;polysilion;ZnO varistors.</keywords>
+				<authors>
+					<author>
+						<name first="S. N." last="Singh">S. N. Singh</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Kumari">S. Kumari</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. K." last="Das">B. K. Das</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>MnO<sub>2</sub> catalysed carbon electrodes for dioxygen reduction in concentrated alkali</title>
+				<feature></feature>
+				<page>0259-0261</page>
+				<abstract>
+					<p>A process to deposite 𝛾-MnO<sub>2</sub> catalytic oxide onto coconut-shell charcoal substrate is described. Current-potential curves for electroreduction of dioxygen with electrodes fabricated from this catalyzed substrate are obtained in 6M KOH under ambient conditions. The performance of these electrodes is competitive with plantinized carbon electrodes.</p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="R." last="Manoharan">R. Manoharan</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. K." last="Shukla">A. K. Shukla</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Structural and magnetic investigations of some new boron containing rare earth intermetallic compounds</title>
+				<feature></feature>
+				<page>0263-0272</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Boron;rare earths;magnetic susceptibility;structural investigations.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Mallik">S. K. Mallik</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. K." last="Dhar">S. K. Dhar</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Vijayaraghavan">R. Vijayaraghavan</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>On the mechanism of pairing in the BCS theory</title>
+				<feature></feature>
+				<page>0273-0281</page>
+				<abstract>
+					<p>An explanation has been offered for the mechanism of cooper pairing in the BCS theory of superconductivity on the basis of the relativistic Darwin interaction. The theory leads to an expression for critical temperature which depends on a few atomic parameters. Calculated values of <i>T<sub>c</sub></i> for elements and alloys are in good agreement with experiment.</p>
+				</abstract>
+				<keywords>Cooper Pairing;BCS theory;superconductivity;pairing interaction;critical temperature.</keywords>
+				<authors>
+					<author>
+						<name first="C. M." last="Srivastava">C. M. Srivastava</name>
+						<affiliation>Department of Physics and Advanced Centre for Research in Electronics, Indian Institute of Technology, Bombay 400 076, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Structure and superconductivity in ternary systems of compounds</title>
+				<feature></feature>
+				<page>0283-0316</page>
+				<abstract>
+					<p>A survey of the known high <i>T<sub>c</sub></i> ternary systems of compounds is presented. Special emphasis has been placed on the part played by the crystal structure and bonding in the exhibition of high <i>T<sub>c</sub></i> superconductivity. The superconducting and other physical properties of the ternary borides have been discussed in relatively more detail. Finaly, the available guidelines from crystal and solid state chemistry points of view, have been reiterated for a search for new high <i>T<sub>c</sub></i> materials.</p>
+				</abstract>
+				<keywords>Ternary systems;superconducting compounds;metal excess systems.</keywords>
+				<authors>
+					<author>
+						<name first="G. V. Subba" last="Rao">G. V. Subba Rao</name>
+						<affiliation>Materials Science Research Centre, Indian Institute of Technology, Madras 600 036, India</affiliation>
+						<affiliation>Present Address: Alexander von Humboldt Fellow (1983-84), Anorg-Chem, Institute, Westfälische Wilhelms University, 4400 Münster, West Germany</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Geetha" last="Balakrishnan">Geetha Balakrishnan</name>
+						<affiliation>Materials Science Research Centre, Indian Institute of Technology, Madras 600 036, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Pyroelectric materials</title>
+				<feature></feature>
+				<page>0317-0325</page>
+				<abstract>
+					<p>This paper presents a review of pyroelectric materials. The physics of pyroelectric materials id described. Various pyroelectric materials are compared for their efficiency in the detection of radiation. Current trends in pyroelectric material technology are highlighted.</p>
+				</abstract>
+				<keywords>Pyroelectricity;ferroelectricity;piezoelectricity.</keywords>
+				<authors>
+					<author>
+						<name first="M. R." last="Srinivasan">M. R. Srinivasan</name>
+						<affiliation>Materials Science Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Amorphous state ferroelectricity, magnon scattering and phase stability in microparticle materials</title>
+				<feature></feature>
+				<page>0327-0338</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Microparticle;microemulsion;ferroelectricity;ferrimagnetism;magnon scattering;lead zirconate titanate;yttrium iron garnet;gamma-Fe<sub>2</sub>O<sub>3;Mössbauer spectroscopy.</sub></keywords>
+				<authors>
+					<author>
+						<name first="M. S." last="Multani">M. S. Multani</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Ayyub">P. Ayyub</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. R." last="Palkar">V. R. Palkar</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. R." last="Srinivasan">M. R. Srinivasan</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V." last="Saraswati">V. Saraswati</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Vijayaraghavan">R. Vijayaraghavan</name>
+						<affiliation>Materials Research Group, Tata Institute of Fundamental Research, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. O." last="Shah">D. O. Shah</name>
+						<affiliation>Department of Chemistry, University of Florida, Gainesville, Florida 32611, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Strutural disorder and solid state transformations in single crystals of Zn<sub>𝑥</sub>Cd<sub>1-𝑥</sub>S and Zn<sub>𝑥</sub>Mn<sub>1-𝑥</sub>S</title>
+				<feature></feature>
+				<page>0369-0393</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Strutural disorder;singel crystals;polytype structures;theroetical models.</keywords>
+				<authors>
+					<author>
+						<name first="M. T." last="Sebastian">M. T. Sebastian</name>
+						<affiliation>Physics Department, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Krishna">P. Krishna</name>
+						<affiliation>Physics Department, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The pressure-volume relation of ytterbium up to 9 GPa</title>
+				<feature></feature>
+				<page>0395-0403</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Equation of state;high pressure;x-ray diffraction;ytterbium.</keywords>
+				<authors>
+					<author>
+						<name first="S. Usha" last="Devi">S. Usha Devi</name>
+						<affiliation>Materials Science, Division, National Aeronautical Laboratory, Bangalore 560 017, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Materials Science, Division, National Aeronautical Laboratory, Bangalore 560 017, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Foreword</title>
+				<feature></feature>
+				<page>0415-0416</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
+					<author />
 				</authors>
-				<dates>
-					<date type="M">yyyy-mm-dd</date>
-					<date type="R"></date>
-					<date type="A"></date>
-				</dates>
+				<dates />
 			</entry>
 		</issue>
-		<issue inum="" month="" year="" info="">
+		<issue inum="03" month="07" year="1984" info="">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
