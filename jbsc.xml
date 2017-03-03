@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE journal SYSTEM "journal.dtd">
+
+<journal title="Journal of Biosciences" short="J. Biosci." mnemonic="JOB">
+	<volume vnum="001">
+		<issue inum="01" month="03" year="1979" info="">
+			<entry hassup="0">
+				<title>Interaction of amino acids with glycyl-glycine transport in the mammalian intestine</title>
+				<feature></feature>
+				<page>0001-0012</page>
+				<abstract>
+					<p>In order to investigate a possible interaction between free amino acids and dipeptides during their mucosal uptake in man and monkey, perfusion studies in vivo and uptake studies in vitro using labelled and non-labelled dipeptides and amino acids have been carried out. In contrast to the observations of other workers, inhibition of glycyl-glycine uptake was observed with free leucine and methioninc but not with glycine, proline, hydroxyproline or alanine. Leucine and methionine caused inhibition of cytosol glycyl-glycine hydrolase activity, while glycine had no effect. The dipeptide uptake and dipeptide hydrolysis by cytosol enzyme was competitively inhibited by leucine. Although brush border glycyl-glycine hydrolase was also inhibited by leucine, the inhibition was noncompetitive. These data indicate that a few free amino acids can interact with dipeptides during uptake. This interaction might occur either at the transport step or at the stage of intracellular dipeptide hydrolysis.</p>
+				</abstract>
+				<keywords>Intestine; peptide transport; peptidases; amino acid interaction.</keywords>
+				<authors>
+					<author>
+						<name first="V." last="GANAPATHY">V. GANAPATHY</name>
+						<affiliation>School of Life Sciences, University of Hyderabad, Hyderabad 500 001</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. D." last="HELLIER">M. D. HELLIER</name>
+						<affiliation>School of Life Sciences, University of Hyderabad, Hyderabad 500 001</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. N." last="RADHAKRISHNAN">A. N. RADHAKRISHNAN</name>
+						<affiliation>School of Life Sciences, University of Hyderabad, Hyderabad 500 001</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1978-10-27</date>
+					<date type="R">1979-01-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Studies on glutamine synthetase. Purification of the enzyme from mung bean (Phaseolus aureus) seedlings and modulation of the enzyme-antibody reaction by the substrates</title>
+				<feature></feature>
+				<page>0013-0025</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Mung bean; glutamine synthetase; antibody interactions; Phaseolus aureus.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Seethalakshmi">S. Seethalakshmi</name>
+						<affiliation>Department of Biochemistry, Indian Institute of Science, Bangalore 560012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N. Appaji" last="Rao">N. Appaji Rao</name>
+						<affiliation>Department of Biochemistry, Indian Institute of Science, Bangalore 560012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1978-11-06</date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Changes in carbohydrates and lipids during embryonic development of Antheraea mylitta (Lepidoptera)</title>
+				<feature></feature>
+				<page>0027-0033</page>
+				<abstract />
+				<keywords>Carbohydrates; lipids; metabolism; embryonic development; Antheraea mylitta.</keywords>
+				<authors>
+					<author>
+						<name first="Radha" last="Pant">Radha Pant</name>
+						<affiliation>Department of Biochemistry, The University, Allahabad 211 002</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Suman" last="Kumar">Suman Kumar</name>
+						<affiliation>Department of Biochemistry, The University, Allahabad 211 002</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Shiva Dhar" last="Singh">Shiva Dhar Singh</name>
+						<affiliation>Department of Biochemistry, The University, Allahabad 211 002</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1978-05-29</date>
+					<date type="A">1978-08-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Metal binding to pyridoxal derivatives. An NMR study of the interaction of Eu(III) with pyridoxal phosphate and pyridoxamine phosphate</title>
+				<feature></feature>
+				<page>0035-0047</page>
+				<abstract />
+				<keywords>Conformation; lanthanide; nuclear magnetic resonance; pyridoxal-5' phosphate; pyridoxamine-5'-phosphate.</keywords>
+				<authors>
+					<author>
+						<name first="B. N. Narasinga" last="Rao">B. N. Narasinga Rao</name>
+						<affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C." last="Ramakrishnan">C. Ramakrishnan</name>
+						<affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Balaram">P. Balaram</name>
+						<affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+</journal>
